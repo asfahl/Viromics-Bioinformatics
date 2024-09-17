@@ -1,0 +1,50 @@
+2024-09-17 09:17:20,927 NanoPlot 1.41.3 started with arguments Namespace(N50=True, alength=False, bam=None, barcoded=False, color='slateblue', colormap='Greens', cram=None, downsample=None, dpi=100, drop_outliers=False, fasta=None, fastq=['./data/sequences/full_barcode62.fastq.gz'], fastq_minimal=None, fastq_rich=None, feather=None, font_scale=1, format=['png'], hide_stats=False, huge=False, info_in_report=False, legacy=None, listcolormaps=False, listcolors=False, loglength=False, maxlength=None, minlength=None, minqual=None, no_N50=False, no_static=False, no_supplementary=False, outdir='./1.1_QC/10_nanoplot/full_barcode62/', path='./1.1_QC/10_nanoplot/full_barcode62/', percentqual=False, pickle=None, plots=['dot'], prefix='', raw=False, readtype='1D', runtime_until=None, store=False, summary=None, threads=10, title=None, tsv_stats=False, ubam=None, verbose=False)
+2024-09-17 09:17:20,928 Python version is: 3.7.16 (default, Jan 17 2023, 22:20:44)  [GCC 11.2.0]
+2024-09-17 09:17:20,970 Nanoget: Starting to collect statistics from plain fastq file.
+2024-09-17 09:17:20,972 Nanoget: Decompressing gzipped fastq ./data/sequences/full_barcode62.fastq.gz
+2024-09-17 09:17:24,062 NanoPlot 1.41.3 started with arguments Namespace(N50=True, alength=False, bam=None, barcoded=False, color='slateblue', colormap='Greens', cram=None, downsample=None, dpi=100, drop_outliers=False, fasta=None, fastq=['./data/sequences/full_barcode62.fastq.gz'], fastq_minimal=None, fastq_rich=None, feather=None, font_scale=1, format=['png'], hide_stats=False, huge=False, info_in_report=False, legacy=None, listcolormaps=False, listcolors=False, loglength=False, maxlength=None, minlength=None, minqual=None, no_N50=False, no_static=False, no_supplementary=False, outdir='./1.1_QC/10_nanoplot/full_barcode62/', path='./1.1_QC/10_nanoplot/full_barcode62/', percentqual=False, pickle=None, plots=['dot'], prefix='', raw=False, readtype='1D', runtime_until=None, store=False, summary=None, threads=10, title=None, tsv_stats=False, ubam=None, verbose=False)
+2024-09-17 09:17:24,063 Python version is: 3.7.16 (default, Jan 17 2023, 22:20:44)  [GCC 11.2.0]
+2024-09-17 09:17:24,106 Nanoget: Starting to collect statistics from plain fastq file.
+2024-09-17 09:17:24,108 Nanoget: Decompressing gzipped fastq ./data/sequences/full_barcode62.fastq.gz
+2024-09-17 09:18:38,952 Reduced DataFrame memory usage from 26.656997680664062Mb to 17.771331787109375Mb
+2024-09-17 09:18:39,018 Nanoget: Gathered all metrics of 1164662 reads
+2024-09-17 09:18:39,433 Calculated statistics
+2024-09-17 09:18:39,434 Using sequenced read lengths for plotting.
+2024-09-17 09:18:39,451 Removed 1 artefactual reads with very short length and very high quality.
+2024-09-17 09:18:39,860 Calculated statistics
+2024-09-17 09:18:39,863 NanoPlot:  Valid color slateblue.
+2024-09-17 09:18:39,865 NanoPlot:  Valid colormap Greens.
+2024-09-17 09:18:39,954 NanoPlot:  Creating length plots for Read length.
+2024-09-17 09:18:39,957 NanoPlot: Using 1164661 reads with read length N50 of 3980bp and maximum of 248648bp.
+2024-09-17 09:18:42,054 Saved ./1.1_QC/10_nanoplot/full_barcode62/WeightedHistogramReadlength  as png (or png for --legacy)
+2024-09-17 09:18:42,225 Reduced DataFrame memory usage from 26.656997680664062Mb to 17.771331787109375Mb
+2024-09-17 09:18:42,309 Nanoget: Gathered all metrics of 1164662 reads
+2024-09-17 09:18:42,737 Calculated statistics
+2024-09-17 09:18:42,738 Using sequenced read lengths for plotting.
+2024-09-17 09:18:42,755 Removed 1 artefactual reads with very short length and very high quality.
+2024-09-17 09:18:43,175 Calculated statistics
+2024-09-17 09:18:43,178 NanoPlot:  Valid color slateblue.
+2024-09-17 09:18:43,179 NanoPlot:  Valid colormap Greens.
+2024-09-17 09:18:43,266 NanoPlot:  Creating length plots for Read length.
+2024-09-17 09:18:43,268 NanoPlot: Using 1164661 reads with read length N50 of 3980bp and maximum of 248648bp.
+2024-09-17 09:18:44,628 Saved ./1.1_QC/10_nanoplot/full_barcode62/WeightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2024-09-17 09:18:45,688 Saved ./1.1_QC/10_nanoplot/full_barcode62/WeightedHistogramReadlength  as png (or png for --legacy)
+2024-09-17 09:18:47,037 Saved ./1.1_QC/10_nanoplot/full_barcode62/Non_weightedHistogramReadlength  as png (or png for --legacy)
+2024-09-17 09:18:48,270 Saved ./1.1_QC/10_nanoplot/full_barcode62/WeightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2024-09-17 09:18:49,708 Saved ./1.1_QC/10_nanoplot/full_barcode62/Non_weightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2024-09-17 09:18:50,113 Saved ./1.1_QC/10_nanoplot/full_barcode62/Non_weightedHistogramReadlength  as png (or png for --legacy)
+2024-09-17 09:18:52,842 Saved ./1.1_QC/10_nanoplot/full_barcode62/Non_weightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2024-09-17 09:18:53,638 Saved ./1.1_QC/10_nanoplot/full_barcode62/Yield_By_Length  as png (or png for --legacy)
+2024-09-17 09:18:53,642 Created length plots
+2024-09-17 09:18:53,711 NanoPlot: Creating Read lengths vs Average read quality plots using 1164661 reads.
+2024-09-17 09:18:57,090 Saved ./1.1_QC/10_nanoplot/full_barcode62/LengthvsQualityScatterPlot_dot  as png (or png for --legacy)
+2024-09-17 09:18:57,094 Created LengthvsQual plot
+2024-09-17 09:18:57,095 Writing html report.
+2024-09-17 09:18:57,135 Saved ./1.1_QC/10_nanoplot/full_barcode62/Yield_By_Length  as png (or png for --legacy)
+2024-09-17 09:18:57,139 Created length plots
+2024-09-17 09:18:57,140 Finished!
+2024-09-17 09:18:57,205 NanoPlot: Creating Read lengths vs Average read quality plots using 1164661 reads.
+2024-09-17 09:19:00,294 Saved ./1.1_QC/10_nanoplot/full_barcode62/LengthvsQualityScatterPlot_dot  as png (or png for --legacy)
+2024-09-17 09:19:00,302 Created LengthvsQual plot
+2024-09-17 09:19:00,304 Writing html report.
+2024-09-17 09:19:00,345 Finished!

@@ -1,0 +1,1 @@
+1.2_assembly/10_results_assembly_flye/single_assemblies/assembly.fasta

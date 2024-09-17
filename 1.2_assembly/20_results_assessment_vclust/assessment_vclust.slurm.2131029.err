@@ -1,0 +1,56 @@
+2024-09-17 21:06:52,016 [ERROR] Process /home/groups/VEO/tools/vclust/v1.0.3/bin/kmer-db build -multisample-fasta -k 25 -t 64 1.2_assembly/20_results_assessment_vclust/single_assemblies/vclust-773e5b7574/whole.txt 1.2_assembly/20_results_assessment_vclust/single_assemblies/vclust-773e5b7574/whole.kdb failed with message: Kmer-db version 2.0.3 (28.06.2024)
+S. Deorowicz, A. Gudys, M. Dlugosz, M. Kokot, and A. Danek (c) 2018
+
+Analysis started at Tue Sep 17 21:06:51 2024
+
+Building database (from fasta genomes)
+Processing samples...
+
+usage: vclust.py align -i <file> -o <file> [--filter <file>]
+                       [--filter-threshold <float>] [--outfmt <str>]
+                       [--out-ani <float>] [--out-tani <float>]
+                       [--out-gani <float>] [--out-cov <float>] [--bin <file>]
+                       [--mal <int>] [--msl <int>] [--mrd <int>] [--mqd <int>]
+                       [--reg <int>] [--aw <int>] [--am <int>] [--ar <int>]
+                       [-t <int>] [-v] [-h]
+vclust.py align: error: argument --filter: input does not exist: 1.2_assembly/20_results_assessment_vclust/single_assemblies/fltr.txt
+usage: vclust.py cluster -i <file> -o <file> --ids <file> [-r]
+                         [--algorithm <str>] [--metric <str>] [--tani <float>]
+                         [--gani <float>] [--ani <float>] [--cov <float>]
+                         [--num_alns <int>] [--leiden-resolution <float>]
+                         [--bin <file>] [-v] [-h]
+vclust.py cluster: error: argument -i/--in: input does not exist: 1.2_assembly/20_results_assessment_vclust/single_assemblies/ani.tsv
+usage: vclust.py cluster -i <file> -o <file> --ids <file> [-r]
+                         [--algorithm <str>] [--metric <str>] [--tani <float>]
+                         [--gani <float>] [--ani <float>] [--cov <float>]
+                         [--num_alns <int>] [--leiden-resolution <float>]
+                         [--bin <file>] [-v] [-h]
+vclust.py cluster: error: argument -i/--in: input does not exist: 1.2_assembly/20_results_assessment_vclust/single_assemblies/ani.tsv
+usage: vclust.py cluster -i <file> -o <file> --ids <file> [-r]
+                         [--algorithm <str>] [--metric <str>] [--tani <float>]
+                         [--gani <float>] [--ani <float>] [--cov <float>]
+                         [--num_alns <int>] [--leiden-resolution <float>]
+                         [--bin <file>] [-v] [-h]
+vclust.py cluster: error: argument -i/--in: input does not exist: 1.2_assembly/20_results_assessment_vclust/single_assemblies/ani.tsv
+usage: vclust.py cluster -i <file> -o <file> --ids <file> [-r]
+                         [--algorithm <str>] [--metric <str>] [--tani <float>]
+                         [--gani <float>] [--ani <float>] [--cov <float>]
+                         [--num_alns <int>] [--leiden-resolution <float>]
+                         [--bin <file>] [-v] [-h]
+vclust.py cluster: error: argument -i/--in: input does not exist: 1.2_assembly/20_results_assessment_vclust/single_assemblies/ani.tsv
+Traceback (most recent call last):
+  File "/home/qe76qox/Viromics-Bioinformatics/python_scripts/assembly/20_run_filter_representatives.py", line 30, in <module>
+    main()
+  File "/home/qe76qox/Viromics-Bioinformatics/python_scripts/assembly/20_run_filter_representatives.py", line 16, in main
+    cluster_reps_df = pd.read_csv(cluster_reps_filename, sep='\t')
+  File "/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+  File "/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/pandas/io/common.py", line 873, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/qe76qox/Viromics-Bioinformatics/1.2_assembly/20_results_assessment_vclust/single_assemblies/clusterreps.tsv'

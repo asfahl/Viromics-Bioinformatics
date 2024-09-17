@@ -1,0 +1,23 @@
+2024-09-17 10:27:43,497 NanoPlot 1.41.3 started with arguments Namespace(N50=True, alength=False, bam=None, barcoded=False, color='slateblue', colormap='Greens', cram=None, downsample=None, dpi=100, drop_outliers=False, fasta=None, fastq=['./1.1_QC/20_chopper/full_barcode62_filtered_reads.fastq.gz'], fastq_minimal=None, fastq_rich=None, feather=None, font_scale=1, format=['png'], hide_stats=False, huge=False, info_in_report=False, legacy=None, listcolormaps=False, listcolors=False, loglength=False, maxlength=None, minlength=None, minqual=None, no_N50=False, no_static=False, no_supplementary=False, outdir='./1.1_QC/20_chopper/checked_files/full_barcode62_filtered_reads/', path='./1.1_QC/20_chopper/checked_files/full_barcode62_filtered_reads/', percentqual=False, pickle=None, plots=['dot'], prefix='', raw=False, readtype='1D', runtime_until=None, store=False, summary=None, threads=10, title=None, tsv_stats=False, ubam=None, verbose=False)
+2024-09-17 10:27:43,498 Python version is: 3.7.16 (default, Jan 17 2023, 22:20:44)  [GCC 11.2.0]
+2024-09-17 10:27:43,540 Nanoget: Starting to collect statistics from plain fastq file.
+2024-09-17 10:27:43,547 Nanoget: Decompressing gzipped fastq ./1.1_QC/20_chopper/full_barcode62_filtered_reads.fastq.gz
+2024-09-17 10:27:52,042 Reduced DataFrame memory usage from 0.42469024658203125Mb to 0.2831268310546875Mb
+2024-09-17 10:27:52,054 Nanoget: Gathered all metrics of 18555 reads
+2024-09-17 10:27:52,087 Calculated statistics
+2024-09-17 10:27:52,089 Using sequenced read lengths for plotting.
+2024-09-17 10:27:52,093 NanoPlot:  Valid color slateblue.
+2024-09-17 10:27:52,095 NanoPlot:  Valid colormap Greens.
+2024-09-17 10:27:52,100 NanoPlot:  Creating length plots for Read length.
+2024-09-17 10:27:52,101 NanoPlot: Using 18555 reads with read length N50 of 10917bp and maximum of 39971bp.
+2024-09-17 10:27:54,135 Saved ./1.1_QC/20_chopper/checked_files/full_barcode62_filtered_reads/WeightedHistogramReadlength  as png (or png for --legacy)
+2024-09-17 10:27:56,023 Saved ./1.1_QC/20_chopper/checked_files/full_barcode62_filtered_reads/WeightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2024-09-17 10:27:57,870 Saved ./1.1_QC/20_chopper/checked_files/full_barcode62_filtered_reads/Non_weightedHistogramReadlength  as png (or png for --legacy)
+2024-09-17 10:27:59,740 Saved ./1.1_QC/20_chopper/checked_files/full_barcode62_filtered_reads/Non_weightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2024-09-17 10:28:03,182 Saved ./1.1_QC/20_chopper/checked_files/full_barcode62_filtered_reads/Yield_By_Length  as png (or png for --legacy)
+2024-09-17 10:28:03,185 Created length plots
+2024-09-17 10:28:03,192 NanoPlot: Creating Read lengths vs Average read quality plots using 18555 reads.
+2024-09-17 10:28:05,896 Saved ./1.1_QC/20_chopper/checked_files/full_barcode62_filtered_reads/LengthvsQualityScatterPlot_dot  as png (or png for --legacy)
+2024-09-17 10:28:05,900 Created LengthvsQual plot
+2024-09-17 10:28:05,901 Writing html report.
+2024-09-17 10:28:05,930 Finished!

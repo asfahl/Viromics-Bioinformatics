@@ -1,0 +1,12 @@
+[samfaipath] build FASTA index...
+[M::mm_idx_gen::1.373*0.56] collected minimizers
+[M::mm_idx_gen::1.556*1.23] sorted minimizers
+[M::main::1.556*1.23] loaded/built the index for 1140 target sequence(s)
+[M::mm_mapopt_update::1.609*1.23] mid_occ = 10
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1140
+[M::mm_idx_stat::1.635*1.22] distinct minimizers: 2715235 (94.46% are singletons); average occurrences: 1.066; average spacing: 5.357; total length: 15511574
+[M::worker_pipeline::3.615*5.04] mapped 1560 sequences
+[M::main] Version: 2.24-r1155-dirty
+[M::main] CMD: flye-minimap2 -x map-ont -t 30 -a -p 0.5 -N 10 --sam-hit-only -L -K 1G -z 1000 -Q --secondary-seq -I 64G /home/qe76qox/Viromics-Bioinformatics/1.2_assembly/10_results_assembly_flye/40-polishing/filtered_contigs.fasta /home/qe76qox/Viromics-Bioinformatics/1.2_assembly/10_results_assembly_flye/30-contigger/graph_final.fasta
+[M::main] Real time: 3.632 sec; CPU: 18.219 sec; Peak RSS: 1.775 GB
+[bam_sort_core] merging from 0 files and 4 in-memory blocks...

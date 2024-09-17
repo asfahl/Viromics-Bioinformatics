@@ -1,0 +1,11 @@
+[M::mm_idx_gen::3.716*0.59] collected minimizers
+[M::mm_idx_gen::4.372*1.53] sorted minimizers
+[M::main::4.372*1.53] loaded/built the index for 2821 target sequence(s)
+[M::mm_mapopt_update::4.534*1.51] mid_occ = 10
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 2821
+[M::mm_idx_stat::4.647*1.49] distinct minimizers: 7018406 (87.02% are singletons); average occurrences: 1.168; average spacing: 5.354; total length: 43895917
+[M::worker_pipeline::21.414*15.46] mapped 80614 sequences
+[M::main] Version: 2.24-r1155-dirty
+[M::main] CMD: flye-minimap2 -x map-ont -t 30 -a -p 0.5 -N 10 --sam-hit-only -L -K 1G -z 1000 -Q --secondary-seq -I 64G /home/qe76qox/Viromics-Bioinformatics/1.2_assembly/10_results_assembly_flye/00-assembly/draft_assembly.fasta /home/qe76qox/Viromics-Bioinformatics/1.1_QC/20_chopper/all_samples.fastq.gz
+[M::main] Real time: 21.440 sec; CPU: 330.993 sec; Peak RSS: 12.949 GB
+[bam_sort_core] merging from 0 files and 4 in-memory blocks...

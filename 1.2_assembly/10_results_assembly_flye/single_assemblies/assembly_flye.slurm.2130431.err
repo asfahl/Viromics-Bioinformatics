@@ -1,0 +1,199 @@
+[2024-09-17 15:09:31] INFO: Starting Flye 2.9.2-b1786
+[2024-09-17 15:09:31] INFO: >>>STAGE: configure
+[2024-09-17 15:09:31] INFO: Configuring run
+[2024-09-17 15:09:34] INFO: Total read length: 108247953
+[2024-09-17 15:09:34] INFO: Reads N50/N90: 10917 / 2275
+[2024-09-17 15:09:34] INFO: Minimum overlap set to 2000
+[2024-09-17 15:09:34] INFO: >>>STAGE: assembly
+[2024-09-17 15:09:34] INFO: Assembling disjointigs
+[2024-09-17 15:09:34] INFO: Reading sequences
+[2024-09-17 15:09:37] INFO: Counting k-mers:
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:10:26] INFO: Filling index table (1/2)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:10:28] INFO: Filling index table (2/2)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:10:31] INFO: Extending reads
+[2024-09-17 15:10:35] INFO: Overlap-based coverage: 1
+[2024-09-17 15:10:35] INFO: Median overlap divergence: 0.0577894
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:10:42] INFO: Assembled 975 disjointigs
+[2024-09-17 15:10:42] INFO: Generating sequence
+0% 10% 20% 30% % 40% 6050% % % % % 80% % 90% 100% 
+[2024-09-17 15:10:44] INFO: Filtering contained disjointigs
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:10:44] INFO: Contained seqs: 19
+[2024-09-17 15:10:45] INFO: >>>STAGE: consensus
+[2024-09-17 15:10:45] INFO: Running Minimap2
+[2024-09-17 15:11:34] INFO: Computing consensus
+[2024-09-17 15:11:41] INFO: Alignment error rate: 0.125362
+[2024-09-17 15:11:41] INFO: >>>STAGE: repeat
+[2024-09-17 15:11:41] INFO: Building and resolving repeat graph
+[2024-09-17 15:11:41] INFO: Parsing disjointigs
+[2024-09-17 15:11:42] INFO: Building repeat graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:11:46] INFO: Median overlap divergence: 0.197218
+[2024-09-17 15:11:50] INFO: Parsing reads
+[2024-09-17 15:11:52] INFO: Aligning reads to the graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:11:58] INFO: Aligned read sequence: 38364928 / 99419734 (0.385888)
+[2024-09-17 15:11:58] INFO: Median overlap divergence: 0.0305942
+[2024-09-17 15:11:58] INFO: Mean edge coverage: 2
+[2024-09-17 15:12:04] INFO: Simplifying the graph
+[2024-09-17 15:12:08] INFO: >>>STAGE: contigger
+[2024-09-17 15:12:08] INFO: Generating contigs
+[2024-09-17 15:12:08] INFO: Reading sequences
+[2024-09-17 15:12:12] INFO: Generated 252 contigs
+[2024-09-17 15:12:12] INFO: Added 0 scaffold connections
+[2024-09-17 15:12:12] INFO: >>>STAGE: polishing
+[2024-09-17 15:12:12] INFO: Polishing genome (1/1)
+[2024-09-17 15:12:12] INFO: Running minimap2
+[2024-09-17 15:12:28] INFO: Separating alignment into bubbles
+[2024-09-17 15:12:34] INFO: Alignment error rate: 0.132185
+[2024-09-17 15:12:34] INFO: Correcting bubbles
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:16:19] INFO: >>>STAGE: finalize
+[2024-09-17 15:16:20] INFO: Assembly statistics:
+
+	Total length:	3970444
+	Fragments:	214
+	Fragments N50:	27990
+	Largest frg:	85036
+	Scaffolds:	0
+	Mean coverage:	5
+
+[2024-09-17 15:16:20] INFO: Final assembly: /home/qe76qox/Viromics-Bioinformatics/1.2_assembly/10_results_assembly_flye/single_assemblies/barcode62/assembly.fasta
+[2024-09-17 15:16:20] INFO: Starting Flye 2.9.2-b1786
+[2024-09-17 15:16:20] INFO: >>>STAGE: configure
+[2024-09-17 15:16:20] INFO: Configuring run
+[2024-09-17 15:16:23] INFO: Total read length: 111551883
+[2024-09-17 15:16:23] INFO: Reads N50/N90: 6859 / 1322
+[2024-09-17 15:16:23] INFO: Minimum overlap set to 1000
+[2024-09-17 15:16:23] INFO: >>>STAGE: assembly
+[2024-09-17 15:16:23] INFO: Assembling disjointigs
+[2024-09-17 15:16:23] INFO: Reading sequences
+[2024-09-17 15:16:27] INFO: Counting k-mers:
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:17:17] INFO: Filling index table (1/2)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:17:19] INFO: Filling index table (2/2)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:17:23] INFO: Extending reads
+[2024-09-17 15:17:25] INFO: Overlap-based coverage: 1
+[2024-09-17 15:17:25] INFO: Median overlap divergence: 0.0579161
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:17:31] INFO: Assembled 822 disjointigs
+[2024-09-17 15:17:31] INFO: Generating sequence
+0% 10% 20% 30% 40% 50% 60% % 70% % % % 90% 100% 
+[2024-09-17 15:17:34] INFO: Filtering contained disjointigs
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:17:35] INFO: Contained seqs: 20
+[2024-09-17 15:17:35] INFO: >>>STAGE: consensus
+[2024-09-17 15:17:35] INFO: Running Minimap2
+[2024-09-17 15:17:48] INFO: Computing consensus
+[2024-09-17 15:17:53] INFO: Alignment error rate: 0.117099
+[2024-09-17 15:17:53] INFO: >>>STAGE: repeat
+[2024-09-17 15:17:53] INFO: Building and resolving repeat graph
+[2024-09-17 15:17:54] INFO: Parsing disjointigs
+[2024-09-17 15:17:54] INFO: Building repeat graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:17:58] INFO: Median overlap divergence: 0.238223
+[2024-09-17 15:18:01] INFO: Parsing reads
+[2024-09-17 15:18:03] INFO: Aligning reads to the graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:18:09] INFO: Aligned read sequence: 34341883 / 111518883 (0.307947)
+[2024-09-17 15:18:09] INFO: Median overlap divergence: 0.0304459
+[2024-09-17 15:18:09] INFO: Mean edge coverage: 3
+[2024-09-17 15:18:16] INFO: Simplifying the graph
+[2024-09-17 15:18:20] INFO: >>>STAGE: contigger
+[2024-09-17 15:18:20] INFO: Generating contigs
+[2024-09-17 15:18:20] INFO: Reading sequences
+[2024-09-17 15:18:24] INFO: Generated 286 contigs
+[2024-09-17 15:18:24] INFO: Added 0 scaffold connections
+[2024-09-17 15:18:25] INFO: >>>STAGE: polishing
+[2024-09-17 15:18:25] INFO: Polishing genome (1/1)
+[2024-09-17 15:18:25] INFO: Running minimap2
+[2024-09-17 15:19:14] INFO: Separating alignment into bubbles
+[2024-09-17 15:19:21] INFO: Alignment error rate: 0.108961
+[2024-09-17 15:19:21] INFO: Correcting bubbles
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:23:03] INFO: >>>STAGE: finalize
+[2024-09-17 15:23:03] INFO: Assembly statistics:
+
+	Total length:	3138999
+	Fragments:	221
+	Fragments N50:	21888
+	Largest frg:	86140
+	Scaffolds:	0
+	Mean coverage:	7
+
+[2024-09-17 15:23:03] INFO: Final assembly: /home/qe76qox/Viromics-Bioinformatics/1.2_assembly/10_results_assembly_flye/single_assemblies/barcode63/assembly.fasta
+[2024-09-17 15:23:04] INFO: Starting Flye 2.9.2-b1786
+[2024-09-17 15:23:04] INFO: >>>STAGE: configure
+[2024-09-17 15:23:04] INFO: Configuring run
+[2024-09-17 15:23:06] INFO: Total read length: 104064018
+[2024-09-17 15:23:06] INFO: Reads N50/N90: 6101 / 1304
+[2024-09-17 15:23:06] INFO: Minimum overlap set to 1000
+[2024-09-17 15:23:06] INFO: >>>STAGE: assembly
+[2024-09-17 15:23:06] INFO: Assembling disjointigs
+[2024-09-17 15:23:06] INFO: Reading sequences
+[2024-09-17 15:23:10] INFO: Counting k-mers:
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:24:00] INFO: Filling index table (1/2)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:24:02] INFO: Filling index table (2/2)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:24:05] INFO: Extending reads
+[2024-09-17 15:24:07] INFO: Overlap-based coverage: 1
+[2024-09-17 15:24:07] INFO: Median overlap divergence: 0.0549137
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:24:13] INFO: Assembled 861 disjointigs
+[2024-09-17 15:24:13] INFO: Generating sequence
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:24:16] INFO: Filtering contained disjointigs
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:24:17] INFO: Contained seqs: 30
+[2024-09-17 15:24:18] INFO: >>>STAGE: consensus
+[2024-09-17 15:24:18] INFO: Running Minimap2
+[2024-09-17 15:24:48] INFO: Computing consensus
+[2024-09-17 15:24:52] INFO: Alignment error rate: 0.121077
+[2024-09-17 15:24:52] INFO: >>>STAGE: repeat
+[2024-09-17 15:24:52] INFO: Building and resolving repeat graph
+[2024-09-17 15:24:53] INFO: Parsing disjointigs
+[2024-09-17 15:24:54] INFO: Building repeat graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:24:56] INFO: Median overlap divergence: 0.24307
+[2024-09-17 15:24:59] INFO: Parsing reads
+[2024-09-17 15:25:01] INFO: Aligning reads to the graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:25:06] INFO: Aligned read sequence: 28958518 / 104027018 (0.278375)
+[2024-09-17 15:25:06] INFO: Median overlap divergence: 0.0313807
+[2024-09-17 15:25:06] INFO: Mean edge coverage: 2
+[2024-09-17 15:25:11] INFO: Simplifying the graph
+[2024-09-17 15:25:14] INFO: >>>STAGE: contigger
+[2024-09-17 15:25:14] INFO: Generating contigs
+[2024-09-17 15:25:14] INFO: Reading sequences
+[2024-09-17 15:25:17] INFO: Generated 310 contigs
+[2024-09-17 15:25:18] INFO: Added 0 scaffold connections
+[2024-09-17 15:25:18] INFO: >>>STAGE: polishing
+[2024-09-17 15:25:18] INFO: Polishing genome (1/1)
+[2024-09-17 15:25:18] INFO: Running minimap2
+[2024-09-17 15:25:28] INFO: Separating alignment into bubbles
+[2024-09-17 15:25:34] INFO: Alignment error rate: 0.109314
+[2024-09-17 15:25:34] INFO: Correcting bubbles
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-09-17 15:28:23] INFO: >>>STAGE: finalize
+[2024-09-17 15:28:23] INFO: Assembly statistics:
+
+	Total length:	3381228
+	Fragments:	270
+	Fragments N50:	17664
+	Largest frg:	45202
+	Scaffolds:	0
+	Mean coverage:	5
+
+[2024-09-17 15:28:23] INFO: Final assembly: /home/qe76qox/Viromics-Bioinformatics/1.2_assembly/10_results_assembly_flye/single_assemblies/barcode64/assembly.fasta
+python3: can't open file '/home/qe76qox/Viromics-Bioinformatics/python_scripts/assembly/10_run_rename_scaffolds.py': [Errno 2] No such file or directory
+python3: can't open file '/home/qe76qox/Viromics-Bioinformatics/python_scripts/assembly/10_run_rename_scaffolds.py': [Errno 2] No such file or directory
+python3: can't open file '/home/qe76qox/Viromics-Bioinformatics/python_scripts/assembly/10_run_rename_scaffolds.py': [Errno 2] No such file or directory
+cat: '1.2_assembly/10_results_assembly_flye/single_assemblies/barcode*.fasta': No such file or directory
