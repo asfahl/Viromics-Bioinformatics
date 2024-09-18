@@ -1,4 +1,3 @@
 py3env/
 source/
-data/
 *.fastq.gz

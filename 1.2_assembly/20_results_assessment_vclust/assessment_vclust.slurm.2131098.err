@@ -1,7 +1,7 @@
-2024-09-17 21:06:52,016 [ERROR] Process /home/groups/VEO/tools/vclust/v1.0.3/bin/kmer-db build -multisample-fasta -k 25 -t 64 1.2_assembly/20_results_assessment_vclust/single_assemblies/vclust-773e5b7574/whole.txt 1.2_assembly/20_results_assessment_vclust/single_assemblies/vclust-773e5b7574/whole.kdb failed with message: Kmer-db version 2.0.3 (28.06.2024)
+2024-09-18 10:28:50,568 [ERROR] Process /home/groups/VEO/tools/vclust/v1.0.3/bin/kmer-db build -multisample-fasta -k 25 -t 64 1.2_assembly/20_results_assessment_vclust/single_assemblies/vclust-b086b05bfc/whole.txt 1.2_assembly/20_results_assessment_vclust/single_assemblies/vclust-b086b05bfc/whole.kdb failed with message: Kmer-db version 2.0.3 (28.06.2024)
 S. Deorowicz, A. Gudys, M. Dlugosz, M. Kokot, and A. Danek (c) 2018
 
-Analysis started at Tue Sep 17 21:06:51 2024
+Analysis started at Wed Sep 18 10:28:50 2024
 
 Building database (from fasta genomes)
 Processing samples...
