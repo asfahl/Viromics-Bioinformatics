@@ -1,0 +1,45 @@
+[M::mm_idx_gen::0.615*0.82] collected minimizers
+[M::mm_idx_gen::0.785*2.33] sorted minimizers
+[M::main::0.789*2.32] loaded/built the index for 1140 target sequence(s)
+[M::mm_mapopt_update::0.845*2.23] mid_occ = 10
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1140
+[M::mm_idx_stat::0.877*2.18] distinct minimizers: 2715235 (94.46% are singletons); average occurrences: 1.066; average spacing: 5.357; total length: 15511574
+ERROR: failed to open file '1.1_QC/20_chopper/barcode62_filtered_reads.fastq.gz': No such file or directory
+ERROR: failed to map the query file
+[M::mm_idx_gen::0.418*0.99] collected minimizers
+[M::mm_idx_gen::0.601*3.07] sorted minimizers
+[M::main::0.603*3.05] loaded/built the index for 1140 target sequence(s)
+[M::mm_mapopt_update::0.662*2.87] mid_occ = 10
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1140
+[M::mm_idx_stat::0.693*2.78] distinct minimizers: 2715235 (94.46% are singletons); average occurrences: 1.066; average spacing: 5.357; total length: 15511574
+ERROR: failed to open file '1.1_QC/20_chopper/barcode63_filtered_reads.fastq.gz': No such file or directory
+ERROR: failed to map the query file
+[M::mm_idx_gen::0.416*0.99] collected minimizers
+[M::mm_idx_gen::0.585*3.01] sorted minimizers
+[M::main::0.588*2.99] loaded/built the index for 1140 target sequence(s)
+[M::mm_mapopt_update::0.648*2.80] mid_occ = 10
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1140
+[M::mm_idx_stat::0.681*2.71] distinct minimizers: 2715235 (94.46% are singletons); average occurrences: 1.066; average spacing: 5.357; total length: 15511574
+ERROR: failed to open file '1.1_QC/20_chopper/barcode64_filtered_reads.fastq.gz': No such file or directory
+ERROR: failed to map the query file
+[ERROR] failed to open file '1.2_assembly/20_results_assessment_vclust/single_assemblies/assembly.fasta': No such file or directory
+[main_samview] fail to read the header from "-".
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "-"
+[E::hts_open_format] Failed to open file "data/alignments/single_assemblies/barcode62.bam" : No such file or directory
+samtools stats: failed to open "data/alignments/single_assemblies/barcode62.bam": No such file or directory
+/var/spool/slurm/d/job2134260/slurm_script: line 57: 1732182 Segmentation fault      (core dumped) $samtools stats $outdir/barcode$barcode.bam > $outdir/barcode$barcode_stats.txt
+[ERROR] failed to open file '1.2_assembly/20_results_assessment_vclust/single_assemblies/assembly.fasta': No such file or directory
+[main_samview] fail to read the header from "-".
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "-"
+[E::hts_open_format] Failed to open file "data/alignments/single_assemblies/barcode63.bam" : No such file or directory
+samtools stats: failed to open "data/alignments/single_assemblies/barcode63.bam": No such file or directory
+/var/spool/slurm/d/job2134260/slurm_script: line 57: 1732200 Segmentation fault      (core dumped) $samtools stats $outdir/barcode$barcode.bam > $outdir/barcode$barcode_stats.txt
+[ERROR] failed to open file '1.2_assembly/20_results_assessment_vclust/single_assemblies/assembly.fasta': No such file or directory
+[main_samview] fail to read the header from "-".
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "-"
+[E::hts_open_format] Failed to open file "data/alignments/single_assemblies/barcode64.bam" : No such file or directory
+samtools stats: failed to open "data/alignments/single_assemblies/barcode64.bam": No such file or directory
+/var/spool/slurm/d/job2134260/slurm_script: line 57: 1732215 Segmentation fault      (core dumped) $samtools stats $outdir/barcode$barcode.bam > $outdir/barcode$barcode_stats.txt

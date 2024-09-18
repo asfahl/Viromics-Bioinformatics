@@ -1,0 +1,5 @@
+ERROR! File not found (contigs): 1.2_assembly/20_results_assessment_vclust/single_assemblies/assembly.fasta
+
+In case you have troubles running QUAST, you can write to quast.support@cab.spbu.ru
+or report an issue on our GitHub repository https://github.com/ablab/quast/issues
+Please provide us with quast.log file from the output directory.
