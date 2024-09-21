@@ -5,8 +5,8 @@
 #SBATCH --mem=1G
 #SBATCH --time=00:30:00
 #SBATCH --job-name=assessment_quast
-#SBATCH --output=./1.2_assembly/30_results_assessment_quast/assessment_quast.slurm.%j.out
-#SBATCH --error=./1.2_assembly/30_results_assessment_quast/assessment_quast.slurm.%j.err
+#SBATCH --output=1.2_assembly/30_results_assessment_quast/assessment_quast.slurm.%j.out
+#SBATCH --error=1.2_assembly/30_results_assessment_quast/assessment_quast.slurm.%j.err
 
 # Set some variables for the quast script on draco and the files to be analysed
 quast='python3 /home/groups/VEO/tools/quast/v5.2.0/quast.py'

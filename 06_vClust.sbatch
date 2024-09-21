@@ -5,8 +5,8 @@
 #SBATCH --mem=2G
 #SBATCH --time=01:00:00
 #SBATCH --job-name=assessment_vclust
-#SBATCH --output=./1.2_assembly/20_results_assessment_vclust/assessment_vclust.slurm.%j.out
-#SBATCH --error=./1.2_assembly/20_results_assessment_vclust/assessment_vclust.slurm.%j.err
+#SBATCH --output=1.2_assembly/20_results_assessment_vclust/assessment_vclust.slurm.%j.out
+#SBATCH --error=1.2_assembly/20_results_assessment_vclust/assessment_vclust.slurm.%j.err
 
 
 vclust='python3.9 /home/groups/VEO/tools/vclust/v1.0.3/vclust.py'

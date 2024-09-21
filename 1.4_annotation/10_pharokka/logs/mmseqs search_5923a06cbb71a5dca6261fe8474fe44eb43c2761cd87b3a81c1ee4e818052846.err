@@ -1,0 +1,1 @@
+Command line: mmseqs search --min-seq-id 0.8 -c 0.4 /work/groups/VEO/databases/pharokka/v1.7.1/CARD 1.4_annotation/10_pharokka/CARD_target_dir/target_seqs 1.4_annotation/10_pharokka/CARD/results_mmseqs 1.4_annotation/10_pharokka/CARD_dir/ -s 8.5 --threads 10

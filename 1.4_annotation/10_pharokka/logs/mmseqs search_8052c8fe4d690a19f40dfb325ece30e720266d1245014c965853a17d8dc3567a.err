@@ -1,0 +1,1 @@
+Command line: mmseqs search -e 1E-05 /work/groups/VEO/databases/pharokka/v1.7.1/phrogs_profile_db 1.4_annotation/10_pharokka/target_dir/target_seqs 1.4_annotation/10_pharokka/mmseqs/results_mmseqs 1.4_annotation/10_pharokka/tmp_dir/ -s 8.5 --threads 10

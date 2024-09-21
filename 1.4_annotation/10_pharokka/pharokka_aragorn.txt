@@ -1,0 +1,513 @@
+>contig_101
+0 genes found
+>contig_1015
+0 genes found
+>contig_1019
+0 genes found
+>contig_1021
+0 genes found
+>contig_1024
+0 genes found
+>contig_103
+0 genes found
+>contig_1033
+0 genes found
+>contig_1037
+0 genes found
+>contig_104
+0 genes found
+>contig_1040
+0 genes found
+>contig_1042
+0 genes found
+>contig_1046
+0 genes found
+>contig_1048
+0 genes found
+>contig_105
+0 genes found
+>contig_1054
+0 genes found
+>contig_1057
+0 genes found
+>contig_1062
+0 genes found
+>contig_1064
+0 genes found
+>contig_1065
+0 genes found
+>contig_1080
+0 genes found
+>contig_1087
+0 genes found
+>contig_1092
+0 genes found
+>contig_1096
+0 genes found
+>contig_110
+0 genes found
+>contig_1104
+0 genes found
+>contig_111
+0 genes found
+>contig_1111
+0 genes found
+>contig_1118
+0 genes found
+>contig_1131
+0 genes found
+>contig_1136
+0 genes found
+>contig_114
+0 genes found
+>contig_1140
+0 genes found
+>contig_1148
+0 genes found
+>contig_1157
+0 genes found
+>contig_1160
+0 genes found
+>contig_1165
+0 genes found
+>contig_1169
+0 genes found
+>contig_1170
+0 genes found
+>contig_1177
+0 genes found
+>contig_118
+0 genes found
+>contig_1184
+0 genes found
+>contig_1198
+0 genes found
+>contig_120
+0 genes found
+>contig_1201
+0 genes found
+>contig_1206
+0 genes found
+>contig_1207
+0 genes found
+>contig_1210
+0 genes found
+>contig_1212
+0 genes found
+>contig_1214
+0 genes found
+>contig_1215
+0 genes found
+>contig_1218
+0 genes found
+>contig_1223
+0 genes found
+>contig_1226
+0 genes found
+>contig_123
+0 genes found
+>contig_1240
+0 genes found
+>contig_1252
+0 genes found
+>contig_1254
+0 genes found
+>contig_1257
+0 genes found
+>contig_1262
+0 genes found
+>contig_1266
+0 genes found
+>contig_1271
+0 genes found
+>contig_1272
+0 genes found
+>contig_1280
+0 genes found
+>contig_1290
+0 genes found
+>contig_1298
+0 genes found
+>contig_1303
+0 genes found
+>contig_132
+0 genes found
+>contig_1320
+0 genes found
+>contig_1322
+0 genes found
+>contig_1323
+0 genes found
+>contig_1326
+0 genes found
+>contig_1327
+0 genes found
+>contig_133
+0 genes found
+>contig_1330
+0 genes found
+>contig_1331
+0 genes found
+>contig_1344
+0 genes found
+>contig_1351
+0 genes found
+>contig_1356
+0 genes found
+>contig_1360
+0 genes found
+>contig_1366
+0 genes found
+>contig_1374
+0 genes found
+>contig_1378
+0 genes found
+>contig_1382
+0 genes found
+>contig_1385
+0 genes found
+>contig_139
+0 genes found
+>contig_1393
+0 genes found
+>contig_1394
+0 genes found
+>contig_1396
+0 genes found
+>contig_1398
+0 genes found
+>contig_1407
+0 genes found
+>contig_1423
+0 genes found
+>contig_1424
+0 genes found
+>contig_1430
+0 genes found
+>contig_1433
+0 genes found
+>contig_1437
+0 genes found
+>contig_1438
+0 genes found
+>contig_1439
+0 genes found
+>contig_1445
+0 genes found
+>contig_1451
+0 genes found
+>contig_1456
+0 genes found
+>contig_1457
+0 genes found
+>contig_1459
+0 genes found
+>contig_1460
+0 genes found
+>contig_1467
+0 genes found
+>contig_1469
+0 genes found
+>contig_1472
+0 genes found
+>contig_1473
+0 genes found
+>contig_1474
+0 genes found
+>contig_1476
+0 genes found
+>contig_1477
+0 genes found
+>contig_1482
+0 genes found
+>contig_1484
+0 genes found
+>contig_1488
+0 genes found
+>contig_1491
+0 genes found
+>contig_1496
+0 genes found
+>contig_1497
+0 genes found
+>contig_1498
+0 genes found
+>contig_1499
+0 genes found
+>contig_1519
+0 genes found
+>contig_152
+0 genes found
+>contig_1539
+0 genes found
+>contig_1542
+0 genes found
+>contig_1543
+0 genes found
+>contig_1545
+0 genes found
+>contig_1546
+0 genes found
+>contig_1547
+0 genes found
+>contig_1549
+0 genes found
+>contig_1552
+0 genes found
+>contig_1554
+0 genes found
+>contig_1555
+0 genes found
+>contig_1558
+0 genes found
+>contig_16
+0 genes found
+>contig_168
+0 genes found
+>contig_169
+0 genes found
+>contig_174
+0 genes found
+>contig_184
+0 genes found
+>contig_185
+0 genes found
+>contig_189
+0 genes found
+>contig_200
+0 genes found
+>contig_213
+0 genes found
+>contig_215
+0 genes found
+>contig_23
+0 genes found
+>contig_246
+0 genes found
+>contig_253
+0 genes found
+>contig_256
+0 genes found
+>contig_260
+0 genes found
+>contig_265
+0 genes found
+>contig_266
+0 genes found
+>contig_267
+0 genes found
+>contig_268
+0 genes found
+>contig_271
+0 genes found
+>contig_285
+0 genes found
+>contig_298
+0 genes found
+>contig_316
+0 genes found
+>contig_327
+0 genes found
+>contig_339
+0 genes found
+>contig_342
+0 genes found
+>contig_36
+0 genes found
+>contig_373
+0 genes found
+>contig_380
+0 genes found
+>contig_382
+0 genes found
+>contig_383
+0 genes found
+>contig_388
+0 genes found
+>contig_398
+0 genes found
+>contig_400
+0 genes found
+>contig_416
+0 genes found
+>contig_421
+0 genes found
+>contig_424
+0 genes found
+>contig_426
+0 genes found
+>contig_434
+0 genes found
+>contig_438
+0 genes found
+>contig_466
+0 genes found
+>contig_473
+0 genes found
+>contig_481
+0 genes found
+>contig_483
+0 genes found
+>contig_485
+0 genes found
+>contig_487
+0 genes found
+>contig_490
+0 genes found
+>contig_492
+0 genes found
+>contig_5
+0 genes found
+>contig_50
+0 genes found
+>contig_500
+0 genes found
+>contig_501
+0 genes found
+>contig_508
+0 genes found
+>contig_511
+0 genes found
+>contig_515
+0 genes found
+>contig_519
+0 genes found
+>contig_528
+0 genes found
+>contig_531
+0 genes found
+>contig_536
+0 genes found
+>contig_539
+0 genes found
+>contig_543
+0 genes found
+>contig_546
+0 genes found
+>contig_55
+0 genes found
+>contig_551
+0 genes found
+>contig_553
+0 genes found
+>contig_555
+0 genes found
+>contig_557
+0 genes found
+>contig_568
+0 genes found
+>contig_576
+0 genes found
+>contig_58
+0 genes found
+>contig_584
+0 genes found
+>contig_593
+0 genes found
+>contig_596
+0 genes found
+>contig_60
+0 genes found
+>contig_601
+0 genes found
+>contig_612
+0 genes found
+>contig_632
+0 genes found
+>contig_633
+0 genes found
+>contig_643
+0 genes found
+>contig_644
+0 genes found
+>contig_669
+0 genes found
+>contig_670
+0 genes found
+>contig_671
+0 genes found
+>contig_673
+0 genes found
+>contig_676
+0 genes found
+>contig_683
+0 genes found
+>contig_701
+0 genes found
+>contig_727
+0 genes found
+>contig_728
+0 genes found
+>contig_734
+0 genes found
+>contig_74
+0 genes found
+>contig_75
+0 genes found
+>contig_751
+0 genes found
+>contig_758
+0 genes found
+>contig_76
+0 genes found
+>contig_775
+0 genes found
+>contig_78
+0 genes found
+>contig_791
+0 genes found
+>contig_799
+0 genes found
+>contig_811
+0 genes found
+>contig_815
+0 genes found
+>contig_820
+0 genes found
+>contig_825
+0 genes found
+>contig_848
+0 genes found
+>contig_850
+0 genes found
+>contig_851
+0 genes found
+>contig_856
+0 genes found
+>contig_858
+0 genes found
+>contig_871
+0 genes found
+>contig_891
+0 genes found
+>contig_900
+0 genes found
+>contig_92
+0 genes found
+>contig_921
+0 genes found
+>contig_926
+0 genes found
+>contig_928
+0 genes found
+>contig_929
+0 genes found
+>contig_939
+0 genes found
+>contig_94
+0 genes found
+>contig_959
+0 genes found
+>contig_977
+0 genes found
+>contig_982
+0 genes found
+>contig_983
+0 genes found
+>contig_986
+0 genes found
+>contig_99
+0 genes found
+>contig_998
+0 genes found
+>end 	256 sequences 0 tmRNA genes, nothing found in 256 sequences, (0.00% sensitivity)

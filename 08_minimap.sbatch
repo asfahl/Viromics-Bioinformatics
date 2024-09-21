@@ -5,8 +5,8 @@
 #SBATCH --mem=2G
 #SBATCH --time=00:30:00
 #SBATCH --job-name=alignment_minimap2
-#SBATCH --output=./1.2_assembly/40_results_alignment_minimap2/alignment_minimap2.slurm.%j.out
-#SBATCH --error=./1.2_assembly/40_results_alignment_minimap2/alignment_minimap2.slurm.%j.err
+#SBATCH --output=1.2_assembly/40_results_alignment_minimap2/alignment_minimap2.slurm.%j.out
+#SBATCH --error=1.2_assembly/40_results_alignment_minimap2/alignment_minimap2.slurm.%j.err
 
 
 # assign tool paths to aliases for better readability

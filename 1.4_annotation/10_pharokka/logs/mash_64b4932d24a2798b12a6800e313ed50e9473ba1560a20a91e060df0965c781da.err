@@ -1,0 +1,1 @@
+Command line: mash dist 1.4_annotation/10_pharokka/input_mash_sketch.msh /work/groups/VEO/databases/pharokka/v1.7.1/1Aug2023_genomes.fa.msh -d 0.2 -i

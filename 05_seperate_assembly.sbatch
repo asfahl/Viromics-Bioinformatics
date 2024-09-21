@@ -25,7 +25,7 @@ done
 conda deactivate
 
 # activate your virtual environment
-source ./py3env/bin/activate
+source py3env/bin/activate
 
 # rename the contings in the generated single assemblies with a python script.
 # It assumes three parameters here, first the input file name, second the output file name and third,

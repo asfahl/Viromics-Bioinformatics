@@ -2,3 +2,4 @@ py3env/
 source/
 1.3_virus_identification/20_results_assessment_checkv/cross_assembly/tmp/
 *.fastq.gz
+python_scripts/visualization/assembly_visualization/input

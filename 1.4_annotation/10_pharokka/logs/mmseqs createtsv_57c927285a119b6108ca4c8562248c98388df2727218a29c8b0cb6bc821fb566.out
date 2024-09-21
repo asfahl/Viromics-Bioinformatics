@@ -1,0 +1,14 @@
+createtsv /work/groups/VEO/databases/pharokka/v1.7.1/CARD 1.4_annotation/10_pharokka/CARD_target_dir/target_seqs 1.4_annotation/10_pharokka/CARD/results_mmseqs 1.4_annotation/10_pharokka/CARD_results.tsv --full-header --threads 10 
+
+MMseqs Version:                 	13.45111
+First sequence as representative	false
+Target column                   	1
+Add full header                 	true
+Sequence source                 	0
+Database output                 	false
+Threads                         	10
+Compressed                      	0
+Verbosity                       	3
+
+Time for merging to CARD_results.tsv: 0h 0m 0s 204ms
+Time for processing: 0h 0m 0s 431ms

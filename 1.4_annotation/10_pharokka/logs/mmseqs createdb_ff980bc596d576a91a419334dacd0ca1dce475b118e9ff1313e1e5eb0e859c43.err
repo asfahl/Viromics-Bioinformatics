@@ -1,0 +1,1 @@
+Command line: mmseqs createdb 1.4_annotation/10_pharokka/phanotate_aas_tmp.fasta 1.4_annotation/10_pharokka/VFDB_target_dir/target_seqs

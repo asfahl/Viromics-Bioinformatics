@@ -1,0 +1,4097 @@
+Description	Count	contig
+CDS	88	contig_101
+connector	0	contig_101
+DNA, RNA and nucleotide metabolism	4	contig_101
+head and packaging	5	contig_101
+integration and excision	0	contig_101
+lysis	0	contig_101
+moron, auxiliary metabolic gene and host takeover	0	contig_101
+other	2	contig_101
+tail	0	contig_101
+transcription regulation	0	contig_101
+unknown function	77	contig_101
+tRNAs	0	contig_101
+CRISPRs	0	contig_101
+tmRNAs	0	contig_101
+VFDB_Virulence_Factors	0	contig_101
+CARD_AMR_Genes	0	contig_101
+CDS	33	contig_1015
+connector	0	contig_1015
+DNA, RNA and nucleotide metabolism	5	contig_1015
+head and packaging	0	contig_1015
+integration and excision	0	contig_1015
+lysis	1	contig_1015
+moron, auxiliary metabolic gene and host takeover	0	contig_1015
+other	0	contig_1015
+tail	0	contig_1015
+transcription regulation	0	contig_1015
+unknown function	27	contig_1015
+tRNAs	0	contig_1015
+CRISPRs	0	contig_1015
+tmRNAs	0	contig_1015
+VFDB_Virulence_Factors	0	contig_1015
+CARD_AMR_Genes	0	contig_1015
+CDS	109	contig_1019
+connector	0	contig_1019
+DNA, RNA and nucleotide metabolism	8	contig_1019
+head and packaging	1	contig_1019
+integration and excision	0	contig_1019
+lysis	0	contig_1019
+moron, auxiliary metabolic gene and host takeover	0	contig_1019
+other	0	contig_1019
+tail	0	contig_1019
+transcription regulation	0	contig_1019
+unknown function	100	contig_1019
+tRNAs	0	contig_1019
+CRISPRs	0	contig_1019
+tmRNAs	0	contig_1019
+VFDB_Virulence_Factors	0	contig_1019
+CARD_AMR_Genes	0	contig_1019
+CDS	62	contig_1021
+connector	0	contig_1021
+DNA, RNA and nucleotide metabolism	0	contig_1021
+head and packaging	4	contig_1021
+integration and excision	0	contig_1021
+lysis	0	contig_1021
+moron, auxiliary metabolic gene and host takeover	0	contig_1021
+other	0	contig_1021
+tail	1	contig_1021
+transcription regulation	0	contig_1021
+unknown function	57	contig_1021
+tRNAs	0	contig_1021
+CRISPRs	0	contig_1021
+tmRNAs	0	contig_1021
+VFDB_Virulence_Factors	0	contig_1021
+CARD_AMR_Genes	0	contig_1021
+CDS	59	contig_1024
+connector	0	contig_1024
+DNA, RNA and nucleotide metabolism	2	contig_1024
+head and packaging	4	contig_1024
+integration and excision	0	contig_1024
+lysis	0	contig_1024
+moron, auxiliary metabolic gene and host takeover	0	contig_1024
+other	0	contig_1024
+tail	3	contig_1024
+transcription regulation	0	contig_1024
+unknown function	50	contig_1024
+tRNAs	0	contig_1024
+CRISPRs	0	contig_1024
+tmRNAs	0	contig_1024
+VFDB_Virulence_Factors	0	contig_1024
+CARD_AMR_Genes	0	contig_1024
+CDS	35	contig_103
+connector	1	contig_103
+DNA, RNA and nucleotide metabolism	3	contig_103
+head and packaging	6	contig_103
+integration and excision	0	contig_103
+lysis	0	contig_103
+moron, auxiliary metabolic gene and host takeover	0	contig_103
+other	0	contig_103
+tail	0	contig_103
+transcription regulation	0	contig_103
+unknown function	25	contig_103
+tRNAs	0	contig_103
+CRISPRs	0	contig_103
+tmRNAs	0	contig_103
+VFDB_Virulence_Factors	0	contig_103
+CARD_AMR_Genes	0	contig_103
+CDS	44	contig_1033
+connector	2	contig_1033
+DNA, RNA and nucleotide metabolism	3	contig_1033
+head and packaging	6	contig_1033
+integration and excision	0	contig_1033
+lysis	0	contig_1033
+moron, auxiliary metabolic gene and host takeover	0	contig_1033
+other	0	contig_1033
+tail	0	contig_1033
+transcription regulation	0	contig_1033
+unknown function	33	contig_1033
+tRNAs	0	contig_1033
+CRISPRs	0	contig_1033
+tmRNAs	0	contig_1033
+VFDB_Virulence_Factors	0	contig_1033
+CARD_AMR_Genes	0	contig_1033
+CDS	114	contig_1037
+connector	0	contig_1037
+DNA, RNA and nucleotide metabolism	6	contig_1037
+head and packaging	5	contig_1037
+integration and excision	0	contig_1037
+lysis	1	contig_1037
+moron, auxiliary metabolic gene and host takeover	0	contig_1037
+other	0	contig_1037
+tail	0	contig_1037
+transcription regulation	0	contig_1037
+unknown function	102	contig_1037
+tRNAs	0	contig_1037
+CRISPRs	0	contig_1037
+tmRNAs	0	contig_1037
+VFDB_Virulence_Factors	0	contig_1037
+CARD_AMR_Genes	0	contig_1037
+CDS	41	contig_104
+connector	2	contig_104
+DNA, RNA and nucleotide metabolism	3	contig_104
+head and packaging	5	contig_104
+integration and excision	0	contig_104
+lysis	0	contig_104
+moron, auxiliary metabolic gene and host takeover	0	contig_104
+other	0	contig_104
+tail	0	contig_104
+transcription regulation	0	contig_104
+unknown function	31	contig_104
+tRNAs	0	contig_104
+CRISPRs	0	contig_104
+tmRNAs	0	contig_104
+VFDB_Virulence_Factors	0	contig_104
+CARD_AMR_Genes	0	contig_104
+CDS	55	contig_1040
+connector	0	contig_1040
+DNA, RNA and nucleotide metabolism	1	contig_1040
+head and packaging	2	contig_1040
+integration and excision	0	contig_1040
+lysis	0	contig_1040
+moron, auxiliary metabolic gene and host takeover	0	contig_1040
+other	0	contig_1040
+tail	0	contig_1040
+transcription regulation	0	contig_1040
+unknown function	52	contig_1040
+tRNAs	0	contig_1040
+CRISPRs	0	contig_1040
+tmRNAs	0	contig_1040
+VFDB_Virulence_Factors	0	contig_1040
+CARD_AMR_Genes	0	contig_1040
+CDS	97	contig_1042
+connector	0	contig_1042
+DNA, RNA and nucleotide metabolism	6	contig_1042
+head and packaging	5	contig_1042
+integration and excision	1	contig_1042
+lysis	0	contig_1042
+moron, auxiliary metabolic gene and host takeover	0	contig_1042
+other	3	contig_1042
+tail	2	contig_1042
+transcription regulation	1	contig_1042
+unknown function	79	contig_1042
+tRNAs	0	contig_1042
+CRISPRs	0	contig_1042
+tmRNAs	0	contig_1042
+VFDB_Virulence_Factors	0	contig_1042
+CARD_AMR_Genes	0	contig_1042
+CDS	36	contig_1046
+connector	0	contig_1046
+DNA, RNA and nucleotide metabolism	0	contig_1046
+head and packaging	5	contig_1046
+integration and excision	0	contig_1046
+lysis	0	contig_1046
+moron, auxiliary metabolic gene and host takeover	0	contig_1046
+other	0	contig_1046
+tail	2	contig_1046
+transcription regulation	0	contig_1046
+unknown function	29	contig_1046
+tRNAs	0	contig_1046
+CRISPRs	0	contig_1046
+tmRNAs	0	contig_1046
+VFDB_Virulence_Factors	0	contig_1046
+CARD_AMR_Genes	0	contig_1046
+CDS	37	contig_1048
+connector	0	contig_1048
+DNA, RNA and nucleotide metabolism	0	contig_1048
+head and packaging	4	contig_1048
+integration and excision	0	contig_1048
+lysis	0	contig_1048
+moron, auxiliary metabolic gene and host takeover	0	contig_1048
+other	0	contig_1048
+tail	0	contig_1048
+transcription regulation	0	contig_1048
+unknown function	33	contig_1048
+tRNAs	0	contig_1048
+CRISPRs	0	contig_1048
+tmRNAs	0	contig_1048
+VFDB_Virulence_Factors	0	contig_1048
+CARD_AMR_Genes	0	contig_1048
+CDS	86	contig_105
+connector	0	contig_105
+DNA, RNA and nucleotide metabolism	5	contig_105
+head and packaging	7	contig_105
+integration and excision	0	contig_105
+lysis	1	contig_105
+moron, auxiliary metabolic gene and host takeover	0	contig_105
+other	4	contig_105
+tail	1	contig_105
+transcription regulation	0	contig_105
+unknown function	68	contig_105
+tRNAs	0	contig_105
+CRISPRs	0	contig_105
+tmRNAs	0	contig_105
+VFDB_Virulence_Factors	0	contig_105
+CARD_AMR_Genes	0	contig_105
+CDS	195	contig_1054
+connector	2	contig_1054
+DNA, RNA and nucleotide metabolism	13	contig_1054
+head and packaging	3	contig_1054
+integration and excision	0	contig_1054
+lysis	1	contig_1054
+moron, auxiliary metabolic gene and host takeover	0	contig_1054
+other	6	contig_1054
+tail	0	contig_1054
+transcription regulation	2	contig_1054
+unknown function	168	contig_1054
+tRNAs	0	contig_1054
+CRISPRs	0	contig_1054
+tmRNAs	0	contig_1054
+VFDB_Virulence_Factors	0	contig_1054
+CARD_AMR_Genes	0	contig_1054
+CDS	155	contig_1057
+connector	0	contig_1057
+DNA, RNA and nucleotide metabolism	4	contig_1057
+head and packaging	7	contig_1057
+integration and excision	0	contig_1057
+lysis	3	contig_1057
+moron, auxiliary metabolic gene and host takeover	1	contig_1057
+other	0	contig_1057
+tail	0	contig_1057
+transcription regulation	1	contig_1057
+unknown function	139	contig_1057
+tRNAs	0	contig_1057
+CRISPRs	0	contig_1057
+tmRNAs	0	contig_1057
+VFDB_Virulence_Factors	0	contig_1057
+CARD_AMR_Genes	0	contig_1057
+CDS	198	contig_1062
+connector	0	contig_1062
+DNA, RNA and nucleotide metabolism	3	contig_1062
+head and packaging	2	contig_1062
+integration and excision	0	contig_1062
+lysis	0	contig_1062
+moron, auxiliary metabolic gene and host takeover	0	contig_1062
+other	4	contig_1062
+tail	2	contig_1062
+transcription regulation	0	contig_1062
+unknown function	187	contig_1062
+tRNAs	0	contig_1062
+CRISPRs	0	contig_1062
+tmRNAs	0	contig_1062
+VFDB_Virulence_Factors	0	contig_1062
+CARD_AMR_Genes	0	contig_1062
+CDS	46	contig_1064
+connector	0	contig_1064
+DNA, RNA and nucleotide metabolism	0	contig_1064
+head and packaging	0	contig_1064
+integration and excision	0	contig_1064
+lysis	0	contig_1064
+moron, auxiliary metabolic gene and host takeover	0	contig_1064
+other	2	contig_1064
+tail	1	contig_1064
+transcription regulation	0	contig_1064
+unknown function	43	contig_1064
+tRNAs	0	contig_1064
+CRISPRs	0	contig_1064
+tmRNAs	0	contig_1064
+VFDB_Virulence_Factors	0	contig_1064
+CARD_AMR_Genes	0	contig_1064
+CDS	37	contig_1065
+connector	0	contig_1065
+DNA, RNA and nucleotide metabolism	1	contig_1065
+head and packaging	0	contig_1065
+integration and excision	0	contig_1065
+lysis	1	contig_1065
+moron, auxiliary metabolic gene and host takeover	0	contig_1065
+other	0	contig_1065
+tail	1	contig_1065
+transcription regulation	0	contig_1065
+unknown function	34	contig_1065
+tRNAs	0	contig_1065
+CRISPRs	0	contig_1065
+tmRNAs	0	contig_1065
+VFDB_Virulence_Factors	0	contig_1065
+CARD_AMR_Genes	0	contig_1065
+CDS	52	contig_1080
+connector	0	contig_1080
+DNA, RNA and nucleotide metabolism	0	contig_1080
+head and packaging	5	contig_1080
+integration and excision	0	contig_1080
+lysis	1	contig_1080
+moron, auxiliary metabolic gene and host takeover	0	contig_1080
+other	1	contig_1080
+tail	0	contig_1080
+transcription regulation	0	contig_1080
+unknown function	45	contig_1080
+tRNAs	0	contig_1080
+CRISPRs	0	contig_1080
+tmRNAs	0	contig_1080
+VFDB_Virulence_Factors	0	contig_1080
+CARD_AMR_Genes	0	contig_1080
+CDS	77	contig_1087
+connector	0	contig_1087
+DNA, RNA and nucleotide metabolism	0	contig_1087
+head and packaging	2	contig_1087
+integration and excision	0	contig_1087
+lysis	0	contig_1087
+moron, auxiliary metabolic gene and host takeover	0	contig_1087
+other	1	contig_1087
+tail	0	contig_1087
+transcription regulation	0	contig_1087
+unknown function	74	contig_1087
+tRNAs	0	contig_1087
+CRISPRs	0	contig_1087
+tmRNAs	0	contig_1087
+VFDB_Virulence_Factors	0	contig_1087
+CARD_AMR_Genes	0	contig_1087
+CDS	142	contig_1092
+connector	0	contig_1092
+DNA, RNA and nucleotide metabolism	1	contig_1092
+head and packaging	1	contig_1092
+integration and excision	0	contig_1092
+lysis	0	contig_1092
+moron, auxiliary metabolic gene and host takeover	0	contig_1092
+other	2	contig_1092
+tail	0	contig_1092
+transcription regulation	0	contig_1092
+unknown function	138	contig_1092
+tRNAs	0	contig_1092
+CRISPRs	0	contig_1092
+tmRNAs	0	contig_1092
+VFDB_Virulence_Factors	0	contig_1092
+CARD_AMR_Genes	0	contig_1092
+CDS	204	contig_1096
+connector	0	contig_1096
+DNA, RNA and nucleotide metabolism	13	contig_1096
+head and packaging	12	contig_1096
+integration and excision	1	contig_1096
+lysis	1	contig_1096
+moron, auxiliary metabolic gene and host takeover	0	contig_1096
+other	2	contig_1096
+tail	2	contig_1096
+transcription regulation	1	contig_1096
+unknown function	172	contig_1096
+tRNAs	0	contig_1096
+CRISPRs	0	contig_1096
+tmRNAs	0	contig_1096
+VFDB_Virulence_Factors	0	contig_1096
+CARD_AMR_Genes	0	contig_1096
+CDS	149	contig_110
+connector	0	contig_110
+DNA, RNA and nucleotide metabolism	2	contig_110
+head and packaging	13	contig_110
+integration and excision	0	contig_110
+lysis	1	contig_110
+moron, auxiliary metabolic gene and host takeover	0	contig_110
+other	2	contig_110
+tail	2	contig_110
+transcription regulation	0	contig_110
+unknown function	129	contig_110
+tRNAs	0	contig_110
+CRISPRs	0	contig_110
+tmRNAs	0	contig_110
+VFDB_Virulence_Factors	0	contig_110
+CARD_AMR_Genes	0	contig_110
+CDS	58	contig_1104
+connector	1	contig_1104
+DNA, RNA and nucleotide metabolism	1	contig_1104
+head and packaging	1	contig_1104
+integration and excision	0	contig_1104
+lysis	0	contig_1104
+moron, auxiliary metabolic gene and host takeover	0	contig_1104
+other	0	contig_1104
+tail	2	contig_1104
+transcription regulation	0	contig_1104
+unknown function	53	contig_1104
+tRNAs	0	contig_1104
+CRISPRs	0	contig_1104
+tmRNAs	0	contig_1104
+VFDB_Virulence_Factors	0	contig_1104
+CARD_AMR_Genes	0	contig_1104
+CDS	97	contig_111
+connector	0	contig_111
+DNA, RNA and nucleotide metabolism	2	contig_111
+head and packaging	0	contig_111
+integration and excision	0	contig_111
+lysis	1	contig_111
+moron, auxiliary metabolic gene and host takeover	0	contig_111
+other	2	contig_111
+tail	0	contig_111
+transcription regulation	0	contig_111
+unknown function	92	contig_111
+tRNAs	0	contig_111
+CRISPRs	0	contig_111
+tmRNAs	0	contig_111
+VFDB_Virulence_Factors	0	contig_111
+CARD_AMR_Genes	0	contig_111
+CDS	132	contig_1111
+connector	0	contig_1111
+DNA, RNA and nucleotide metabolism	3	contig_1111
+head and packaging	4	contig_1111
+integration and excision	0	contig_1111
+lysis	0	contig_1111
+moron, auxiliary metabolic gene and host takeover	0	contig_1111
+other	2	contig_1111
+tail	1	contig_1111
+transcription regulation	0	contig_1111
+unknown function	122	contig_1111
+tRNAs	0	contig_1111
+CRISPRs	0	contig_1111
+tmRNAs	0	contig_1111
+VFDB_Virulence_Factors	0	contig_1111
+CARD_AMR_Genes	0	contig_1111
+CDS	61	contig_1118
+connector	0	contig_1118
+DNA, RNA and nucleotide metabolism	2	contig_1118
+head and packaging	3	contig_1118
+integration and excision	0	contig_1118
+lysis	0	contig_1118
+moron, auxiliary metabolic gene and host takeover	0	contig_1118
+other	0	contig_1118
+tail	1	contig_1118
+transcription regulation	0	contig_1118
+unknown function	55	contig_1118
+tRNAs	0	contig_1118
+CRISPRs	0	contig_1118
+tmRNAs	0	contig_1118
+VFDB_Virulence_Factors	0	contig_1118
+CARD_AMR_Genes	0	contig_1118
+CDS	148	contig_1131
+connector	1	contig_1131
+DNA, RNA and nucleotide metabolism	15	contig_1131
+head and packaging	3	contig_1131
+integration and excision	0	contig_1131
+lysis	0	contig_1131
+moron, auxiliary metabolic gene and host takeover	2	contig_1131
+other	8	contig_1131
+tail	3	contig_1131
+transcription regulation	1	contig_1131
+unknown function	115	contig_1131
+tRNAs	2	contig_1131
+CRISPRs	0	contig_1131
+tmRNAs	0	contig_1131
+VFDB_Virulence_Factors	0	contig_1131
+CARD_AMR_Genes	0	contig_1131
+CDS	69	contig_1136
+connector	3	contig_1136
+DNA, RNA and nucleotide metabolism	6	contig_1136
+head and packaging	6	contig_1136
+integration and excision	0	contig_1136
+lysis	0	contig_1136
+moron, auxiliary metabolic gene and host takeover	2	contig_1136
+other	2	contig_1136
+tail	4	contig_1136
+transcription regulation	1	contig_1136
+unknown function	45	contig_1136
+tRNAs	1	contig_1136
+CRISPRs	0	contig_1136
+tmRNAs	0	contig_1136
+VFDB_Virulence_Factors	0	contig_1136
+CARD_AMR_Genes	0	contig_1136
+CDS	47	contig_114
+connector	0	contig_114
+DNA, RNA and nucleotide metabolism	2	contig_114
+head and packaging	3	contig_114
+integration and excision	0	contig_114
+lysis	0	contig_114
+moron, auxiliary metabolic gene and host takeover	0	contig_114
+other	0	contig_114
+tail	0	contig_114
+transcription regulation	0	contig_114
+unknown function	42	contig_114
+tRNAs	0	contig_114
+CRISPRs	0	contig_114
+tmRNAs	0	contig_114
+VFDB_Virulence_Factors	0	contig_114
+CARD_AMR_Genes	0	contig_114
+CDS	33	contig_1140
+connector	0	contig_1140
+DNA, RNA and nucleotide metabolism	0	contig_1140
+head and packaging	0	contig_1140
+integration and excision	0	contig_1140
+lysis	0	contig_1140
+moron, auxiliary metabolic gene and host takeover	0	contig_1140
+other	0	contig_1140
+tail	1	contig_1140
+transcription regulation	0	contig_1140
+unknown function	32	contig_1140
+tRNAs	0	contig_1140
+CRISPRs	0	contig_1140
+tmRNAs	0	contig_1140
+VFDB_Virulence_Factors	0	contig_1140
+CARD_AMR_Genes	0	contig_1140
+CDS	63	contig_1148
+connector	0	contig_1148
+DNA, RNA and nucleotide metabolism	1	contig_1148
+head and packaging	4	contig_1148
+integration and excision	0	contig_1148
+lysis	0	contig_1148
+moron, auxiliary metabolic gene and host takeover	0	contig_1148
+other	0	contig_1148
+tail	1	contig_1148
+transcription regulation	0	contig_1148
+unknown function	57	contig_1148
+tRNAs	0	contig_1148
+CRISPRs	0	contig_1148
+tmRNAs	0	contig_1148
+VFDB_Virulence_Factors	0	contig_1148
+CARD_AMR_Genes	0	contig_1148
+CDS	139	contig_1157
+connector	1	contig_1157
+DNA, RNA and nucleotide metabolism	7	contig_1157
+head and packaging	1	contig_1157
+integration and excision	0	contig_1157
+lysis	0	contig_1157
+moron, auxiliary metabolic gene and host takeover	0	contig_1157
+other	1	contig_1157
+tail	1	contig_1157
+transcription regulation	0	contig_1157
+unknown function	128	contig_1157
+tRNAs	0	contig_1157
+CRISPRs	0	contig_1157
+tmRNAs	0	contig_1157
+VFDB_Virulence_Factors	0	contig_1157
+CARD_AMR_Genes	0	contig_1157
+CDS	89	contig_1160
+connector	1	contig_1160
+DNA, RNA and nucleotide metabolism	3	contig_1160
+head and packaging	8	contig_1160
+integration and excision	0	contig_1160
+lysis	0	contig_1160
+moron, auxiliary metabolic gene and host takeover	0	contig_1160
+other	0	contig_1160
+tail	0	contig_1160
+transcription regulation	2	contig_1160
+unknown function	75	contig_1160
+tRNAs	0	contig_1160
+CRISPRs	0	contig_1160
+tmRNAs	0	contig_1160
+VFDB_Virulence_Factors	0	contig_1160
+CARD_AMR_Genes	0	contig_1160
+CDS	108	contig_1165
+connector	1	contig_1165
+DNA, RNA and nucleotide metabolism	9	contig_1165
+head and packaging	9	contig_1165
+integration and excision	0	contig_1165
+lysis	1	contig_1165
+moron, auxiliary metabolic gene and host takeover	0	contig_1165
+other	0	contig_1165
+tail	1	contig_1165
+transcription regulation	0	contig_1165
+unknown function	87	contig_1165
+tRNAs	0	contig_1165
+CRISPRs	0	contig_1165
+tmRNAs	0	contig_1165
+VFDB_Virulence_Factors	0	contig_1165
+CARD_AMR_Genes	0	contig_1165
+CDS	122	contig_1169
+connector	0	contig_1169
+DNA, RNA and nucleotide metabolism	3	contig_1169
+head and packaging	0	contig_1169
+integration and excision	0	contig_1169
+lysis	1	contig_1169
+moron, auxiliary metabolic gene and host takeover	0	contig_1169
+other	0	contig_1169
+tail	1	contig_1169
+transcription regulation	0	contig_1169
+unknown function	117	contig_1169
+tRNAs	0	contig_1169
+CRISPRs	0	contig_1169
+tmRNAs	0	contig_1169
+VFDB_Virulence_Factors	0	contig_1169
+CARD_AMR_Genes	0	contig_1169
+CDS	127	contig_1170
+connector	0	contig_1170
+DNA, RNA and nucleotide metabolism	4	contig_1170
+head and packaging	6	contig_1170
+integration and excision	0	contig_1170
+lysis	2	contig_1170
+moron, auxiliary metabolic gene and host takeover	1	contig_1170
+other	1	contig_1170
+tail	0	contig_1170
+transcription regulation	0	contig_1170
+unknown function	113	contig_1170
+tRNAs	0	contig_1170
+CRISPRs	0	contig_1170
+tmRNAs	0	contig_1170
+VFDB_Virulence_Factors	0	contig_1170
+CARD_AMR_Genes	0	contig_1170
+CDS	103	contig_1177
+connector	3	contig_1177
+DNA, RNA and nucleotide metabolism	9	contig_1177
+head and packaging	2	contig_1177
+integration and excision	0	contig_1177
+lysis	3	contig_1177
+moron, auxiliary metabolic gene and host takeover	0	contig_1177
+other	5	contig_1177
+tail	5	contig_1177
+transcription regulation	0	contig_1177
+unknown function	76	contig_1177
+tRNAs	0	contig_1177
+CRISPRs	0	contig_1177
+tmRNAs	0	contig_1177
+VFDB_Virulence_Factors	0	contig_1177
+CARD_AMR_Genes	0	contig_1177
+CDS	154	contig_118
+connector	0	contig_118
+DNA, RNA and nucleotide metabolism	1	contig_118
+head and packaging	4	contig_118
+integration and excision	0	contig_118
+lysis	2	contig_118
+moron, auxiliary metabolic gene and host takeover	0	contig_118
+other	1	contig_118
+tail	4	contig_118
+transcription regulation	0	contig_118
+unknown function	142	contig_118
+tRNAs	0	contig_118
+CRISPRs	0	contig_118
+tmRNAs	0	contig_118
+VFDB_Virulence_Factors	0	contig_118
+CARD_AMR_Genes	0	contig_118
+CDS	88	contig_1184
+connector	1	contig_1184
+DNA, RNA and nucleotide metabolism	5	contig_1184
+head and packaging	6	contig_1184
+integration and excision	0	contig_1184
+lysis	0	contig_1184
+moron, auxiliary metabolic gene and host takeover	0	contig_1184
+other	1	contig_1184
+tail	2	contig_1184
+transcription regulation	0	contig_1184
+unknown function	73	contig_1184
+tRNAs	0	contig_1184
+CRISPRs	0	contig_1184
+tmRNAs	0	contig_1184
+VFDB_Virulence_Factors	0	contig_1184
+CARD_AMR_Genes	0	contig_1184
+CDS	86	contig_1198
+connector	1	contig_1198
+DNA, RNA and nucleotide metabolism	2	contig_1198
+head and packaging	3	contig_1198
+integration and excision	0	contig_1198
+lysis	0	contig_1198
+moron, auxiliary metabolic gene and host takeover	1	contig_1198
+other	2	contig_1198
+tail	5	contig_1198
+transcription regulation	0	contig_1198
+unknown function	72	contig_1198
+tRNAs	0	contig_1198
+CRISPRs	0	contig_1198
+tmRNAs	0	contig_1198
+VFDB_Virulence_Factors	0	contig_1198
+CARD_AMR_Genes	0	contig_1198
+CDS	70	contig_120
+connector	2	contig_120
+DNA, RNA and nucleotide metabolism	2	contig_120
+head and packaging	4	contig_120
+integration and excision	0	contig_120
+lysis	1	contig_120
+moron, auxiliary metabolic gene and host takeover	0	contig_120
+other	1	contig_120
+tail	5	contig_120
+transcription regulation	0	contig_120
+unknown function	55	contig_120
+tRNAs	0	contig_120
+CRISPRs	0	contig_120
+tmRNAs	0	contig_120
+VFDB_Virulence_Factors	0	contig_120
+CARD_AMR_Genes	0	contig_120
+CDS	61	contig_1201
+connector	0	contig_1201
+DNA, RNA and nucleotide metabolism	1	contig_1201
+head and packaging	1	contig_1201
+integration and excision	0	contig_1201
+lysis	0	contig_1201
+moron, auxiliary metabolic gene and host takeover	0	contig_1201
+other	0	contig_1201
+tail	0	contig_1201
+transcription regulation	0	contig_1201
+unknown function	59	contig_1201
+tRNAs	0	contig_1201
+CRISPRs	0	contig_1201
+tmRNAs	0	contig_1201
+VFDB_Virulence_Factors	0	contig_1201
+CARD_AMR_Genes	0	contig_1201
+CDS	57	contig_1206
+connector	0	contig_1206
+DNA, RNA and nucleotide metabolism	0	contig_1206
+head and packaging	2	contig_1206
+integration and excision	0	contig_1206
+lysis	0	contig_1206
+moron, auxiliary metabolic gene and host takeover	0	contig_1206
+other	0	contig_1206
+tail	1	contig_1206
+transcription regulation	0	contig_1206
+unknown function	54	contig_1206
+tRNAs	0	contig_1206
+CRISPRs	0	contig_1206
+tmRNAs	0	contig_1206
+VFDB_Virulence_Factors	0	contig_1206
+CARD_AMR_Genes	0	contig_1206
+CDS	49	contig_1207
+connector	0	contig_1207
+DNA, RNA and nucleotide metabolism	0	contig_1207
+head and packaging	3	contig_1207
+integration and excision	0	contig_1207
+lysis	0	contig_1207
+moron, auxiliary metabolic gene and host takeover	0	contig_1207
+other	0	contig_1207
+tail	1	contig_1207
+transcription regulation	0	contig_1207
+unknown function	45	contig_1207
+tRNAs	0	contig_1207
+CRISPRs	0	contig_1207
+tmRNAs	0	contig_1207
+VFDB_Virulence_Factors	0	contig_1207
+CARD_AMR_Genes	0	contig_1207
+CDS	89	contig_1210
+connector	0	contig_1210
+DNA, RNA and nucleotide metabolism	2	contig_1210
+head and packaging	5	contig_1210
+integration and excision	0	contig_1210
+lysis	0	contig_1210
+moron, auxiliary metabolic gene and host takeover	0	contig_1210
+other	1	contig_1210
+tail	1	contig_1210
+transcription regulation	0	contig_1210
+unknown function	80	contig_1210
+tRNAs	0	contig_1210
+CRISPRs	0	contig_1210
+tmRNAs	0	contig_1210
+VFDB_Virulence_Factors	0	contig_1210
+CARD_AMR_Genes	0	contig_1210
+CDS	57	contig_1212
+connector	0	contig_1212
+DNA, RNA and nucleotide metabolism	1	contig_1212
+head and packaging	2	contig_1212
+integration and excision	0	contig_1212
+lysis	0	contig_1212
+moron, auxiliary metabolic gene and host takeover	0	contig_1212
+other	0	contig_1212
+tail	0	contig_1212
+transcription regulation	0	contig_1212
+unknown function	54	contig_1212
+tRNAs	0	contig_1212
+CRISPRs	0	contig_1212
+tmRNAs	0	contig_1212
+VFDB_Virulence_Factors	0	contig_1212
+CARD_AMR_Genes	0	contig_1212
+CDS	43	contig_1214
+connector	0	contig_1214
+DNA, RNA and nucleotide metabolism	1	contig_1214
+head and packaging	2	contig_1214
+integration and excision	0	contig_1214
+lysis	0	contig_1214
+moron, auxiliary metabolic gene and host takeover	0	contig_1214
+other	0	contig_1214
+tail	1	contig_1214
+transcription regulation	0	contig_1214
+unknown function	39	contig_1214
+tRNAs	0	contig_1214
+CRISPRs	0	contig_1214
+tmRNAs	0	contig_1214
+VFDB_Virulence_Factors	0	contig_1214
+CARD_AMR_Genes	0	contig_1214
+CDS	65	contig_1215
+connector	0	contig_1215
+DNA, RNA and nucleotide metabolism	0	contig_1215
+head and packaging	2	contig_1215
+integration and excision	0	contig_1215
+lysis	1	contig_1215
+moron, auxiliary metabolic gene and host takeover	0	contig_1215
+other	0	contig_1215
+tail	0	contig_1215
+transcription regulation	0	contig_1215
+unknown function	62	contig_1215
+tRNAs	0	contig_1215
+CRISPRs	0	contig_1215
+tmRNAs	0	contig_1215
+VFDB_Virulence_Factors	0	contig_1215
+CARD_AMR_Genes	0	contig_1215
+CDS	73	contig_1218
+connector	0	contig_1218
+DNA, RNA and nucleotide metabolism	6	contig_1218
+head and packaging	3	contig_1218
+integration and excision	0	contig_1218
+lysis	2	contig_1218
+moron, auxiliary metabolic gene and host takeover	0	contig_1218
+other	2	contig_1218
+tail	1	contig_1218
+transcription regulation	0	contig_1218
+unknown function	59	contig_1218
+tRNAs	0	contig_1218
+CRISPRs	0	contig_1218
+tmRNAs	0	contig_1218
+VFDB_Virulence_Factors	0	contig_1218
+CARD_AMR_Genes	0	contig_1218
+CDS	161	contig_1223
+connector	0	contig_1223
+DNA, RNA and nucleotide metabolism	7	contig_1223
+head and packaging	2	contig_1223
+integration and excision	0	contig_1223
+lysis	0	contig_1223
+moron, auxiliary metabolic gene and host takeover	2	contig_1223
+other	1	contig_1223
+tail	1	contig_1223
+transcription regulation	0	contig_1223
+unknown function	148	contig_1223
+tRNAs	0	contig_1223
+CRISPRs	0	contig_1223
+tmRNAs	0	contig_1223
+VFDB_Virulence_Factors	0	contig_1223
+CARD_AMR_Genes	0	contig_1223
+CDS	75	contig_1226
+connector	0	contig_1226
+DNA, RNA and nucleotide metabolism	10	contig_1226
+head and packaging	9	contig_1226
+integration and excision	0	contig_1226
+lysis	3	contig_1226
+moron, auxiliary metabolic gene and host takeover	0	contig_1226
+other	1	contig_1226
+tail	1	contig_1226
+transcription regulation	0	contig_1226
+unknown function	51	contig_1226
+tRNAs	0	contig_1226
+CRISPRs	0	contig_1226
+tmRNAs	0	contig_1226
+VFDB_Virulence_Factors	0	contig_1226
+CARD_AMR_Genes	0	contig_1226
+CDS	97	contig_123
+connector	1	contig_123
+DNA, RNA and nucleotide metabolism	4	contig_123
+head and packaging	5	contig_123
+integration and excision	0	contig_123
+lysis	1	contig_123
+moron, auxiliary metabolic gene and host takeover	0	contig_123
+other	1	contig_123
+tail	5	contig_123
+transcription regulation	0	contig_123
+unknown function	80	contig_123
+tRNAs	0	contig_123
+CRISPRs	0	contig_123
+tmRNAs	0	contig_123
+VFDB_Virulence_Factors	0	contig_123
+CARD_AMR_Genes	0	contig_123
+CDS	95	contig_1240
+connector	3	contig_1240
+DNA, RNA and nucleotide metabolism	3	contig_1240
+head and packaging	10	contig_1240
+integration and excision	0	contig_1240
+lysis	0	contig_1240
+moron, auxiliary metabolic gene and host takeover	0	contig_1240
+other	0	contig_1240
+tail	4	contig_1240
+transcription regulation	0	contig_1240
+unknown function	75	contig_1240
+tRNAs	0	contig_1240
+CRISPRs	0	contig_1240
+tmRNAs	0	contig_1240
+VFDB_Virulence_Factors	0	contig_1240
+CARD_AMR_Genes	0	contig_1240
+CDS	74	contig_1252
+connector	2	contig_1252
+DNA, RNA and nucleotide metabolism	0	contig_1252
+head and packaging	3	contig_1252
+integration and excision	0	contig_1252
+lysis	1	contig_1252
+moron, auxiliary metabolic gene and host takeover	0	contig_1252
+other	1	contig_1252
+tail	6	contig_1252
+transcription regulation	0	contig_1252
+unknown function	61	contig_1252
+tRNAs	0	contig_1252
+CRISPRs	0	contig_1252
+tmRNAs	0	contig_1252
+VFDB_Virulence_Factors	0	contig_1252
+CARD_AMR_Genes	0	contig_1252
+CDS	49	contig_1254
+connector	4	contig_1254
+DNA, RNA and nucleotide metabolism	0	contig_1254
+head and packaging	8	contig_1254
+integration and excision	0	contig_1254
+lysis	0	contig_1254
+moron, auxiliary metabolic gene and host takeover	0	contig_1254
+other	0	contig_1254
+tail	8	contig_1254
+transcription regulation	0	contig_1254
+unknown function	29	contig_1254
+tRNAs	0	contig_1254
+CRISPRs	0	contig_1254
+tmRNAs	0	contig_1254
+VFDB_Virulence_Factors	0	contig_1254
+CARD_AMR_Genes	0	contig_1254
+CDS	105	contig_1257
+connector	5	contig_1257
+DNA, RNA and nucleotide metabolism	8	contig_1257
+head and packaging	8	contig_1257
+integration and excision	0	contig_1257
+lysis	2	contig_1257
+moron, auxiliary metabolic gene and host takeover	0	contig_1257
+other	2	contig_1257
+tail	6	contig_1257
+transcription regulation	0	contig_1257
+unknown function	74	contig_1257
+tRNAs	1	contig_1257
+CRISPRs	0	contig_1257
+tmRNAs	0	contig_1257
+VFDB_Virulence_Factors	0	contig_1257
+CARD_AMR_Genes	0	contig_1257
+CDS	94	contig_1262
+connector	4	contig_1262
+DNA, RNA and nucleotide metabolism	6	contig_1262
+head and packaging	7	contig_1262
+integration and excision	0	contig_1262
+lysis	2	contig_1262
+moron, auxiliary metabolic gene and host takeover	0	contig_1262
+other	0	contig_1262
+tail	8	contig_1262
+transcription regulation	2	contig_1262
+unknown function	65	contig_1262
+tRNAs	0	contig_1262
+CRISPRs	0	contig_1262
+tmRNAs	0	contig_1262
+VFDB_Virulence_Factors	0	contig_1262
+CARD_AMR_Genes	0	contig_1262
+CDS	141	contig_1266
+connector	0	contig_1266
+DNA, RNA and nucleotide metabolism	3	contig_1266
+head and packaging	4	contig_1266
+integration and excision	0	contig_1266
+lysis	1	contig_1266
+moron, auxiliary metabolic gene and host takeover	0	contig_1266
+other	1	contig_1266
+tail	0	contig_1266
+transcription regulation	0	contig_1266
+unknown function	132	contig_1266
+tRNAs	0	contig_1266
+CRISPRs	0	contig_1266
+tmRNAs	0	contig_1266
+VFDB_Virulence_Factors	0	contig_1266
+CARD_AMR_Genes	0	contig_1266
+CDS	61	contig_1271
+connector	0	contig_1271
+DNA, RNA and nucleotide metabolism	1	contig_1271
+head and packaging	3	contig_1271
+integration and excision	0	contig_1271
+lysis	0	contig_1271
+moron, auxiliary metabolic gene and host takeover	0	contig_1271
+other	0	contig_1271
+tail	0	contig_1271
+transcription regulation	0	contig_1271
+unknown function	57	contig_1271
+tRNAs	0	contig_1271
+CRISPRs	0	contig_1271
+tmRNAs	0	contig_1271
+VFDB_Virulence_Factors	0	contig_1271
+CARD_AMR_Genes	0	contig_1271
+CDS	63	contig_1272
+connector	0	contig_1272
+DNA, RNA and nucleotide metabolism	0	contig_1272
+head and packaging	5	contig_1272
+integration and excision	0	contig_1272
+lysis	0	contig_1272
+moron, auxiliary metabolic gene and host takeover	0	contig_1272
+other	1	contig_1272
+tail	0	contig_1272
+transcription regulation	0	contig_1272
+unknown function	57	contig_1272
+tRNAs	0	contig_1272
+CRISPRs	0	contig_1272
+tmRNAs	0	contig_1272
+VFDB_Virulence_Factors	0	contig_1272
+CARD_AMR_Genes	0	contig_1272
+CDS	60	contig_1280
+connector	0	contig_1280
+DNA, RNA and nucleotide metabolism	2	contig_1280
+head and packaging	0	contig_1280
+integration and excision	0	contig_1280
+lysis	1	contig_1280
+moron, auxiliary metabolic gene and host takeover	0	contig_1280
+other	1	contig_1280
+tail	1	contig_1280
+transcription regulation	0	contig_1280
+unknown function	55	contig_1280
+tRNAs	0	contig_1280
+CRISPRs	0	contig_1280
+tmRNAs	0	contig_1280
+VFDB_Virulence_Factors	0	contig_1280
+CARD_AMR_Genes	0	contig_1280
+CDS	76	contig_1290
+connector	0	contig_1290
+DNA, RNA and nucleotide metabolism	3	contig_1290
+head and packaging	6	contig_1290
+integration and excision	0	contig_1290
+lysis	0	contig_1290
+moron, auxiliary metabolic gene and host takeover	0	contig_1290
+other	1	contig_1290
+tail	2	contig_1290
+transcription regulation	0	contig_1290
+unknown function	64	contig_1290
+tRNAs	0	contig_1290
+CRISPRs	0	contig_1290
+tmRNAs	0	contig_1290
+VFDB_Virulence_Factors	0	contig_1290
+CARD_AMR_Genes	0	contig_1290
+CDS	105	contig_1298
+connector	0	contig_1298
+DNA, RNA and nucleotide metabolism	8	contig_1298
+head and packaging	3	contig_1298
+integration and excision	0	contig_1298
+lysis	2	contig_1298
+moron, auxiliary metabolic gene and host takeover	1	contig_1298
+other	3	contig_1298
+tail	0	contig_1298
+transcription regulation	0	contig_1298
+unknown function	88	contig_1298
+tRNAs	0	contig_1298
+CRISPRs	0	contig_1298
+tmRNAs	0	contig_1298
+VFDB_Virulence_Factors	0	contig_1298
+CARD_AMR_Genes	0	contig_1298
+CDS	52	contig_1303
+connector	0	contig_1303
+DNA, RNA and nucleotide metabolism	1	contig_1303
+head and packaging	5	contig_1303
+integration and excision	0	contig_1303
+lysis	1	contig_1303
+moron, auxiliary metabolic gene and host takeover	0	contig_1303
+other	0	contig_1303
+tail	2	contig_1303
+transcription regulation	0	contig_1303
+unknown function	43	contig_1303
+tRNAs	0	contig_1303
+CRISPRs	0	contig_1303
+tmRNAs	0	contig_1303
+VFDB_Virulence_Factors	0	contig_1303
+CARD_AMR_Genes	0	contig_1303
+CDS	119	contig_132
+connector	0	contig_132
+DNA, RNA and nucleotide metabolism	7	contig_132
+head and packaging	5	contig_132
+integration and excision	0	contig_132
+lysis	1	contig_132
+moron, auxiliary metabolic gene and host takeover	0	contig_132
+other	1	contig_132
+tail	0	contig_132
+transcription regulation	0	contig_132
+unknown function	105	contig_132
+tRNAs	0	contig_132
+CRISPRs	0	contig_132
+tmRNAs	0	contig_132
+VFDB_Virulence_Factors	0	contig_132
+CARD_AMR_Genes	0	contig_132
+CDS	40	contig_1320
+connector	0	contig_1320
+DNA, RNA and nucleotide metabolism	0	contig_1320
+head and packaging	1	contig_1320
+integration and excision	0	contig_1320
+lysis	0	contig_1320
+moron, auxiliary metabolic gene and host takeover	0	contig_1320
+other	0	contig_1320
+tail	0	contig_1320
+transcription regulation	0	contig_1320
+unknown function	39	contig_1320
+tRNAs	0	contig_1320
+CRISPRs	0	contig_1320
+tmRNAs	0	contig_1320
+VFDB_Virulence_Factors	0	contig_1320
+CARD_AMR_Genes	0	contig_1320
+CDS	82	contig_1322
+connector	2	contig_1322
+DNA, RNA and nucleotide metabolism	9	contig_1322
+head and packaging	8	contig_1322
+integration and excision	0	contig_1322
+lysis	0	contig_1322
+moron, auxiliary metabolic gene and host takeover	0	contig_1322
+other	0	contig_1322
+tail	3	contig_1322
+transcription regulation	1	contig_1322
+unknown function	59	contig_1322
+tRNAs	1	contig_1322
+CRISPRs	0	contig_1322
+tmRNAs	0	contig_1322
+VFDB_Virulence_Factors	0	contig_1322
+CARD_AMR_Genes	0	contig_1322
+CDS	104	contig_1323
+connector	0	contig_1323
+DNA, RNA and nucleotide metabolism	5	contig_1323
+head and packaging	6	contig_1323
+integration and excision	0	contig_1323
+lysis	2	contig_1323
+moron, auxiliary metabolic gene and host takeover	1	contig_1323
+other	1	contig_1323
+tail	2	contig_1323
+transcription regulation	0	contig_1323
+unknown function	87	contig_1323
+tRNAs	0	contig_1323
+CRISPRs	0	contig_1323
+tmRNAs	0	contig_1323
+VFDB_Virulence_Factors	0	contig_1323
+CARD_AMR_Genes	0	contig_1323
+CDS	92	contig_1326
+connector	0	contig_1326
+DNA, RNA and nucleotide metabolism	1	contig_1326
+head and packaging	4	contig_1326
+integration and excision	0	contig_1326
+lysis	1	contig_1326
+moron, auxiliary metabolic gene and host takeover	0	contig_1326
+other	2	contig_1326
+tail	1	contig_1326
+transcription regulation	0	contig_1326
+unknown function	83	contig_1326
+tRNAs	0	contig_1326
+CRISPRs	0	contig_1326
+tmRNAs	0	contig_1326
+VFDB_Virulence_Factors	0	contig_1326
+CARD_AMR_Genes	0	contig_1326
+CDS	138	contig_1327
+connector	0	contig_1327
+DNA, RNA and nucleotide metabolism	0	contig_1327
+head and packaging	3	contig_1327
+integration and excision	0	contig_1327
+lysis	2	contig_1327
+moron, auxiliary metabolic gene and host takeover	0	contig_1327
+other	1	contig_1327
+tail	0	contig_1327
+transcription regulation	0	contig_1327
+unknown function	132	contig_1327
+tRNAs	0	contig_1327
+CRISPRs	0	contig_1327
+tmRNAs	0	contig_1327
+VFDB_Virulence_Factors	0	contig_1327
+CARD_AMR_Genes	0	contig_1327
+CDS	100	contig_133
+connector	1	contig_133
+DNA, RNA and nucleotide metabolism	11	contig_133
+head and packaging	6	contig_133
+integration and excision	1	contig_133
+lysis	3	contig_133
+moron, auxiliary metabolic gene and host takeover	0	contig_133
+other	3	contig_133
+tail	4	contig_133
+transcription regulation	0	contig_133
+unknown function	71	contig_133
+tRNAs	0	contig_133
+CRISPRs	0	contig_133
+tmRNAs	0	contig_133
+VFDB_Virulence_Factors	0	contig_133
+CARD_AMR_Genes	0	contig_133
+CDS	108	contig_1330
+connector	0	contig_1330
+DNA, RNA and nucleotide metabolism	3	contig_1330
+head and packaging	2	contig_1330
+integration and excision	1	contig_1330
+lysis	0	contig_1330
+moron, auxiliary metabolic gene and host takeover	0	contig_1330
+other	0	contig_1330
+tail	1	contig_1330
+transcription regulation	0	contig_1330
+unknown function	101	contig_1330
+tRNAs	0	contig_1330
+CRISPRs	0	contig_1330
+tmRNAs	0	contig_1330
+VFDB_Virulence_Factors	0	contig_1330
+CARD_AMR_Genes	0	contig_1330
+CDS	60	contig_1331
+connector	0	contig_1331
+DNA, RNA and nucleotide metabolism	0	contig_1331
+head and packaging	2	contig_1331
+integration and excision	0	contig_1331
+lysis	0	contig_1331
+moron, auxiliary metabolic gene and host takeover	0	contig_1331
+other	0	contig_1331
+tail	0	contig_1331
+transcription regulation	0	contig_1331
+unknown function	58	contig_1331
+tRNAs	0	contig_1331
+CRISPRs	0	contig_1331
+tmRNAs	0	contig_1331
+VFDB_Virulence_Factors	0	contig_1331
+CARD_AMR_Genes	0	contig_1331
+CDS	51	contig_1344
+connector	0	contig_1344
+DNA, RNA and nucleotide metabolism	0	contig_1344
+head and packaging	3	contig_1344
+integration and excision	0	contig_1344
+lysis	0	contig_1344
+moron, auxiliary metabolic gene and host takeover	0	contig_1344
+other	0	contig_1344
+tail	0	contig_1344
+transcription regulation	0	contig_1344
+unknown function	48	contig_1344
+tRNAs	0	contig_1344
+CRISPRs	0	contig_1344
+tmRNAs	0	contig_1344
+VFDB_Virulence_Factors	0	contig_1344
+CARD_AMR_Genes	0	contig_1344
+CDS	74	contig_1351
+connector	0	contig_1351
+DNA, RNA and nucleotide metabolism	0	contig_1351
+head and packaging	2	contig_1351
+integration and excision	0	contig_1351
+lysis	0	contig_1351
+moron, auxiliary metabolic gene and host takeover	0	contig_1351
+other	1	contig_1351
+tail	0	contig_1351
+transcription regulation	0	contig_1351
+unknown function	71	contig_1351
+tRNAs	0	contig_1351
+CRISPRs	0	contig_1351
+tmRNAs	0	contig_1351
+VFDB_Virulence_Factors	0	contig_1351
+CARD_AMR_Genes	0	contig_1351
+CDS	124	contig_1356
+connector	0	contig_1356
+DNA, RNA and nucleotide metabolism	3	contig_1356
+head and packaging	10	contig_1356
+integration and excision	0	contig_1356
+lysis	0	contig_1356
+moron, auxiliary metabolic gene and host takeover	0	contig_1356
+other	0	contig_1356
+tail	2	contig_1356
+transcription regulation	0	contig_1356
+unknown function	109	contig_1356
+tRNAs	0	contig_1356
+CRISPRs	0	contig_1356
+tmRNAs	0	contig_1356
+VFDB_Virulence_Factors	0	contig_1356
+CARD_AMR_Genes	0	contig_1356
+CDS	65	contig_1360
+connector	0	contig_1360
+DNA, RNA and nucleotide metabolism	2	contig_1360
+head and packaging	1	contig_1360
+integration and excision	0	contig_1360
+lysis	1	contig_1360
+moron, auxiliary metabolic gene and host takeover	0	contig_1360
+other	3	contig_1360
+tail	0	contig_1360
+transcription regulation	0	contig_1360
+unknown function	58	contig_1360
+tRNAs	0	contig_1360
+CRISPRs	0	contig_1360
+tmRNAs	0	contig_1360
+VFDB_Virulence_Factors	0	contig_1360
+CARD_AMR_Genes	0	contig_1360
+CDS	68	contig_1366
+connector	0	contig_1366
+DNA, RNA and nucleotide metabolism	0	contig_1366
+head and packaging	4	contig_1366
+integration and excision	0	contig_1366
+lysis	0	contig_1366
+moron, auxiliary metabolic gene and host takeover	0	contig_1366
+other	2	contig_1366
+tail	1	contig_1366
+transcription regulation	0	contig_1366
+unknown function	61	contig_1366
+tRNAs	0	contig_1366
+CRISPRs	0	contig_1366
+tmRNAs	0	contig_1366
+VFDB_Virulence_Factors	0	contig_1366
+CARD_AMR_Genes	0	contig_1366
+CDS	99	contig_1374
+connector	0	contig_1374
+DNA, RNA and nucleotide metabolism	5	contig_1374
+head and packaging	11	contig_1374
+integration and excision	0	contig_1374
+lysis	2	contig_1374
+moron, auxiliary metabolic gene and host takeover	5	contig_1374
+other	4	contig_1374
+tail	4	contig_1374
+transcription regulation	1	contig_1374
+unknown function	67	contig_1374
+tRNAs	0	contig_1374
+CRISPRs	0	contig_1374
+tmRNAs	0	contig_1374
+VFDB_Virulence_Factors	0	contig_1374
+CARD_AMR_Genes	0	contig_1374
+CDS	113	contig_1378
+connector	0	contig_1378
+DNA, RNA and nucleotide metabolism	1	contig_1378
+head and packaging	7	contig_1378
+integration and excision	0	contig_1378
+lysis	2	contig_1378
+moron, auxiliary metabolic gene and host takeover	5	contig_1378
+other	2	contig_1378
+tail	1	contig_1378
+transcription regulation	1	contig_1378
+unknown function	94	contig_1378
+tRNAs	0	contig_1378
+CRISPRs	0	contig_1378
+tmRNAs	0	contig_1378
+VFDB_Virulence_Factors	0	contig_1378
+CARD_AMR_Genes	0	contig_1378
+CDS	55	contig_1382
+connector	0	contig_1382
+DNA, RNA and nucleotide metabolism	1	contig_1382
+head and packaging	0	contig_1382
+integration and excision	0	contig_1382
+lysis	0	contig_1382
+moron, auxiliary metabolic gene and host takeover	0	contig_1382
+other	0	contig_1382
+tail	2	contig_1382
+transcription regulation	0	contig_1382
+unknown function	52	contig_1382
+tRNAs	0	contig_1382
+CRISPRs	0	contig_1382
+tmRNAs	0	contig_1382
+VFDB_Virulence_Factors	0	contig_1382
+CARD_AMR_Genes	0	contig_1382
+CDS	75	contig_1385
+connector	0	contig_1385
+DNA, RNA and nucleotide metabolism	1	contig_1385
+head and packaging	7	contig_1385
+integration and excision	0	contig_1385
+lysis	0	contig_1385
+moron, auxiliary metabolic gene and host takeover	0	contig_1385
+other	4	contig_1385
+tail	1	contig_1385
+transcription regulation	0	contig_1385
+unknown function	62	contig_1385
+tRNAs	0	contig_1385
+CRISPRs	0	contig_1385
+tmRNAs	0	contig_1385
+VFDB_Virulence_Factors	0	contig_1385
+CARD_AMR_Genes	0	contig_1385
+CDS	95	contig_139
+connector	1	contig_139
+DNA, RNA and nucleotide metabolism	8	contig_139
+head and packaging	9	contig_139
+integration and excision	0	contig_139
+lysis	0	contig_139
+moron, auxiliary metabolic gene and host takeover	0	contig_139
+other	0	contig_139
+tail	1	contig_139
+transcription regulation	0	contig_139
+unknown function	76	contig_139
+tRNAs	0	contig_139
+CRISPRs	0	contig_139
+tmRNAs	0	contig_139
+VFDB_Virulence_Factors	0	contig_139
+CARD_AMR_Genes	0	contig_139
+CDS	135	contig_1393
+connector	0	contig_1393
+DNA, RNA and nucleotide metabolism	9	contig_1393
+head and packaging	1	contig_1393
+integration and excision	0	contig_1393
+lysis	0	contig_1393
+moron, auxiliary metabolic gene and host takeover	0	contig_1393
+other	0	contig_1393
+tail	1	contig_1393
+transcription regulation	1	contig_1393
+unknown function	123	contig_1393
+tRNAs	0	contig_1393
+CRISPRs	0	contig_1393
+tmRNAs	0	contig_1393
+VFDB_Virulence_Factors	0	contig_1393
+CARD_AMR_Genes	0	contig_1393
+CDS	160	contig_1394
+connector	1	contig_1394
+DNA, RNA and nucleotide metabolism	14	contig_1394
+head and packaging	1	contig_1394
+integration and excision	0	contig_1394
+lysis	0	contig_1394
+moron, auxiliary metabolic gene and host takeover	0	contig_1394
+other	2	contig_1394
+tail	4	contig_1394
+transcription regulation	0	contig_1394
+unknown function	138	contig_1394
+tRNAs	4	contig_1394
+CRISPRs	0	contig_1394
+tmRNAs	0	contig_1394
+VFDB_Virulence_Factors	0	contig_1394
+CARD_AMR_Genes	0	contig_1394
+CDS	106	contig_1396
+connector	0	contig_1396
+DNA, RNA and nucleotide metabolism	2	contig_1396
+head and packaging	7	contig_1396
+integration and excision	0	contig_1396
+lysis	0	contig_1396
+moron, auxiliary metabolic gene and host takeover	3	contig_1396
+other	1	contig_1396
+tail	2	contig_1396
+transcription regulation	0	contig_1396
+unknown function	91	contig_1396
+tRNAs	0	contig_1396
+CRISPRs	0	contig_1396
+tmRNAs	0	contig_1396
+VFDB_Virulence_Factors	0	contig_1396
+CARD_AMR_Genes	0	contig_1396
+CDS	43	contig_1398
+connector	0	contig_1398
+DNA, RNA and nucleotide metabolism	0	contig_1398
+head and packaging	3	contig_1398
+integration and excision	0	contig_1398
+lysis	0	contig_1398
+moron, auxiliary metabolic gene and host takeover	0	contig_1398
+other	0	contig_1398
+tail	0	contig_1398
+transcription regulation	0	contig_1398
+unknown function	40	contig_1398
+tRNAs	0	contig_1398
+CRISPRs	0	contig_1398
+tmRNAs	0	contig_1398
+VFDB_Virulence_Factors	0	contig_1398
+CARD_AMR_Genes	0	contig_1398
+CDS	47	contig_1407
+connector	0	contig_1407
+DNA, RNA and nucleotide metabolism	1	contig_1407
+head and packaging	1	contig_1407
+integration and excision	0	contig_1407
+lysis	0	contig_1407
+moron, auxiliary metabolic gene and host takeover	0	contig_1407
+other	0	contig_1407
+tail	3	contig_1407
+transcription regulation	0	contig_1407
+unknown function	42	contig_1407
+tRNAs	0	contig_1407
+CRISPRs	0	contig_1407
+tmRNAs	0	contig_1407
+VFDB_Virulence_Factors	0	contig_1407
+CARD_AMR_Genes	0	contig_1407
+CDS	128	contig_1423
+connector	0	contig_1423
+DNA, RNA and nucleotide metabolism	4	contig_1423
+head and packaging	1	contig_1423
+integration and excision	0	contig_1423
+lysis	1	contig_1423
+moron, auxiliary metabolic gene and host takeover	0	contig_1423
+other	0	contig_1423
+tail	4	contig_1423
+transcription regulation	0	contig_1423
+unknown function	118	contig_1423
+tRNAs	0	contig_1423
+CRISPRs	0	contig_1423
+tmRNAs	0	contig_1423
+VFDB_Virulence_Factors	0	contig_1423
+CARD_AMR_Genes	0	contig_1423
+CDS	59	contig_1424
+connector	0	contig_1424
+DNA, RNA and nucleotide metabolism	1	contig_1424
+head and packaging	4	contig_1424
+integration and excision	0	contig_1424
+lysis	1	contig_1424
+moron, auxiliary metabolic gene and host takeover	0	contig_1424
+other	3	contig_1424
+tail	1	contig_1424
+transcription regulation	1	contig_1424
+unknown function	48	contig_1424
+tRNAs	0	contig_1424
+CRISPRs	0	contig_1424
+tmRNAs	0	contig_1424
+VFDB_Virulence_Factors	0	contig_1424
+CARD_AMR_Genes	0	contig_1424
+CDS	35	contig_1430
+connector	0	contig_1430
+DNA, RNA and nucleotide metabolism	1	contig_1430
+head and packaging	0	contig_1430
+integration and excision	0	contig_1430
+lysis	0	contig_1430
+moron, auxiliary metabolic gene and host takeover	0	contig_1430
+other	2	contig_1430
+tail	1	contig_1430
+transcription regulation	1	contig_1430
+unknown function	30	contig_1430
+tRNAs	0	contig_1430
+CRISPRs	0	contig_1430
+tmRNAs	0	contig_1430
+VFDB_Virulence_Factors	0	contig_1430
+CARD_AMR_Genes	0	contig_1430
+CDS	30	contig_1433
+connector	1	contig_1433
+DNA, RNA and nucleotide metabolism	0	contig_1433
+head and packaging	5	contig_1433
+integration and excision	0	contig_1433
+lysis	0	contig_1433
+moron, auxiliary metabolic gene and host takeover	0	contig_1433
+other	0	contig_1433
+tail	0	contig_1433
+transcription regulation	0	contig_1433
+unknown function	24	contig_1433
+tRNAs	0	contig_1433
+CRISPRs	0	contig_1433
+tmRNAs	0	contig_1433
+VFDB_Virulence_Factors	0	contig_1433
+CARD_AMR_Genes	0	contig_1433
+CDS	57	contig_1437
+connector	2	contig_1437
+DNA, RNA and nucleotide metabolism	0	contig_1437
+head and packaging	7	contig_1437
+integration and excision	0	contig_1437
+lysis	0	contig_1437
+moron, auxiliary metabolic gene and host takeover	0	contig_1437
+other	0	contig_1437
+tail	9	contig_1437
+transcription regulation	0	contig_1437
+unknown function	39	contig_1437
+tRNAs	0	contig_1437
+CRISPRs	0	contig_1437
+tmRNAs	0	contig_1437
+VFDB_Virulence_Factors	0	contig_1437
+CARD_AMR_Genes	0	contig_1437
+CDS	58	contig_1438
+connector	0	contig_1438
+DNA, RNA and nucleotide metabolism	0	contig_1438
+head and packaging	5	contig_1438
+integration and excision	0	contig_1438
+lysis	1	contig_1438
+moron, auxiliary metabolic gene and host takeover	0	contig_1438
+other	0	contig_1438
+tail	1	contig_1438
+transcription regulation	0	contig_1438
+unknown function	51	contig_1438
+tRNAs	0	contig_1438
+CRISPRs	0	contig_1438
+tmRNAs	0	contig_1438
+VFDB_Virulence_Factors	0	contig_1438
+CARD_AMR_Genes	0	contig_1438
+CDS	82	contig_1439
+connector	1	contig_1439
+DNA, RNA and nucleotide metabolism	5	contig_1439
+head and packaging	5	contig_1439
+integration and excision	0	contig_1439
+lysis	0	contig_1439
+moron, auxiliary metabolic gene and host takeover	0	contig_1439
+other	3	contig_1439
+tail	2	contig_1439
+transcription regulation	0	contig_1439
+unknown function	66	contig_1439
+tRNAs	0	contig_1439
+CRISPRs	0	contig_1439
+tmRNAs	0	contig_1439
+VFDB_Virulence_Factors	0	contig_1439
+CARD_AMR_Genes	0	contig_1439
+CDS	68	contig_1445
+connector	0	contig_1445
+DNA, RNA and nucleotide metabolism	4	contig_1445
+head and packaging	3	contig_1445
+integration and excision	0	contig_1445
+lysis	1	contig_1445
+moron, auxiliary metabolic gene and host takeover	1	contig_1445
+other	0	contig_1445
+tail	0	contig_1445
+transcription regulation	0	contig_1445
+unknown function	59	contig_1445
+tRNAs	0	contig_1445
+CRISPRs	0	contig_1445
+tmRNAs	0	contig_1445
+VFDB_Virulence_Factors	0	contig_1445
+CARD_AMR_Genes	0	contig_1445
+CDS	98	contig_1451
+connector	2	contig_1451
+DNA, RNA and nucleotide metabolism	5	contig_1451
+head and packaging	10	contig_1451
+integration and excision	0	contig_1451
+lysis	0	contig_1451
+moron, auxiliary metabolic gene and host takeover	2	contig_1451
+other	1	contig_1451
+tail	2	contig_1451
+transcription regulation	0	contig_1451
+unknown function	76	contig_1451
+tRNAs	0	contig_1451
+CRISPRs	0	contig_1451
+tmRNAs	0	contig_1451
+VFDB_Virulence_Factors	0	contig_1451
+CARD_AMR_Genes	0	contig_1451
+CDS	118	contig_1456
+connector	1	contig_1456
+DNA, RNA and nucleotide metabolism	10	contig_1456
+head and packaging	6	contig_1456
+integration and excision	0	contig_1456
+lysis	1	contig_1456
+moron, auxiliary metabolic gene and host takeover	0	contig_1456
+other	2	contig_1456
+tail	3	contig_1456
+transcription regulation	2	contig_1456
+unknown function	93	contig_1456
+tRNAs	0	contig_1456
+CRISPRs	0	contig_1456
+tmRNAs	0	contig_1456
+VFDB_Virulence_Factors	0	contig_1456
+CARD_AMR_Genes	0	contig_1456
+CDS	65	contig_1457
+connector	0	contig_1457
+DNA, RNA and nucleotide metabolism	0	contig_1457
+head and packaging	3	contig_1457
+integration and excision	0	contig_1457
+lysis	0	contig_1457
+moron, auxiliary metabolic gene and host takeover	0	contig_1457
+other	2	contig_1457
+tail	0	contig_1457
+transcription regulation	0	contig_1457
+unknown function	60	contig_1457
+tRNAs	0	contig_1457
+CRISPRs	0	contig_1457
+tmRNAs	0	contig_1457
+VFDB_Virulence_Factors	0	contig_1457
+CARD_AMR_Genes	0	contig_1457
+CDS	69	contig_1459
+connector	0	contig_1459
+DNA, RNA and nucleotide metabolism	2	contig_1459
+head and packaging	2	contig_1459
+integration and excision	0	contig_1459
+lysis	0	contig_1459
+moron, auxiliary metabolic gene and host takeover	0	contig_1459
+other	1	contig_1459
+tail	0	contig_1459
+transcription regulation	0	contig_1459
+unknown function	64	contig_1459
+tRNAs	0	contig_1459
+CRISPRs	0	contig_1459
+tmRNAs	0	contig_1459
+VFDB_Virulence_Factors	0	contig_1459
+CARD_AMR_Genes	0	contig_1459
+CDS	68	contig_1460
+connector	0	contig_1460
+DNA, RNA and nucleotide metabolism	1	contig_1460
+head and packaging	0	contig_1460
+integration and excision	0	contig_1460
+lysis	0	contig_1460
+moron, auxiliary metabolic gene and host takeover	0	contig_1460
+other	0	contig_1460
+tail	4	contig_1460
+transcription regulation	0	contig_1460
+unknown function	63	contig_1460
+tRNAs	0	contig_1460
+CRISPRs	0	contig_1460
+tmRNAs	0	contig_1460
+VFDB_Virulence_Factors	0	contig_1460
+CARD_AMR_Genes	0	contig_1460
+CDS	54	contig_1467
+connector	1	contig_1467
+DNA, RNA and nucleotide metabolism	2	contig_1467
+head and packaging	0	contig_1467
+integration and excision	0	contig_1467
+lysis	0	contig_1467
+moron, auxiliary metabolic gene and host takeover	0	contig_1467
+other	0	contig_1467
+tail	4	contig_1467
+transcription regulation	0	contig_1467
+unknown function	47	contig_1467
+tRNAs	0	contig_1467
+CRISPRs	0	contig_1467
+tmRNAs	0	contig_1467
+VFDB_Virulence_Factors	0	contig_1467
+CARD_AMR_Genes	0	contig_1467
+CDS	55	contig_1469
+connector	0	contig_1469
+DNA, RNA and nucleotide metabolism	1	contig_1469
+head and packaging	5	contig_1469
+integration and excision	1	contig_1469
+lysis	0	contig_1469
+moron, auxiliary metabolic gene and host takeover	0	contig_1469
+other	1	contig_1469
+tail	1	contig_1469
+transcription regulation	0	contig_1469
+unknown function	46	contig_1469
+tRNAs	0	contig_1469
+CRISPRs	0	contig_1469
+tmRNAs	0	contig_1469
+VFDB_Virulence_Factors	0	contig_1469
+CARD_AMR_Genes	0	contig_1469
+CDS	119	contig_1472
+connector	0	contig_1472
+DNA, RNA and nucleotide metabolism	3	contig_1472
+head and packaging	7	contig_1472
+integration and excision	0	contig_1472
+lysis	1	contig_1472
+moron, auxiliary metabolic gene and host takeover	0	contig_1472
+other	1	contig_1472
+tail	0	contig_1472
+transcription regulation	0	contig_1472
+unknown function	107	contig_1472
+tRNAs	0	contig_1472
+CRISPRs	0	contig_1472
+tmRNAs	0	contig_1472
+VFDB_Virulence_Factors	0	contig_1472
+CARD_AMR_Genes	0	contig_1472
+CDS	57	contig_1473
+connector	1	contig_1473
+DNA, RNA and nucleotide metabolism	2	contig_1473
+head and packaging	2	contig_1473
+integration and excision	0	contig_1473
+lysis	0	contig_1473
+moron, auxiliary metabolic gene and host takeover	0	contig_1473
+other	0	contig_1473
+tail	3	contig_1473
+transcription regulation	1	contig_1473
+unknown function	48	contig_1473
+tRNAs	0	contig_1473
+CRISPRs	0	contig_1473
+tmRNAs	0	contig_1473
+VFDB_Virulence_Factors	0	contig_1473
+CARD_AMR_Genes	0	contig_1473
+CDS	88	contig_1474
+connector	1	contig_1474
+DNA, RNA and nucleotide metabolism	7	contig_1474
+head and packaging	9	contig_1474
+integration and excision	1	contig_1474
+lysis	1	contig_1474
+moron, auxiliary metabolic gene and host takeover	0	contig_1474
+other	0	contig_1474
+tail	3	contig_1474
+transcription regulation	1	contig_1474
+unknown function	65	contig_1474
+tRNAs	0	contig_1474
+CRISPRs	0	contig_1474
+tmRNAs	0	contig_1474
+VFDB_Virulence_Factors	0	contig_1474
+CARD_AMR_Genes	0	contig_1474
+CDS	37	contig_1476
+connector	0	contig_1476
+DNA, RNA and nucleotide metabolism	0	contig_1476
+head and packaging	0	contig_1476
+integration and excision	0	contig_1476
+lysis	0	contig_1476
+moron, auxiliary metabolic gene and host takeover	0	contig_1476
+other	0	contig_1476
+tail	2	contig_1476
+transcription regulation	0	contig_1476
+unknown function	35	contig_1476
+tRNAs	0	contig_1476
+CRISPRs	0	contig_1476
+tmRNAs	0	contig_1476
+VFDB_Virulence_Factors	0	contig_1476
+CARD_AMR_Genes	0	contig_1476
+CDS	119	contig_1477
+connector	2	contig_1477
+DNA, RNA and nucleotide metabolism	10	contig_1477
+head and packaging	8	contig_1477
+integration and excision	0	contig_1477
+lysis	1	contig_1477
+moron, auxiliary metabolic gene and host takeover	0	contig_1477
+other	1	contig_1477
+tail	1	contig_1477
+transcription regulation	0	contig_1477
+unknown function	96	contig_1477
+tRNAs	0	contig_1477
+CRISPRs	0	contig_1477
+tmRNAs	0	contig_1477
+VFDB_Virulence_Factors	0	contig_1477
+CARD_AMR_Genes	0	contig_1477
+CDS	78	contig_1482
+connector	4	contig_1482
+DNA, RNA and nucleotide metabolism	4	contig_1482
+head and packaging	6	contig_1482
+integration and excision	0	contig_1482
+lysis	1	contig_1482
+moron, auxiliary metabolic gene and host takeover	0	contig_1482
+other	6	contig_1482
+tail	2	contig_1482
+transcription regulation	0	contig_1482
+unknown function	55	contig_1482
+tRNAs	0	contig_1482
+CRISPRs	0	contig_1482
+tmRNAs	0	contig_1482
+VFDB_Virulence_Factors	0	contig_1482
+CARD_AMR_Genes	0	contig_1482
+CDS	154	contig_1484
+connector	1	contig_1484
+DNA, RNA and nucleotide metabolism	18	contig_1484
+head and packaging	6	contig_1484
+integration and excision	0	contig_1484
+lysis	1	contig_1484
+moron, auxiliary metabolic gene and host takeover	1	contig_1484
+other	2	contig_1484
+tail	9	contig_1484
+transcription regulation	1	contig_1484
+unknown function	115	contig_1484
+tRNAs	1	contig_1484
+CRISPRs	0	contig_1484
+tmRNAs	0	contig_1484
+VFDB_Virulence_Factors	0	contig_1484
+CARD_AMR_Genes	0	contig_1484
+CDS	44	contig_1488
+connector	0	contig_1488
+DNA, RNA and nucleotide metabolism	0	contig_1488
+head and packaging	2	contig_1488
+integration and excision	0	contig_1488
+lysis	0	contig_1488
+moron, auxiliary metabolic gene and host takeover	0	contig_1488
+other	0	contig_1488
+tail	1	contig_1488
+transcription regulation	0	contig_1488
+unknown function	41	contig_1488
+tRNAs	0	contig_1488
+CRISPRs	0	contig_1488
+tmRNAs	0	contig_1488
+VFDB_Virulence_Factors	0	contig_1488
+CARD_AMR_Genes	0	contig_1488
+CDS	66	contig_1491
+connector	1	contig_1491
+DNA, RNA and nucleotide metabolism	5	contig_1491
+head and packaging	6	contig_1491
+integration and excision	0	contig_1491
+lysis	1	contig_1491
+moron, auxiliary metabolic gene and host takeover	3	contig_1491
+other	1	contig_1491
+tail	2	contig_1491
+transcription regulation	0	contig_1491
+unknown function	47	contig_1491
+tRNAs	0	contig_1491
+CRISPRs	0	contig_1491
+tmRNAs	0	contig_1491
+VFDB_Virulence_Factors	0	contig_1491
+CARD_AMR_Genes	0	contig_1491
+CDS	138	contig_1496
+connector	0	contig_1496
+DNA, RNA and nucleotide metabolism	3	contig_1496
+head and packaging	6	contig_1496
+integration and excision	0	contig_1496
+lysis	0	contig_1496
+moron, auxiliary metabolic gene and host takeover	0	contig_1496
+other	1	contig_1496
+tail	0	contig_1496
+transcription regulation	0	contig_1496
+unknown function	128	contig_1496
+tRNAs	0	contig_1496
+CRISPRs	0	contig_1496
+tmRNAs	0	contig_1496
+VFDB_Virulence_Factors	0	contig_1496
+CARD_AMR_Genes	0	contig_1496
+CDS	67	contig_1497
+connector	0	contig_1497
+DNA, RNA and nucleotide metabolism	7	contig_1497
+head and packaging	4	contig_1497
+integration and excision	0	contig_1497
+lysis	1	contig_1497
+moron, auxiliary metabolic gene and host takeover	0	contig_1497
+other	2	contig_1497
+tail	1	contig_1497
+transcription regulation	0	contig_1497
+unknown function	52	contig_1497
+tRNAs	0	contig_1497
+CRISPRs	0	contig_1497
+tmRNAs	0	contig_1497
+VFDB_Virulence_Factors	0	contig_1497
+CARD_AMR_Genes	0	contig_1497
+CDS	83	contig_1498
+connector	3	contig_1498
+DNA, RNA and nucleotide metabolism	10	contig_1498
+head and packaging	4	contig_1498
+integration and excision	0	contig_1498
+lysis	1	contig_1498
+moron, auxiliary metabolic gene and host takeover	0	contig_1498
+other	0	contig_1498
+tail	5	contig_1498
+transcription regulation	0	contig_1498
+unknown function	60	contig_1498
+tRNAs	0	contig_1498
+CRISPRs	0	contig_1498
+tmRNAs	0	contig_1498
+VFDB_Virulence_Factors	0	contig_1498
+CARD_AMR_Genes	0	contig_1498
+CDS	119	contig_1499
+connector	0	contig_1499
+DNA, RNA and nucleotide metabolism	1	contig_1499
+head and packaging	4	contig_1499
+integration and excision	0	contig_1499
+lysis	1	contig_1499
+moron, auxiliary metabolic gene and host takeover	0	contig_1499
+other	2	contig_1499
+tail	1	contig_1499
+transcription regulation	0	contig_1499
+unknown function	110	contig_1499
+tRNAs	0	contig_1499
+CRISPRs	0	contig_1499
+tmRNAs	0	contig_1499
+VFDB_Virulence_Factors	0	contig_1499
+CARD_AMR_Genes	0	contig_1499
+CDS	159	contig_1519
+connector	1	contig_1519
+DNA, RNA and nucleotide metabolism	8	contig_1519
+head and packaging	0	contig_1519
+integration and excision	0	contig_1519
+lysis	0	contig_1519
+moron, auxiliary metabolic gene and host takeover	0	contig_1519
+other	6	contig_1519
+tail	0	contig_1519
+transcription regulation	0	contig_1519
+unknown function	144	contig_1519
+tRNAs	0	contig_1519
+CRISPRs	0	contig_1519
+tmRNAs	0	contig_1519
+VFDB_Virulence_Factors	0	contig_1519
+CARD_AMR_Genes	0	contig_1519
+CDS	88	contig_152
+connector	0	contig_152
+DNA, RNA and nucleotide metabolism	3	contig_152
+head and packaging	7	contig_152
+integration and excision	0	contig_152
+lysis	2	contig_152
+moron, auxiliary metabolic gene and host takeover	2	contig_152
+other	1	contig_152
+tail	2	contig_152
+transcription regulation	1	contig_152
+unknown function	70	contig_152
+tRNAs	0	contig_152
+CRISPRs	0	contig_152
+tmRNAs	0	contig_152
+VFDB_Virulence_Factors	0	contig_152
+CARD_AMR_Genes	0	contig_152
+CDS	65	contig_1539
+connector	2	contig_1539
+DNA, RNA and nucleotide metabolism	6	contig_1539
+head and packaging	4	contig_1539
+integration and excision	0	contig_1539
+lysis	0	contig_1539
+moron, auxiliary metabolic gene and host takeover	1	contig_1539
+other	3	contig_1539
+tail	3	contig_1539
+transcription regulation	2	contig_1539
+unknown function	44	contig_1539
+tRNAs	1	contig_1539
+CRISPRs	0	contig_1539
+tmRNAs	0	contig_1539
+VFDB_Virulence_Factors	0	contig_1539
+CARD_AMR_Genes	0	contig_1539
+CDS	86	contig_1542
+connector	0	contig_1542
+DNA, RNA and nucleotide metabolism	7	contig_1542
+head and packaging	5	contig_1542
+integration and excision	0	contig_1542
+lysis	1	contig_1542
+moron, auxiliary metabolic gene and host takeover	0	contig_1542
+other	0	contig_1542
+tail	1	contig_1542
+transcription regulation	0	contig_1542
+unknown function	72	contig_1542
+tRNAs	0	contig_1542
+CRISPRs	0	contig_1542
+tmRNAs	0	contig_1542
+VFDB_Virulence_Factors	0	contig_1542
+CARD_AMR_Genes	0	contig_1542
+CDS	70	contig_1543
+connector	0	contig_1543
+DNA, RNA and nucleotide metabolism	3	contig_1543
+head and packaging	3	contig_1543
+integration and excision	0	contig_1543
+lysis	2	contig_1543
+moron, auxiliary metabolic gene and host takeover	0	contig_1543
+other	2	contig_1543
+tail	1	contig_1543
+transcription regulation	0	contig_1543
+unknown function	59	contig_1543
+tRNAs	0	contig_1543
+CRISPRs	0	contig_1543
+tmRNAs	0	contig_1543
+VFDB_Virulence_Factors	0	contig_1543
+CARD_AMR_Genes	0	contig_1543
+CDS	106	contig_1545
+connector	1	contig_1545
+DNA, RNA and nucleotide metabolism	10	contig_1545
+head and packaging	2	contig_1545
+integration and excision	0	contig_1545
+lysis	0	contig_1545
+moron, auxiliary metabolic gene and host takeover	1	contig_1545
+other	0	contig_1545
+tail	0	contig_1545
+transcription regulation	2	contig_1545
+unknown function	90	contig_1545
+tRNAs	1	contig_1545
+CRISPRs	0	contig_1545
+tmRNAs	0	contig_1545
+VFDB_Virulence_Factors	0	contig_1545
+CARD_AMR_Genes	0	contig_1545
+CDS	123	contig_1546
+connector	0	contig_1546
+DNA, RNA and nucleotide metabolism	6	contig_1546
+head and packaging	7	contig_1546
+integration and excision	0	contig_1546
+lysis	1	contig_1546
+moron, auxiliary metabolic gene and host takeover	0	contig_1546
+other	0	contig_1546
+tail	1	contig_1546
+transcription regulation	0	contig_1546
+unknown function	108	contig_1546
+tRNAs	0	contig_1546
+CRISPRs	0	contig_1546
+tmRNAs	0	contig_1546
+VFDB_Virulence_Factors	0	contig_1546
+CARD_AMR_Genes	0	contig_1546
+CDS	98	contig_1547
+connector	0	contig_1547
+DNA, RNA and nucleotide metabolism	6	contig_1547
+head and packaging	3	contig_1547
+integration and excision	0	contig_1547
+lysis	1	contig_1547
+moron, auxiliary metabolic gene and host takeover	0	contig_1547
+other	5	contig_1547
+tail	0	contig_1547
+transcription regulation	0	contig_1547
+unknown function	83	contig_1547
+tRNAs	0	contig_1547
+CRISPRs	0	contig_1547
+tmRNAs	0	contig_1547
+VFDB_Virulence_Factors	0	contig_1547
+CARD_AMR_Genes	0	contig_1547
+CDS	111	contig_1549
+connector	1	contig_1549
+DNA, RNA and nucleotide metabolism	9	contig_1549
+head and packaging	3	contig_1549
+integration and excision	0	contig_1549
+lysis	1	contig_1549
+moron, auxiliary metabolic gene and host takeover	0	contig_1549
+other	1	contig_1549
+tail	1	contig_1549
+transcription regulation	0	contig_1549
+unknown function	95	contig_1549
+tRNAs	1	contig_1549
+CRISPRs	0	contig_1549
+tmRNAs	0	contig_1549
+VFDB_Virulence_Factors	0	contig_1549
+CARD_AMR_Genes	0	contig_1549
+CDS	66	contig_1552
+connector	0	contig_1552
+DNA, RNA and nucleotide metabolism	3	contig_1552
+head and packaging	0	contig_1552
+integration and excision	0	contig_1552
+lysis	0	contig_1552
+moron, auxiliary metabolic gene and host takeover	0	contig_1552
+other	0	contig_1552
+tail	1	contig_1552
+transcription regulation	0	contig_1552
+unknown function	62	contig_1552
+tRNAs	0	contig_1552
+CRISPRs	0	contig_1552
+tmRNAs	0	contig_1552
+VFDB_Virulence_Factors	0	contig_1552
+CARD_AMR_Genes	0	contig_1552
+CDS	96	contig_1554
+connector	1	contig_1554
+DNA, RNA and nucleotide metabolism	3	contig_1554
+head and packaging	2	contig_1554
+integration and excision	0	contig_1554
+lysis	2	contig_1554
+moron, auxiliary metabolic gene and host takeover	0	contig_1554
+other	0	contig_1554
+tail	0	contig_1554
+transcription regulation	0	contig_1554
+unknown function	88	contig_1554
+tRNAs	0	contig_1554
+CRISPRs	0	contig_1554
+tmRNAs	0	contig_1554
+VFDB_Virulence_Factors	0	contig_1554
+CARD_AMR_Genes	0	contig_1554
+CDS	90	contig_1555
+connector	0	contig_1555
+DNA, RNA and nucleotide metabolism	2	contig_1555
+head and packaging	3	contig_1555
+integration and excision	0	contig_1555
+lysis	1	contig_1555
+moron, auxiliary metabolic gene and host takeover	0	contig_1555
+other	1	contig_1555
+tail	3	contig_1555
+transcription regulation	1	contig_1555
+unknown function	79	contig_1555
+tRNAs	0	contig_1555
+CRISPRs	0	contig_1555
+tmRNAs	0	contig_1555
+VFDB_Virulence_Factors	0	contig_1555
+CARD_AMR_Genes	0	contig_1555
+CDS	56	contig_1558
+connector	0	contig_1558
+DNA, RNA and nucleotide metabolism	5	contig_1558
+head and packaging	2	contig_1558
+integration and excision	0	contig_1558
+lysis	0	contig_1558
+moron, auxiliary metabolic gene and host takeover	0	contig_1558
+other	1	contig_1558
+tail	0	contig_1558
+transcription regulation	0	contig_1558
+unknown function	48	contig_1558
+tRNAs	0	contig_1558
+CRISPRs	0	contig_1558
+tmRNAs	0	contig_1558
+VFDB_Virulence_Factors	0	contig_1558
+CARD_AMR_Genes	0	contig_1558
+CDS	95	contig_16
+connector	0	contig_16
+DNA, RNA and nucleotide metabolism	11	contig_16
+head and packaging	1	contig_16
+integration and excision	0	contig_16
+lysis	1	contig_16
+moron, auxiliary metabolic gene and host takeover	0	contig_16
+other	3	contig_16
+tail	3	contig_16
+transcription regulation	0	contig_16
+unknown function	76	contig_16
+tRNAs	0	contig_16
+CRISPRs	0	contig_16
+tmRNAs	0	contig_16
+VFDB_Virulence_Factors	0	contig_16
+CARD_AMR_Genes	0	contig_16
+CDS	92	contig_168
+connector	0	contig_168
+DNA, RNA and nucleotide metabolism	2	contig_168
+head and packaging	8	contig_168
+integration and excision	0	contig_168
+lysis	1	contig_168
+moron, auxiliary metabolic gene and host takeover	0	contig_168
+other	2	contig_168
+tail	0	contig_168
+transcription regulation	0	contig_168
+unknown function	79	contig_168
+tRNAs	0	contig_168
+CRISPRs	0	contig_168
+tmRNAs	0	contig_168
+VFDB_Virulence_Factors	0	contig_168
+CARD_AMR_Genes	0	contig_168
+CDS	68	contig_169
+connector	0	contig_169
+DNA, RNA and nucleotide metabolism	2	contig_169
+head and packaging	0	contig_169
+integration and excision	0	contig_169
+lysis	0	contig_169
+moron, auxiliary metabolic gene and host takeover	0	contig_169
+other	0	contig_169
+tail	2	contig_169
+transcription regulation	0	contig_169
+unknown function	64	contig_169
+tRNAs	0	contig_169
+CRISPRs	0	contig_169
+tmRNAs	0	contig_169
+VFDB_Virulence_Factors	0	contig_169
+CARD_AMR_Genes	0	contig_169
+CDS	126	contig_174
+connector	0	contig_174
+DNA, RNA and nucleotide metabolism	3	contig_174
+head and packaging	2	contig_174
+integration and excision	0	contig_174
+lysis	0	contig_174
+moron, auxiliary metabolic gene and host takeover	1	contig_174
+other	1	contig_174
+tail	1	contig_174
+transcription regulation	0	contig_174
+unknown function	118	contig_174
+tRNAs	0	contig_174
+CRISPRs	0	contig_174
+tmRNAs	0	contig_174
+VFDB_Virulence_Factors	0	contig_174
+CARD_AMR_Genes	0	contig_174
+CDS	186	contig_184
+connector	3	contig_184
+DNA, RNA and nucleotide metabolism	7	contig_184
+head and packaging	6	contig_184
+integration and excision	0	contig_184
+lysis	0	contig_184
+moron, auxiliary metabolic gene and host takeover	8	contig_184
+other	5	contig_184
+tail	9	contig_184
+transcription regulation	1	contig_184
+unknown function	147	contig_184
+tRNAs	0	contig_184
+CRISPRs	0	contig_184
+tmRNAs	0	contig_184
+VFDB_Virulence_Factors	0	contig_184
+CARD_AMR_Genes	0	contig_184
+CDS	113	contig_185
+connector	0	contig_185
+DNA, RNA and nucleotide metabolism	3	contig_185
+head and packaging	2	contig_185
+integration and excision	0	contig_185
+lysis	0	contig_185
+moron, auxiliary metabolic gene and host takeover	2	contig_185
+other	1	contig_185
+tail	0	contig_185
+transcription regulation	0	contig_185
+unknown function	105	contig_185
+tRNAs	0	contig_185
+CRISPRs	0	contig_185
+tmRNAs	0	contig_185
+VFDB_Virulence_Factors	0	contig_185
+CARD_AMR_Genes	0	contig_185
+CDS	120	contig_189
+connector	0	contig_189
+DNA, RNA and nucleotide metabolism	1	contig_189
+head and packaging	0	contig_189
+integration and excision	0	contig_189
+lysis	0	contig_189
+moron, auxiliary metabolic gene and host takeover	0	contig_189
+other	1	contig_189
+tail	1	contig_189
+transcription regulation	1	contig_189
+unknown function	116	contig_189
+tRNAs	0	contig_189
+CRISPRs	0	contig_189
+tmRNAs	0	contig_189
+VFDB_Virulence_Factors	0	contig_189
+CARD_AMR_Genes	0	contig_189
+CDS	332	contig_200
+connector	1	contig_200
+DNA, RNA and nucleotide metabolism	28	contig_200
+head and packaging	7	contig_200
+integration and excision	0	contig_200
+lysis	1	contig_200
+moron, auxiliary metabolic gene and host takeover	2	contig_200
+other	4	contig_200
+tail	7	contig_200
+transcription regulation	0	contig_200
+unknown function	282	contig_200
+tRNAs	0	contig_200
+CRISPRs	0	contig_200
+tmRNAs	0	contig_200
+VFDB_Virulence_Factors	0	contig_200
+CARD_AMR_Genes	0	contig_200
+CDS	151	contig_213
+connector	0	contig_213
+DNA, RNA and nucleotide metabolism	16	contig_213
+head and packaging	6	contig_213
+integration and excision	0	contig_213
+lysis	1	contig_213
+moron, auxiliary metabolic gene and host takeover	0	contig_213
+other	0	contig_213
+tail	3	contig_213
+transcription regulation	0	contig_213
+unknown function	125	contig_213
+tRNAs	0	contig_213
+CRISPRs	0	contig_213
+tmRNAs	0	contig_213
+VFDB_Virulence_Factors	0	contig_213
+CARD_AMR_Genes	0	contig_213
+CDS	99	contig_215
+connector	0	contig_215
+DNA, RNA and nucleotide metabolism	5	contig_215
+head and packaging	7	contig_215
+integration and excision	0	contig_215
+lysis	1	contig_215
+moron, auxiliary metabolic gene and host takeover	0	contig_215
+other	2	contig_215
+tail	0	contig_215
+transcription regulation	0	contig_215
+unknown function	84	contig_215
+tRNAs	0	contig_215
+CRISPRs	0	contig_215
+tmRNAs	0	contig_215
+VFDB_Virulence_Factors	0	contig_215
+CARD_AMR_Genes	0	contig_215
+CDS	127	contig_23
+connector	0	contig_23
+DNA, RNA and nucleotide metabolism	1	contig_23
+head and packaging	4	contig_23
+integration and excision	0	contig_23
+lysis	1	contig_23
+moron, auxiliary metabolic gene and host takeover	0	contig_23
+other	1	contig_23
+tail	0	contig_23
+transcription regulation	0	contig_23
+unknown function	120	contig_23
+tRNAs	0	contig_23
+CRISPRs	0	contig_23
+tmRNAs	0	contig_23
+VFDB_Virulence_Factors	0	contig_23
+CARD_AMR_Genes	0	contig_23
+CDS	112	contig_246
+connector	0	contig_246
+DNA, RNA and nucleotide metabolism	4	contig_246
+head and packaging	1	contig_246
+integration and excision	0	contig_246
+lysis	1	contig_246
+moron, auxiliary metabolic gene and host takeover	0	contig_246
+other	2	contig_246
+tail	0	contig_246
+transcription regulation	0	contig_246
+unknown function	104	contig_246
+tRNAs	0	contig_246
+CRISPRs	0	contig_246
+tmRNAs	0	contig_246
+VFDB_Virulence_Factors	0	contig_246
+CARD_AMR_Genes	0	contig_246
+CDS	48	contig_253
+connector	0	contig_253
+DNA, RNA and nucleotide metabolism	0	contig_253
+head and packaging	7	contig_253
+integration and excision	0	contig_253
+lysis	1	contig_253
+moron, auxiliary metabolic gene and host takeover	0	contig_253
+other	0	contig_253
+tail	0	contig_253
+transcription regulation	1	contig_253
+unknown function	39	contig_253
+tRNAs	0	contig_253
+CRISPRs	0	contig_253
+tmRNAs	0	contig_253
+VFDB_Virulence_Factors	0	contig_253
+CARD_AMR_Genes	0	contig_253
+CDS	134	contig_256
+connector	0	contig_256
+DNA, RNA and nucleotide metabolism	5	contig_256
+head and packaging	2	contig_256
+integration and excision	0	contig_256
+lysis	0	contig_256
+moron, auxiliary metabolic gene and host takeover	0	contig_256
+other	0	contig_256
+tail	0	contig_256
+transcription regulation	0	contig_256
+unknown function	127	contig_256
+tRNAs	0	contig_256
+CRISPRs	0	contig_256
+tmRNAs	0	contig_256
+VFDB_Virulence_Factors	0	contig_256
+CARD_AMR_Genes	0	contig_256
+CDS	132	contig_260
+connector	0	contig_260
+DNA, RNA and nucleotide metabolism	2	contig_260
+head and packaging	1	contig_260
+integration and excision	0	contig_260
+lysis	1	contig_260
+moron, auxiliary metabolic gene and host takeover	1	contig_260
+other	2	contig_260
+tail	0	contig_260
+transcription regulation	0	contig_260
+unknown function	125	contig_260
+tRNAs	0	contig_260
+CRISPRs	0	contig_260
+tmRNAs	0	contig_260
+VFDB_Virulence_Factors	0	contig_260
+CARD_AMR_Genes	0	contig_260
+CDS	32	contig_265
+connector	0	contig_265
+DNA, RNA and nucleotide metabolism	1	contig_265
+head and packaging	4	contig_265
+integration and excision	0	contig_265
+lysis	1	contig_265
+moron, auxiliary metabolic gene and host takeover	0	contig_265
+other	0	contig_265
+tail	0	contig_265
+transcription regulation	0	contig_265
+unknown function	26	contig_265
+tRNAs	0	contig_265
+CRISPRs	0	contig_265
+tmRNAs	0	contig_265
+VFDB_Virulence_Factors	0	contig_265
+CARD_AMR_Genes	0	contig_265
+CDS	45	contig_266
+connector	0	contig_266
+DNA, RNA and nucleotide metabolism	0	contig_266
+head and packaging	4	contig_266
+integration and excision	0	contig_266
+lysis	1	contig_266
+moron, auxiliary metabolic gene and host takeover	0	contig_266
+other	0	contig_266
+tail	1	contig_266
+transcription regulation	0	contig_266
+unknown function	39	contig_266
+tRNAs	0	contig_266
+CRISPRs	0	contig_266
+tmRNAs	0	contig_266
+VFDB_Virulence_Factors	0	contig_266
+CARD_AMR_Genes	0	contig_266
+CDS	284	contig_267
+connector	0	contig_267
+DNA, RNA and nucleotide metabolism	6	contig_267
+head and packaging	6	contig_267
+integration and excision	0	contig_267
+lysis	2	contig_267
+moron, auxiliary metabolic gene and host takeover	1	contig_267
+other	1	contig_267
+tail	1	contig_267
+transcription regulation	0	contig_267
+unknown function	267	contig_267
+tRNAs	0	contig_267
+CRISPRs	0	contig_267
+tmRNAs	0	contig_267
+VFDB_Virulence_Factors	0	contig_267
+CARD_AMR_Genes	0	contig_267
+CDS	121	contig_268
+connector	0	contig_268
+DNA, RNA and nucleotide metabolism	3	contig_268
+head and packaging	4	contig_268
+integration and excision	0	contig_268
+lysis	1	contig_268
+moron, auxiliary metabolic gene and host takeover	0	contig_268
+other	0	contig_268
+tail	0	contig_268
+transcription regulation	0	contig_268
+unknown function	113	contig_268
+tRNAs	0	contig_268
+CRISPRs	0	contig_268
+tmRNAs	0	contig_268
+VFDB_Virulence_Factors	0	contig_268
+CARD_AMR_Genes	0	contig_268
+CDS	107	contig_271
+connector	0	contig_271
+DNA, RNA and nucleotide metabolism	6	contig_271
+head and packaging	5	contig_271
+integration and excision	0	contig_271
+lysis	0	contig_271
+moron, auxiliary metabolic gene and host takeover	0	contig_271
+other	0	contig_271
+tail	0	contig_271
+transcription regulation	0	contig_271
+unknown function	96	contig_271
+tRNAs	0	contig_271
+CRISPRs	0	contig_271
+tmRNAs	0	contig_271
+VFDB_Virulence_Factors	0	contig_271
+CARD_AMR_Genes	0	contig_271
+CDS	77	contig_285
+connector	0	contig_285
+DNA, RNA and nucleotide metabolism	11	contig_285
+head and packaging	0	contig_285
+integration and excision	0	contig_285
+lysis	2	contig_285
+moron, auxiliary metabolic gene and host takeover	0	contig_285
+other	5	contig_285
+tail	6	contig_285
+transcription regulation	0	contig_285
+unknown function	53	contig_285
+tRNAs	0	contig_285
+CRISPRs	0	contig_285
+tmRNAs	0	contig_285
+VFDB_Virulence_Factors	0	contig_285
+CARD_AMR_Genes	0	contig_285
+CDS	88	contig_298
+connector	0	contig_298
+DNA, RNA and nucleotide metabolism	11	contig_298
+head and packaging	0	contig_298
+integration and excision	0	contig_298
+lysis	2	contig_298
+moron, auxiliary metabolic gene and host takeover	0	contig_298
+other	6	contig_298
+tail	5	contig_298
+transcription regulation	0	contig_298
+unknown function	64	contig_298
+tRNAs	0	contig_298
+CRISPRs	0	contig_298
+tmRNAs	0	contig_298
+VFDB_Virulence_Factors	0	contig_298
+CARD_AMR_Genes	0	contig_298
+CDS	115	contig_316
+connector	1	contig_316
+DNA, RNA and nucleotide metabolism	7	contig_316
+head and packaging	5	contig_316
+integration and excision	0	contig_316
+lysis	0	contig_316
+moron, auxiliary metabolic gene and host takeover	1	contig_316
+other	2	contig_316
+tail	5	contig_316
+transcription regulation	0	contig_316
+unknown function	94	contig_316
+tRNAs	0	contig_316
+CRISPRs	0	contig_316
+tmRNAs	0	contig_316
+VFDB_Virulence_Factors	0	contig_316
+CARD_AMR_Genes	0	contig_316
+CDS	103	contig_327
+connector	0	contig_327
+DNA, RNA and nucleotide metabolism	15	contig_327
+head and packaging	1	contig_327
+integration and excision	0	contig_327
+lysis	0	contig_327
+moron, auxiliary metabolic gene and host takeover	0	contig_327
+other	3	contig_327
+tail	1	contig_327
+transcription regulation	0	contig_327
+unknown function	83	contig_327
+tRNAs	0	contig_327
+CRISPRs	0	contig_327
+tmRNAs	0	contig_327
+VFDB_Virulence_Factors	0	contig_327
+CARD_AMR_Genes	0	contig_327
+CDS	170	contig_339
+connector	0	contig_339
+DNA, RNA and nucleotide metabolism	0	contig_339
+head and packaging	1	contig_339
+integration and excision	0	contig_339
+lysis	0	contig_339
+moron, auxiliary metabolic gene and host takeover	0	contig_339
+other	0	contig_339
+tail	1	contig_339
+transcription regulation	0	contig_339
+unknown function	168	contig_339
+tRNAs	0	contig_339
+CRISPRs	0	contig_339
+tmRNAs	0	contig_339
+VFDB_Virulence_Factors	0	contig_339
+CARD_AMR_Genes	0	contig_339
+CDS	137	contig_342
+connector	0	contig_342
+DNA, RNA and nucleotide metabolism	4	contig_342
+head and packaging	7	contig_342
+integration and excision	0	contig_342
+lysis	1	contig_342
+moron, auxiliary metabolic gene and host takeover	0	contig_342
+other	2	contig_342
+tail	0	contig_342
+transcription regulation	0	contig_342
+unknown function	123	contig_342
+tRNAs	0	contig_342
+CRISPRs	0	contig_342
+tmRNAs	0	contig_342
+VFDB_Virulence_Factors	0	contig_342
+CARD_AMR_Genes	0	contig_342
+CDS	75	contig_36
+connector	0	contig_36
+DNA, RNA and nucleotide metabolism	0	contig_36
+head and packaging	17	contig_36
+integration and excision	0	contig_36
+lysis	1	contig_36
+moron, auxiliary metabolic gene and host takeover	0	contig_36
+other	0	contig_36
+tail	1	contig_36
+transcription regulation	0	contig_36
+unknown function	56	contig_36
+tRNAs	0	contig_36
+CRISPRs	0	contig_36
+tmRNAs	0	contig_36
+VFDB_Virulence_Factors	0	contig_36
+CARD_AMR_Genes	0	contig_36
+CDS	41	contig_373
+connector	0	contig_373
+DNA, RNA and nucleotide metabolism	1	contig_373
+head and packaging	2	contig_373
+integration and excision	0	contig_373
+lysis	0	contig_373
+moron, auxiliary metabolic gene and host takeover	0	contig_373
+other	1	contig_373
+tail	0	contig_373
+transcription regulation	0	contig_373
+unknown function	37	contig_373
+tRNAs	0	contig_373
+CRISPRs	0	contig_373
+tmRNAs	0	contig_373
+VFDB_Virulence_Factors	0	contig_373
+CARD_AMR_Genes	0	contig_373
+CDS	116	contig_380
+connector	3	contig_380
+DNA, RNA and nucleotide metabolism	1	contig_380
+head and packaging	6	contig_380
+integration and excision	0	contig_380
+lysis	0	contig_380
+moron, auxiliary metabolic gene and host takeover	0	contig_380
+other	1	contig_380
+tail	2	contig_380
+transcription regulation	0	contig_380
+unknown function	103	contig_380
+tRNAs	0	contig_380
+CRISPRs	0	contig_380
+tmRNAs	0	contig_380
+VFDB_Virulence_Factors	0	contig_380
+CARD_AMR_Genes	0	contig_380
+CDS	122	contig_382
+connector	1	contig_382
+DNA, RNA and nucleotide metabolism	3	contig_382
+head and packaging	5	contig_382
+integration and excision	0	contig_382
+lysis	1	contig_382
+moron, auxiliary metabolic gene and host takeover	0	contig_382
+other	1	contig_382
+tail	5	contig_382
+transcription regulation	0	contig_382
+unknown function	106	contig_382
+tRNAs	0	contig_382
+CRISPRs	0	contig_382
+tmRNAs	0	contig_382
+VFDB_Virulence_Factors	0	contig_382
+CARD_AMR_Genes	0	contig_382
+CDS	182	contig_383
+connector	3	contig_383
+DNA, RNA and nucleotide metabolism	5	contig_383
+head and packaging	3	contig_383
+integration and excision	0	contig_383
+lysis	0	contig_383
+moron, auxiliary metabolic gene and host takeover	0	contig_383
+other	1	contig_383
+tail	0	contig_383
+transcription regulation	0	contig_383
+unknown function	170	contig_383
+tRNAs	0	contig_383
+CRISPRs	0	contig_383
+tmRNAs	0	contig_383
+VFDB_Virulence_Factors	0	contig_383
+CARD_AMR_Genes	0	contig_383
+CDS	52	contig_388
+connector	1	contig_388
+DNA, RNA and nucleotide metabolism	2	contig_388
+head and packaging	4	contig_388
+integration and excision	0	contig_388
+lysis	0	contig_388
+moron, auxiliary metabolic gene and host takeover	0	contig_388
+other	0	contig_388
+tail	1	contig_388
+transcription regulation	0	contig_388
+unknown function	44	contig_388
+tRNAs	0	contig_388
+CRISPRs	0	contig_388
+tmRNAs	0	contig_388
+VFDB_Virulence_Factors	0	contig_388
+CARD_AMR_Genes	0	contig_388
+CDS	48	contig_398
+connector	0	contig_398
+DNA, RNA and nucleotide metabolism	0	contig_398
+head and packaging	4	contig_398
+integration and excision	0	contig_398
+lysis	0	contig_398
+moron, auxiliary metabolic gene and host takeover	0	contig_398
+other	0	contig_398
+tail	1	contig_398
+transcription regulation	0	contig_398
+unknown function	43	contig_398
+tRNAs	0	contig_398
+CRISPRs	0	contig_398
+tmRNAs	0	contig_398
+VFDB_Virulence_Factors	0	contig_398
+CARD_AMR_Genes	0	contig_398
+CDS	62	contig_400
+connector	0	contig_400
+DNA, RNA and nucleotide metabolism	0	contig_400
+head and packaging	1	contig_400
+integration and excision	0	contig_400
+lysis	0	contig_400
+moron, auxiliary metabolic gene and host takeover	0	contig_400
+other	0	contig_400
+tail	0	contig_400
+transcription regulation	0	contig_400
+unknown function	61	contig_400
+tRNAs	0	contig_400
+CRISPRs	0	contig_400
+tmRNAs	0	contig_400
+VFDB_Virulence_Factors	0	contig_400
+CARD_AMR_Genes	0	contig_400
+CDS	87	contig_416
+connector	2	contig_416
+DNA, RNA and nucleotide metabolism	6	contig_416
+head and packaging	7	contig_416
+integration and excision	0	contig_416
+lysis	0	contig_416
+moron, auxiliary metabolic gene and host takeover	0	contig_416
+other	0	contig_416
+tail	2	contig_416
+transcription regulation	0	contig_416
+unknown function	70	contig_416
+tRNAs	0	contig_416
+CRISPRs	0	contig_416
+tmRNAs	0	contig_416
+VFDB_Virulence_Factors	0	contig_416
+CARD_AMR_Genes	0	contig_416
+CDS	144	contig_421
+connector	0	contig_421
+DNA, RNA and nucleotide metabolism	1	contig_421
+head and packaging	0	contig_421
+integration and excision	0	contig_421
+lysis	0	contig_421
+moron, auxiliary metabolic gene and host takeover	2	contig_421
+other	3	contig_421
+tail	1	contig_421
+transcription regulation	1	contig_421
+unknown function	136	contig_421
+tRNAs	0	contig_421
+CRISPRs	0	contig_421
+tmRNAs	0	contig_421
+VFDB_Virulence_Factors	0	contig_421
+CARD_AMR_Genes	0	contig_421
+CDS	67	contig_424
+connector	1	contig_424
+DNA, RNA and nucleotide metabolism	6	contig_424
+head and packaging	3	contig_424
+integration and excision	0	contig_424
+lysis	2	contig_424
+moron, auxiliary metabolic gene and host takeover	0	contig_424
+other	2	contig_424
+tail	3	contig_424
+transcription regulation	0	contig_424
+unknown function	50	contig_424
+tRNAs	0	contig_424
+CRISPRs	0	contig_424
+tmRNAs	0	contig_424
+VFDB_Virulence_Factors	0	contig_424
+CARD_AMR_Genes	0	contig_424
+CDS	101	contig_426
+connector	0	contig_426
+DNA, RNA and nucleotide metabolism	2	contig_426
+head and packaging	3	contig_426
+integration and excision	0	contig_426
+lysis	0	contig_426
+moron, auxiliary metabolic gene and host takeover	0	contig_426
+other	3	contig_426
+tail	0	contig_426
+transcription regulation	0	contig_426
+unknown function	93	contig_426
+tRNAs	0	contig_426
+CRISPRs	0	contig_426
+tmRNAs	0	contig_426
+VFDB_Virulence_Factors	0	contig_426
+CARD_AMR_Genes	0	contig_426
+CDS	140	contig_434
+connector	0	contig_434
+DNA, RNA and nucleotide metabolism	7	contig_434
+head and packaging	20	contig_434
+integration and excision	0	contig_434
+lysis	1	contig_434
+moron, auxiliary metabolic gene and host takeover	0	contig_434
+other	3	contig_434
+tail	3	contig_434
+transcription regulation	0	contig_434
+unknown function	106	contig_434
+tRNAs	0	contig_434
+CRISPRs	0	contig_434
+tmRNAs	0	contig_434
+VFDB_Virulence_Factors	0	contig_434
+CARD_AMR_Genes	0	contig_434
+CDS	61	contig_438
+connector	1	contig_438
+DNA, RNA and nucleotide metabolism	0	contig_438
+head and packaging	3	contig_438
+integration and excision	0	contig_438
+lysis	0	contig_438
+moron, auxiliary metabolic gene and host takeover	0	contig_438
+other	0	contig_438
+tail	2	contig_438
+transcription regulation	0	contig_438
+unknown function	55	contig_438
+tRNAs	0	contig_438
+CRISPRs	0	contig_438
+tmRNAs	0	contig_438
+VFDB_Virulence_Factors	0	contig_438
+CARD_AMR_Genes	0	contig_438
+CDS	61	contig_466
+connector	0	contig_466
+DNA, RNA and nucleotide metabolism	1	contig_466
+head and packaging	2	contig_466
+integration and excision	0	contig_466
+lysis	1	contig_466
+moron, auxiliary metabolic gene and host takeover	0	contig_466
+other	0	contig_466
+tail	0	contig_466
+transcription regulation	0	contig_466
+unknown function	57	contig_466
+tRNAs	0	contig_466
+CRISPRs	0	contig_466
+tmRNAs	0	contig_466
+VFDB_Virulence_Factors	0	contig_466
+CARD_AMR_Genes	0	contig_466
+CDS	145	contig_473
+connector	0	contig_473
+DNA, RNA and nucleotide metabolism	6	contig_473
+head and packaging	16	contig_473
+integration and excision	0	contig_473
+lysis	0	contig_473
+moron, auxiliary metabolic gene and host takeover	0	contig_473
+other	3	contig_473
+tail	5	contig_473
+transcription regulation	1	contig_473
+unknown function	114	contig_473
+tRNAs	0	contig_473
+CRISPRs	0	contig_473
+tmRNAs	0	contig_473
+VFDB_Virulence_Factors	0	contig_473
+CARD_AMR_Genes	0	contig_473
+CDS	58	contig_481
+connector	0	contig_481
+DNA, RNA and nucleotide metabolism	5	contig_481
+head and packaging	0	contig_481
+integration and excision	0	contig_481
+lysis	1	contig_481
+moron, auxiliary metabolic gene and host takeover	0	contig_481
+other	1	contig_481
+tail	0	contig_481
+transcription regulation	0	contig_481
+unknown function	51	contig_481
+tRNAs	0	contig_481
+CRISPRs	0	contig_481
+tmRNAs	0	contig_481
+VFDB_Virulence_Factors	0	contig_481
+CARD_AMR_Genes	0	contig_481
+CDS	76	contig_483
+connector	3	contig_483
+DNA, RNA and nucleotide metabolism	1	contig_483
+head and packaging	8	contig_483
+integration and excision	0	contig_483
+lysis	0	contig_483
+moron, auxiliary metabolic gene and host takeover	0	contig_483
+other	0	contig_483
+tail	7	contig_483
+transcription regulation	0	contig_483
+unknown function	57	contig_483
+tRNAs	0	contig_483
+CRISPRs	0	contig_483
+tmRNAs	0	contig_483
+VFDB_Virulence_Factors	0	contig_483
+CARD_AMR_Genes	0	contig_483
+CDS	43	contig_485
+connector	1	contig_485
+DNA, RNA and nucleotide metabolism	1	contig_485
+head and packaging	0	contig_485
+integration and excision	0	contig_485
+lysis	0	contig_485
+moron, auxiliary metabolic gene and host takeover	0	contig_485
+other	0	contig_485
+tail	2	contig_485
+transcription regulation	1	contig_485
+unknown function	38	contig_485
+tRNAs	0	contig_485
+CRISPRs	0	contig_485
+tmRNAs	0	contig_485
+VFDB_Virulence_Factors	0	contig_485
+CARD_AMR_Genes	0	contig_485
+CDS	50	contig_487
+connector	0	contig_487
+DNA, RNA and nucleotide metabolism	1	contig_487
+head and packaging	0	contig_487
+integration and excision	0	contig_487
+lysis	0	contig_487
+moron, auxiliary metabolic gene and host takeover	0	contig_487
+other	0	contig_487
+tail	1	contig_487
+transcription regulation	1	contig_487
+unknown function	47	contig_487
+tRNAs	0	contig_487
+CRISPRs	0	contig_487
+tmRNAs	0	contig_487
+VFDB_Virulence_Factors	0	contig_487
+CARD_AMR_Genes	0	contig_487
+CDS	146	contig_490
+connector	4	contig_490
+DNA, RNA and nucleotide metabolism	6	contig_490
+head and packaging	9	contig_490
+integration and excision	0	contig_490
+lysis	1	contig_490
+moron, auxiliary metabolic gene and host takeover	2	contig_490
+other	0	contig_490
+tail	1	contig_490
+transcription regulation	0	contig_490
+unknown function	123	contig_490
+tRNAs	0	contig_490
+CRISPRs	0	contig_490
+tmRNAs	0	contig_490
+VFDB_Virulence_Factors	0	contig_490
+CARD_AMR_Genes	0	contig_490
+CDS	167	contig_492
+connector	0	contig_492
+DNA, RNA and nucleotide metabolism	7	contig_492
+head and packaging	7	contig_492
+integration and excision	0	contig_492
+lysis	1	contig_492
+moron, auxiliary metabolic gene and host takeover	0	contig_492
+other	4	contig_492
+tail	0	contig_492
+transcription regulation	0	contig_492
+unknown function	148	contig_492
+tRNAs	0	contig_492
+CRISPRs	0	contig_492
+tmRNAs	0	contig_492
+VFDB_Virulence_Factors	0	contig_492
+CARD_AMR_Genes	0	contig_492
+CDS	49	contig_5
+connector	0	contig_5
+DNA, RNA and nucleotide metabolism	0	contig_5
+head and packaging	1	contig_5
+integration and excision	0	contig_5
+lysis	0	contig_5
+moron, auxiliary metabolic gene and host takeover	0	contig_5
+other	0	contig_5
+tail	0	contig_5
+transcription regulation	0	contig_5
+unknown function	48	contig_5
+tRNAs	0	contig_5
+CRISPRs	0	contig_5
+tmRNAs	0	contig_5
+VFDB_Virulence_Factors	0	contig_5
+CARD_AMR_Genes	0	contig_5
+CDS	32	contig_50
+connector	0	contig_50
+DNA, RNA and nucleotide metabolism	1	contig_50
+head and packaging	0	contig_50
+integration and excision	0	contig_50
+lysis	0	contig_50
+moron, auxiliary metabolic gene and host takeover	0	contig_50
+other	0	contig_50
+tail	2	contig_50
+transcription regulation	0	contig_50
+unknown function	29	contig_50
+tRNAs	0	contig_50
+CRISPRs	0	contig_50
+tmRNAs	0	contig_50
+VFDB_Virulence_Factors	0	contig_50
+CARD_AMR_Genes	0	contig_50
+CDS	6	contig_500
+connector	0	contig_500
+DNA, RNA and nucleotide metabolism	0	contig_500
+head and packaging	0	contig_500
+integration and excision	0	contig_500
+lysis	0	contig_500
+moron, auxiliary metabolic gene and host takeover	0	contig_500
+other	0	contig_500
+tail	0	contig_500
+transcription regulation	0	contig_500
+unknown function	6	contig_500
+tRNAs	0	contig_500
+CRISPRs	0	contig_500
+tmRNAs	0	contig_500
+VFDB_Virulence_Factors	0	contig_500
+CARD_AMR_Genes	0	contig_500
+CDS	67	contig_501
+connector	0	contig_501
+DNA, RNA and nucleotide metabolism	0	contig_501
+head and packaging	1	contig_501
+integration and excision	0	contig_501
+lysis	0	contig_501
+moron, auxiliary metabolic gene and host takeover	0	contig_501
+other	2	contig_501
+tail	1	contig_501
+transcription regulation	0	contig_501
+unknown function	63	contig_501
+tRNAs	0	contig_501
+CRISPRs	0	contig_501
+tmRNAs	0	contig_501
+VFDB_Virulence_Factors	0	contig_501
+CARD_AMR_Genes	0	contig_501
+CDS	51	contig_508
+connector	0	contig_508
+DNA, RNA and nucleotide metabolism	0	contig_508
+head and packaging	0	contig_508
+integration and excision	0	contig_508
+lysis	0	contig_508
+moron, auxiliary metabolic gene and host takeover	0	contig_508
+other	0	contig_508
+tail	0	contig_508
+transcription regulation	0	contig_508
+unknown function	51	contig_508
+tRNAs	0	contig_508
+CRISPRs	0	contig_508
+tmRNAs	0	contig_508
+VFDB_Virulence_Factors	0	contig_508
+CARD_AMR_Genes	0	contig_508
+CDS	74	contig_511
+connector	0	contig_511
+DNA, RNA and nucleotide metabolism	5	contig_511
+head and packaging	11	contig_511
+integration and excision	0	contig_511
+lysis	2	contig_511
+moron, auxiliary metabolic gene and host takeover	1	contig_511
+other	0	contig_511
+tail	1	contig_511
+transcription regulation	1	contig_511
+unknown function	53	contig_511
+tRNAs	0	contig_511
+CRISPRs	0	contig_511
+tmRNAs	0	contig_511
+VFDB_Virulence_Factors	0	contig_511
+CARD_AMR_Genes	0	contig_511
+CDS	98	contig_515
+connector	0	contig_515
+DNA, RNA and nucleotide metabolism	7	contig_515
+head and packaging	2	contig_515
+integration and excision	0	contig_515
+lysis	2	contig_515
+moron, auxiliary metabolic gene and host takeover	0	contig_515
+other	1	contig_515
+tail	1	contig_515
+transcription regulation	1	contig_515
+unknown function	84	contig_515
+tRNAs	0	contig_515
+CRISPRs	0	contig_515
+tmRNAs	0	contig_515
+VFDB_Virulence_Factors	0	contig_515
+CARD_AMR_Genes	0	contig_515
+CDS	158	contig_519
+connector	0	contig_519
+DNA, RNA and nucleotide metabolism	13	contig_519
+head and packaging	3	contig_519
+integration and excision	0	contig_519
+lysis	2	contig_519
+moron, auxiliary metabolic gene and host takeover	0	contig_519
+other	2	contig_519
+tail	0	contig_519
+transcription regulation	0	contig_519
+unknown function	138	contig_519
+tRNAs	0	contig_519
+CRISPRs	0	contig_519
+tmRNAs	0	contig_519
+VFDB_Virulence_Factors	0	contig_519
+CARD_AMR_Genes	0	contig_519
+CDS	46	contig_528
+connector	0	contig_528
+DNA, RNA and nucleotide metabolism	0	contig_528
+head and packaging	5	contig_528
+integration and excision	0	contig_528
+lysis	0	contig_528
+moron, auxiliary metabolic gene and host takeover	0	contig_528
+other	0	contig_528
+tail	0	contig_528
+transcription regulation	0	contig_528
+unknown function	41	contig_528
+tRNAs	0	contig_528
+CRISPRs	0	contig_528
+tmRNAs	0	contig_528
+VFDB_Virulence_Factors	0	contig_528
+CARD_AMR_Genes	0	contig_528
+CDS	105	contig_531
+connector	2	contig_531
+DNA, RNA and nucleotide metabolism	8	contig_531
+head and packaging	7	contig_531
+integration and excision	0	contig_531
+lysis	3	contig_531
+moron, auxiliary metabolic gene and host takeover	0	contig_531
+other	1	contig_531
+tail	1	contig_531
+transcription regulation	0	contig_531
+unknown function	83	contig_531
+tRNAs	0	contig_531
+CRISPRs	0	contig_531
+tmRNAs	0	contig_531
+VFDB_Virulence_Factors	0	contig_531
+CARD_AMR_Genes	0	contig_531
+CDS	92	contig_536
+connector	2	contig_536
+DNA, RNA and nucleotide metabolism	7	contig_536
+head and packaging	6	contig_536
+integration and excision	0	contig_536
+lysis	1	contig_536
+moron, auxiliary metabolic gene and host takeover	0	contig_536
+other	0	contig_536
+tail	1	contig_536
+transcription regulation	0	contig_536
+unknown function	75	contig_536
+tRNAs	0	contig_536
+CRISPRs	0	contig_536
+tmRNAs	0	contig_536
+VFDB_Virulence_Factors	0	contig_536
+CARD_AMR_Genes	0	contig_536
+CDS	82	contig_539
+connector	3	contig_539
+DNA, RNA and nucleotide metabolism	2	contig_539
+head and packaging	7	contig_539
+integration and excision	0	contig_539
+lysis	1	contig_539
+moron, auxiliary metabolic gene and host takeover	0	contig_539
+other	0	contig_539
+tail	0	contig_539
+transcription regulation	0	contig_539
+unknown function	69	contig_539
+tRNAs	0	contig_539
+CRISPRs	0	contig_539
+tmRNAs	0	contig_539
+VFDB_Virulence_Factors	0	contig_539
+CARD_AMR_Genes	0	contig_539
+CDS	117	contig_543
+connector	0	contig_543
+DNA, RNA and nucleotide metabolism	14	contig_543
+head and packaging	5	contig_543
+integration and excision	0	contig_543
+lysis	2	contig_543
+moron, auxiliary metabolic gene and host takeover	0	contig_543
+other	3	contig_543
+tail	2	contig_543
+transcription regulation	0	contig_543
+unknown function	91	contig_543
+tRNAs	0	contig_543
+CRISPRs	0	contig_543
+tmRNAs	0	contig_543
+VFDB_Virulence_Factors	0	contig_543
+CARD_AMR_Genes	0	contig_543
+CDS	100	contig_546
+connector	0	contig_546
+DNA, RNA and nucleotide metabolism	7	contig_546
+head and packaging	0	contig_546
+integration and excision	0	contig_546
+lysis	1	contig_546
+moron, auxiliary metabolic gene and host takeover	2	contig_546
+other	3	contig_546
+tail	1	contig_546
+transcription regulation	0	contig_546
+unknown function	86	contig_546
+tRNAs	0	contig_546
+CRISPRs	0	contig_546
+tmRNAs	0	contig_546
+VFDB_Virulence_Factors	0	contig_546
+CARD_AMR_Genes	0	contig_546
+CDS	30	contig_55
+connector	0	contig_55
+DNA, RNA and nucleotide metabolism	0	contig_55
+head and packaging	0	contig_55
+integration and excision	0	contig_55
+lysis	0	contig_55
+moron, auxiliary metabolic gene and host takeover	0	contig_55
+other	0	contig_55
+tail	3	contig_55
+transcription regulation	0	contig_55
+unknown function	27	contig_55
+tRNAs	0	contig_55
+CRISPRs	0	contig_55
+tmRNAs	0	contig_55
+VFDB_Virulence_Factors	0	contig_55
+CARD_AMR_Genes	0	contig_55
+CDS	91	contig_551
+connector	1	contig_551
+DNA, RNA and nucleotide metabolism	8	contig_551
+head and packaging	4	contig_551
+integration and excision	0	contig_551
+lysis	0	contig_551
+moron, auxiliary metabolic gene and host takeover	0	contig_551
+other	1	contig_551
+tail	0	contig_551
+transcription regulation	0	contig_551
+unknown function	77	contig_551
+tRNAs	0	contig_551
+CRISPRs	0	contig_551
+tmRNAs	0	contig_551
+VFDB_Virulence_Factors	0	contig_551
+CARD_AMR_Genes	0	contig_551
+CDS	75	contig_553
+connector	1	contig_553
+DNA, RNA and nucleotide metabolism	1	contig_553
+head and packaging	5	contig_553
+integration and excision	1	contig_553
+lysis	1	contig_553
+moron, auxiliary metabolic gene and host takeover	1	contig_553
+other	0	contig_553
+tail	4	contig_553
+transcription regulation	0	contig_553
+unknown function	61	contig_553
+tRNAs	0	contig_553
+CRISPRs	0	contig_553
+tmRNAs	0	contig_553
+VFDB_Virulence_Factors	0	contig_553
+CARD_AMR_Genes	0	contig_553
+CDS	61	contig_555
+connector	1	contig_555
+DNA, RNA and nucleotide metabolism	1	contig_555
+head and packaging	4	contig_555
+integration and excision	0	contig_555
+lysis	2	contig_555
+moron, auxiliary metabolic gene and host takeover	0	contig_555
+other	1	contig_555
+tail	1	contig_555
+transcription regulation	0	contig_555
+unknown function	51	contig_555
+tRNAs	0	contig_555
+CRISPRs	0	contig_555
+tmRNAs	0	contig_555
+VFDB_Virulence_Factors	0	contig_555
+CARD_AMR_Genes	0	contig_555
+CDS	49	contig_557
+connector	0	contig_557
+DNA, RNA and nucleotide metabolism	2	contig_557
+head and packaging	2	contig_557
+integration and excision	0	contig_557
+lysis	0	contig_557
+moron, auxiliary metabolic gene and host takeover	0	contig_557
+other	0	contig_557
+tail	2	contig_557
+transcription regulation	0	contig_557
+unknown function	43	contig_557
+tRNAs	0	contig_557
+CRISPRs	0	contig_557
+tmRNAs	0	contig_557
+VFDB_Virulence_Factors	0	contig_557
+CARD_AMR_Genes	0	contig_557
+CDS	81	contig_568
+connector	0	contig_568
+DNA, RNA and nucleotide metabolism	0	contig_568
+head and packaging	1	contig_568
+integration and excision	0	contig_568
+lysis	0	contig_568
+moron, auxiliary metabolic gene and host takeover	0	contig_568
+other	0	contig_568
+tail	0	contig_568
+transcription regulation	0	contig_568
+unknown function	80	contig_568
+tRNAs	0	contig_568
+CRISPRs	0	contig_568
+tmRNAs	0	contig_568
+VFDB_Virulence_Factors	0	contig_568
+CARD_AMR_Genes	0	contig_568
+CDS	89	contig_576
+connector	2	contig_576
+DNA, RNA and nucleotide metabolism	6	contig_576
+head and packaging	6	contig_576
+integration and excision	1	contig_576
+lysis	0	contig_576
+moron, auxiliary metabolic gene and host takeover	0	contig_576
+other	3	contig_576
+tail	2	contig_576
+transcription regulation	0	contig_576
+unknown function	69	contig_576
+tRNAs	0	contig_576
+CRISPRs	0	contig_576
+tmRNAs	0	contig_576
+VFDB_Virulence_Factors	0	contig_576
+CARD_AMR_Genes	0	contig_576
+CDS	231	contig_58
+connector	2	contig_58
+DNA, RNA and nucleotide metabolism	21	contig_58
+head and packaging	13	contig_58
+integration and excision	0	contig_58
+lysis	1	contig_58
+moron, auxiliary metabolic gene and host takeover	0	contig_58
+other	6	contig_58
+tail	10	contig_58
+transcription regulation	0	contig_58
+unknown function	178	contig_58
+tRNAs	1	contig_58
+CRISPRs	0	contig_58
+tmRNAs	0	contig_58
+VFDB_Virulence_Factors	0	contig_58
+CARD_AMR_Genes	0	contig_58
+CDS	45	contig_584
+connector	0	contig_584
+DNA, RNA and nucleotide metabolism	0	contig_584
+head and packaging	1	contig_584
+integration and excision	0	contig_584
+lysis	0	contig_584
+moron, auxiliary metabolic gene and host takeover	0	contig_584
+other	0	contig_584
+tail	2	contig_584
+transcription regulation	0	contig_584
+unknown function	42	contig_584
+tRNAs	0	contig_584
+CRISPRs	0	contig_584
+tmRNAs	0	contig_584
+VFDB_Virulence_Factors	0	contig_584
+CARD_AMR_Genes	0	contig_584
+CDS	156	contig_593
+connector	0	contig_593
+DNA, RNA and nucleotide metabolism	1	contig_593
+head and packaging	4	contig_593
+integration and excision	0	contig_593
+lysis	1	contig_593
+moron, auxiliary metabolic gene and host takeover	0	contig_593
+other	1	contig_593
+tail	1	contig_593
+transcription regulation	1	contig_593
+unknown function	147	contig_593
+tRNAs	0	contig_593
+CRISPRs	0	contig_593
+tmRNAs	0	contig_593
+VFDB_Virulence_Factors	0	contig_593
+CARD_AMR_Genes	0	contig_593
+CDS	96	contig_596
+connector	0	contig_596
+DNA, RNA and nucleotide metabolism	9	contig_596
+head and packaging	8	contig_596
+integration and excision	0	contig_596
+lysis	2	contig_596
+moron, auxiliary metabolic gene and host takeover	1	contig_596
+other	1	contig_596
+tail	6	contig_596
+transcription regulation	0	contig_596
+unknown function	69	contig_596
+tRNAs	1	contig_596
+CRISPRs	0	contig_596
+tmRNAs	0	contig_596
+VFDB_Virulence_Factors	0	contig_596
+CARD_AMR_Genes	0	contig_596
+CDS	49	contig_60
+connector	0	contig_60
+DNA, RNA and nucleotide metabolism	2	contig_60
+head and packaging	4	contig_60
+integration and excision	0	contig_60
+lysis	0	contig_60
+moron, auxiliary metabolic gene and host takeover	0	contig_60
+other	0	contig_60
+tail	0	contig_60
+transcription regulation	0	contig_60
+unknown function	43	contig_60
+tRNAs	0	contig_60
+CRISPRs	0	contig_60
+tmRNAs	0	contig_60
+VFDB_Virulence_Factors	0	contig_60
+CARD_AMR_Genes	0	contig_60
+CDS	146	contig_601
+connector	0	contig_601
+DNA, RNA and nucleotide metabolism	19	contig_601
+head and packaging	3	contig_601
+integration and excision	0	contig_601
+lysis	1	contig_601
+moron, auxiliary metabolic gene and host takeover	1	contig_601
+other	5	contig_601
+tail	7	contig_601
+transcription regulation	0	contig_601
+unknown function	110	contig_601
+tRNAs	0	contig_601
+CRISPRs	0	contig_601
+tmRNAs	0	contig_601
+VFDB_Virulence_Factors	0	contig_601
+CARD_AMR_Genes	0	contig_601
+CDS	74	contig_612
+connector	0	contig_612
+DNA, RNA and nucleotide metabolism	2	contig_612
+head and packaging	8	contig_612
+integration and excision	0	contig_612
+lysis	0	contig_612
+moron, auxiliary metabolic gene and host takeover	1	contig_612
+other	0	contig_612
+tail	1	contig_612
+transcription regulation	0	contig_612
+unknown function	62	contig_612
+tRNAs	0	contig_612
+CRISPRs	0	contig_612
+tmRNAs	0	contig_612
+VFDB_Virulence_Factors	0	contig_612
+CARD_AMR_Genes	0	contig_612
+CDS	133	contig_632
+connector	0	contig_632
+DNA, RNA and nucleotide metabolism	0	contig_632
+head and packaging	4	contig_632
+integration and excision	0	contig_632
+lysis	3	contig_632
+moron, auxiliary metabolic gene and host takeover	0	contig_632
+other	2	contig_632
+tail	2	contig_632
+transcription regulation	1	contig_632
+unknown function	121	contig_632
+tRNAs	0	contig_632
+CRISPRs	0	contig_632
+tmRNAs	0	contig_632
+VFDB_Virulence_Factors	0	contig_632
+CARD_AMR_Genes	0	contig_632
+CDS	47	contig_633
+connector	0	contig_633
+DNA, RNA and nucleotide metabolism	1	contig_633
+head and packaging	4	contig_633
+integration and excision	0	contig_633
+lysis	0	contig_633
+moron, auxiliary metabolic gene and host takeover	0	contig_633
+other	0	contig_633
+tail	2	contig_633
+transcription regulation	0	contig_633
+unknown function	40	contig_633
+tRNAs	0	contig_633
+CRISPRs	0	contig_633
+tmRNAs	0	contig_633
+VFDB_Virulence_Factors	0	contig_633
+CARD_AMR_Genes	0	contig_633
+CDS	50	contig_643
+connector	0	contig_643
+DNA, RNA and nucleotide metabolism	0	contig_643
+head and packaging	0	contig_643
+integration and excision	0	contig_643
+lysis	0	contig_643
+moron, auxiliary metabolic gene and host takeover	0	contig_643
+other	0	contig_643
+tail	0	contig_643
+transcription regulation	0	contig_643
+unknown function	50	contig_643
+tRNAs	0	contig_643
+CRISPRs	0	contig_643
+tmRNAs	0	contig_643
+VFDB_Virulence_Factors	0	contig_643
+CARD_AMR_Genes	0	contig_643
+CDS	224	contig_644
+connector	1	contig_644
+DNA, RNA and nucleotide metabolism	7	contig_644
+head and packaging	13	contig_644
+integration and excision	0	contig_644
+lysis	1	contig_644
+moron, auxiliary metabolic gene and host takeover	0	contig_644
+other	3	contig_644
+tail	1	contig_644
+transcription regulation	0	contig_644
+unknown function	198	contig_644
+tRNAs	0	contig_644
+CRISPRs	0	contig_644
+tmRNAs	0	contig_644
+VFDB_Virulence_Factors	0	contig_644
+CARD_AMR_Genes	0	contig_644
+CDS	95	contig_669
+connector	0	contig_669
+DNA, RNA and nucleotide metabolism	0	contig_669
+head and packaging	4	contig_669
+integration and excision	0	contig_669
+lysis	0	contig_669
+moron, auxiliary metabolic gene and host takeover	1	contig_669
+other	3	contig_669
+tail	1	contig_669
+transcription regulation	0	contig_669
+unknown function	86	contig_669
+tRNAs	1	contig_669
+CRISPRs	0	contig_669
+tmRNAs	0	contig_669
+VFDB_Virulence_Factors	0	contig_669
+CARD_AMR_Genes	0	contig_669
+CDS	40	contig_670
+connector	0	contig_670
+DNA, RNA and nucleotide metabolism	0	contig_670
+head and packaging	6	contig_670
+integration and excision	0	contig_670
+lysis	0	contig_670
+moron, auxiliary metabolic gene and host takeover	0	contig_670
+other	0	contig_670
+tail	0	contig_670
+transcription regulation	0	contig_670
+unknown function	34	contig_670
+tRNAs	0	contig_670
+CRISPRs	0	contig_670
+tmRNAs	0	contig_670
+VFDB_Virulence_Factors	0	contig_670
+CARD_AMR_Genes	0	contig_670
+CDS	41	contig_671
+connector	0	contig_671
+DNA, RNA and nucleotide metabolism	0	contig_671
+head and packaging	7	contig_671
+integration and excision	0	contig_671
+lysis	0	contig_671
+moron, auxiliary metabolic gene and host takeover	0	contig_671
+other	0	contig_671
+tail	1	contig_671
+transcription regulation	0	contig_671
+unknown function	33	contig_671
+tRNAs	0	contig_671
+CRISPRs	0	contig_671
+tmRNAs	0	contig_671
+VFDB_Virulence_Factors	0	contig_671
+CARD_AMR_Genes	0	contig_671
+CDS	66	contig_673
+connector	0	contig_673
+DNA, RNA and nucleotide metabolism	5	contig_673
+head and packaging	0	contig_673
+integration and excision	0	contig_673
+lysis	0	contig_673
+moron, auxiliary metabolic gene and host takeover	0	contig_673
+other	0	contig_673
+tail	0	contig_673
+transcription regulation	0	contig_673
+unknown function	61	contig_673
+tRNAs	0	contig_673
+CRISPRs	0	contig_673
+tmRNAs	0	contig_673
+VFDB_Virulence_Factors	0	contig_673
+CARD_AMR_Genes	0	contig_673
+CDS	76	contig_676
+connector	1	contig_676
+DNA, RNA and nucleotide metabolism	0	contig_676
+head and packaging	3	contig_676
+integration and excision	0	contig_676
+lysis	2	contig_676
+moron, auxiliary metabolic gene and host takeover	0	contig_676
+other	1	contig_676
+tail	6	contig_676
+transcription regulation	0	contig_676
+unknown function	63	contig_676
+tRNAs	0	contig_676
+CRISPRs	0	contig_676
+tmRNAs	0	contig_676
+VFDB_Virulence_Factors	0	contig_676
+CARD_AMR_Genes	0	contig_676
+CDS	65	contig_683
+connector	0	contig_683
+DNA, RNA and nucleotide metabolism	1	contig_683
+head and packaging	1	contig_683
+integration and excision	0	contig_683
+lysis	0	contig_683
+moron, auxiliary metabolic gene and host takeover	0	contig_683
+other	0	contig_683
+tail	0	contig_683
+transcription regulation	0	contig_683
+unknown function	63	contig_683
+tRNAs	0	contig_683
+CRISPRs	0	contig_683
+tmRNAs	0	contig_683
+VFDB_Virulence_Factors	0	contig_683
+CARD_AMR_Genes	0	contig_683
+CDS	109	contig_701
+connector	0	contig_701
+DNA, RNA and nucleotide metabolism	3	contig_701
+head and packaging	6	contig_701
+integration and excision	0	contig_701
+lysis	3	contig_701
+moron, auxiliary metabolic gene and host takeover	0	contig_701
+other	1	contig_701
+tail	1	contig_701
+transcription regulation	0	contig_701
+unknown function	95	contig_701
+tRNAs	0	contig_701
+CRISPRs	0	contig_701
+tmRNAs	0	contig_701
+VFDB_Virulence_Factors	0	contig_701
+CARD_AMR_Genes	0	contig_701
+CDS	121	contig_727
+connector	0	contig_727
+DNA, RNA and nucleotide metabolism	2	contig_727
+head and packaging	1	contig_727
+integration and excision	0	contig_727
+lysis	0	contig_727
+moron, auxiliary metabolic gene and host takeover	0	contig_727
+other	0	contig_727
+tail	0	contig_727
+transcription regulation	0	contig_727
+unknown function	118	contig_727
+tRNAs	0	contig_727
+CRISPRs	0	contig_727
+tmRNAs	0	contig_727
+VFDB_Virulence_Factors	0	contig_727
+CARD_AMR_Genes	0	contig_727
+CDS	39	contig_728
+connector	0	contig_728
+DNA, RNA and nucleotide metabolism	0	contig_728
+head and packaging	0	contig_728
+integration and excision	0	contig_728
+lysis	0	contig_728
+moron, auxiliary metabolic gene and host takeover	0	contig_728
+other	1	contig_728
+tail	0	contig_728
+transcription regulation	0	contig_728
+unknown function	38	contig_728
+tRNAs	0	contig_728
+CRISPRs	0	contig_728
+tmRNAs	0	contig_728
+VFDB_Virulence_Factors	0	contig_728
+CARD_AMR_Genes	0	contig_728
+CDS	78	contig_734
+connector	2	contig_734
+DNA, RNA and nucleotide metabolism	5	contig_734
+head and packaging	2	contig_734
+integration and excision	0	contig_734
+lysis	2	contig_734
+moron, auxiliary metabolic gene and host takeover	0	contig_734
+other	3	contig_734
+tail	1	contig_734
+transcription regulation	0	contig_734
+unknown function	63	contig_734
+tRNAs	1	contig_734
+CRISPRs	0	contig_734
+tmRNAs	0	contig_734
+VFDB_Virulence_Factors	0	contig_734
+CARD_AMR_Genes	0	contig_734
+CDS	82	contig_74
+connector	1	contig_74
+DNA, RNA and nucleotide metabolism	0	contig_74
+head and packaging	4	contig_74
+integration and excision	0	contig_74
+lysis	2	contig_74
+moron, auxiliary metabolic gene and host takeover	0	contig_74
+other	0	contig_74
+tail	4	contig_74
+transcription regulation	0	contig_74
+unknown function	71	contig_74
+tRNAs	0	contig_74
+CRISPRs	0	contig_74
+tmRNAs	0	contig_74
+VFDB_Virulence_Factors	0	contig_74
+CARD_AMR_Genes	0	contig_74
+CDS	67	contig_75
+connector	0	contig_75
+DNA, RNA and nucleotide metabolism	0	contig_75
+head and packaging	2	contig_75
+integration and excision	0	contig_75
+lysis	0	contig_75
+moron, auxiliary metabolic gene and host takeover	0	contig_75
+other	1	contig_75
+tail	2	contig_75
+transcription regulation	0	contig_75
+unknown function	62	contig_75
+tRNAs	0	contig_75
+CRISPRs	0	contig_75
+tmRNAs	0	contig_75
+VFDB_Virulence_Factors	0	contig_75
+CARD_AMR_Genes	0	contig_75
+CDS	140	contig_751
+connector	0	contig_751
+DNA, RNA and nucleotide metabolism	4	contig_751
+head and packaging	4	contig_751
+integration and excision	0	contig_751
+lysis	3	contig_751
+moron, auxiliary metabolic gene and host takeover	0	contig_751
+other	0	contig_751
+tail	1	contig_751
+transcription regulation	0	contig_751
+unknown function	128	contig_751
+tRNAs	0	contig_751
+CRISPRs	0	contig_751
+tmRNAs	0	contig_751
+VFDB_Virulence_Factors	0	contig_751
+CARD_AMR_Genes	0	contig_751
+CDS	38	contig_758
+connector	0	contig_758
+DNA, RNA and nucleotide metabolism	0	contig_758
+head and packaging	4	contig_758
+integration and excision	0	contig_758
+lysis	0	contig_758
+moron, auxiliary metabolic gene and host takeover	0	contig_758
+other	0	contig_758
+tail	0	contig_758
+transcription regulation	0	contig_758
+unknown function	34	contig_758
+tRNAs	0	contig_758
+CRISPRs	0	contig_758
+tmRNAs	0	contig_758
+VFDB_Virulence_Factors	0	contig_758
+CARD_AMR_Genes	0	contig_758
+CDS	196	contig_76
+connector	0	contig_76
+DNA, RNA and nucleotide metabolism	7	contig_76
+head and packaging	2	contig_76
+integration and excision	0	contig_76
+lysis	0	contig_76
+moron, auxiliary metabolic gene and host takeover	2	contig_76
+other	0	contig_76
+tail	2	contig_76
+transcription regulation	0	contig_76
+unknown function	183	contig_76
+tRNAs	0	contig_76
+CRISPRs	0	contig_76
+tmRNAs	0	contig_76
+VFDB_Virulence_Factors	0	contig_76
+CARD_AMR_Genes	0	contig_76
+CDS	79	contig_775
+connector	0	contig_775
+DNA, RNA and nucleotide metabolism	5	contig_775
+head and packaging	7	contig_775
+integration and excision	0	contig_775
+lysis	1	contig_775
+moron, auxiliary metabolic gene and host takeover	0	contig_775
+other	2	contig_775
+tail	0	contig_775
+transcription regulation	0	contig_775
+unknown function	64	contig_775
+tRNAs	0	contig_775
+CRISPRs	0	contig_775
+tmRNAs	0	contig_775
+VFDB_Virulence_Factors	0	contig_775
+CARD_AMR_Genes	0	contig_775
+CDS	97	contig_78
+connector	1	contig_78
+DNA, RNA and nucleotide metabolism	5	contig_78
+head and packaging	3	contig_78
+integration and excision	0	contig_78
+lysis	0	contig_78
+moron, auxiliary metabolic gene and host takeover	2	contig_78
+other	1	contig_78
+tail	1	contig_78
+transcription regulation	0	contig_78
+unknown function	84	contig_78
+tRNAs	0	contig_78
+CRISPRs	0	contig_78
+tmRNAs	0	contig_78
+VFDB_Virulence_Factors	0	contig_78
+CARD_AMR_Genes	0	contig_78
+CDS	58	contig_791
+connector	0	contig_791
+DNA, RNA and nucleotide metabolism	2	contig_791
+head and packaging	2	contig_791
+integration and excision	0	contig_791
+lysis	1	contig_791
+moron, auxiliary metabolic gene and host takeover	0	contig_791
+other	1	contig_791
+tail	0	contig_791
+transcription regulation	0	contig_791
+unknown function	52	contig_791
+tRNAs	0	contig_791
+CRISPRs	0	contig_791
+tmRNAs	0	contig_791
+VFDB_Virulence_Factors	0	contig_791
+CARD_AMR_Genes	0	contig_791
+CDS	126	contig_799
+connector	0	contig_799
+DNA, RNA and nucleotide metabolism	4	contig_799
+head and packaging	1	contig_799
+integration and excision	0	contig_799
+lysis	1	contig_799
+moron, auxiliary metabolic gene and host takeover	1	contig_799
+other	3	contig_799
+tail	0	contig_799
+transcription regulation	0	contig_799
+unknown function	116	contig_799
+tRNAs	0	contig_799
+CRISPRs	0	contig_799
+tmRNAs	0	contig_799
+VFDB_Virulence_Factors	0	contig_799
+CARD_AMR_Genes	0	contig_799
+CDS	108	contig_811
+connector	0	contig_811
+DNA, RNA and nucleotide metabolism	6	contig_811
+head and packaging	7	contig_811
+integration and excision	0	contig_811
+lysis	0	contig_811
+moron, auxiliary metabolic gene and host takeover	0	contig_811
+other	0	contig_811
+tail	2	contig_811
+transcription regulation	0	contig_811
+unknown function	93	contig_811
+tRNAs	0	contig_811
+CRISPRs	0	contig_811
+tmRNAs	0	contig_811
+VFDB_Virulence_Factors	0	contig_811
+CARD_AMR_Genes	0	contig_811
+CDS	163	contig_815
+connector	2	contig_815
+DNA, RNA and nucleotide metabolism	8	contig_815
+head and packaging	7	contig_815
+integration and excision	0	contig_815
+lysis	1	contig_815
+moron, auxiliary metabolic gene and host takeover	0	contig_815
+other	1	contig_815
+tail	2	contig_815
+transcription regulation	0	contig_815
+unknown function	142	contig_815
+tRNAs	0	contig_815
+CRISPRs	0	contig_815
+tmRNAs	0	contig_815
+VFDB_Virulence_Factors	0	contig_815
+CARD_AMR_Genes	0	contig_815
+CDS	38	contig_820
+connector	0	contig_820
+DNA, RNA and nucleotide metabolism	1	contig_820
+head and packaging	2	contig_820
+integration and excision	0	contig_820
+lysis	0	contig_820
+moron, auxiliary metabolic gene and host takeover	0	contig_820
+other	0	contig_820
+tail	1	contig_820
+transcription regulation	0	contig_820
+unknown function	34	contig_820
+tRNAs	0	contig_820
+CRISPRs	0	contig_820
+tmRNAs	0	contig_820
+VFDB_Virulence_Factors	0	contig_820
+CARD_AMR_Genes	0	contig_820
+CDS	235	contig_825
+connector	2	contig_825
+DNA, RNA and nucleotide metabolism	9	contig_825
+head and packaging	18	contig_825
+integration and excision	0	contig_825
+lysis	5	contig_825
+moron, auxiliary metabolic gene and host takeover	0	contig_825
+other	2	contig_825
+tail	5	contig_825
+transcription regulation	0	contig_825
+unknown function	194	contig_825
+tRNAs	0	contig_825
+CRISPRs	0	contig_825
+tmRNAs	0	contig_825
+VFDB_Virulence_Factors	0	contig_825
+CARD_AMR_Genes	0	contig_825
+CDS	30	contig_848
+connector	0	contig_848
+DNA, RNA and nucleotide metabolism	0	contig_848
+head and packaging	0	contig_848
+integration and excision	0	contig_848
+lysis	0	contig_848
+moron, auxiliary metabolic gene and host takeover	0	contig_848
+other	0	contig_848
+tail	2	contig_848
+transcription regulation	0	contig_848
+unknown function	28	contig_848
+tRNAs	0	contig_848
+CRISPRs	0	contig_848
+tmRNAs	0	contig_848
+VFDB_Virulence_Factors	0	contig_848
+CARD_AMR_Genes	0	contig_848
+CDS	31	contig_850
+connector	0	contig_850
+DNA, RNA and nucleotide metabolism	0	contig_850
+head and packaging	0	contig_850
+integration and excision	0	contig_850
+lysis	0	contig_850
+moron, auxiliary metabolic gene and host takeover	0	contig_850
+other	0	contig_850
+tail	1	contig_850
+transcription regulation	1	contig_850
+unknown function	29	contig_850
+tRNAs	0	contig_850
+CRISPRs	0	contig_850
+tmRNAs	0	contig_850
+VFDB_Virulence_Factors	0	contig_850
+CARD_AMR_Genes	0	contig_850
+CDS	27	contig_851
+connector	0	contig_851
+DNA, RNA and nucleotide metabolism	0	contig_851
+head and packaging	0	contig_851
+integration and excision	0	contig_851
+lysis	0	contig_851
+moron, auxiliary metabolic gene and host takeover	0	contig_851
+other	0	contig_851
+tail	2	contig_851
+transcription regulation	0	contig_851
+unknown function	25	contig_851
+tRNAs	0	contig_851
+CRISPRs	0	contig_851
+tmRNAs	0	contig_851
+VFDB_Virulence_Factors	0	contig_851
+CARD_AMR_Genes	0	contig_851
+CDS	134	contig_856
+connector	0	contig_856
+DNA, RNA and nucleotide metabolism	4	contig_856
+head and packaging	1	contig_856
+integration and excision	0	contig_856
+lysis	1	contig_856
+moron, auxiliary metabolic gene and host takeover	2	contig_856
+other	1	contig_856
+tail	1	contig_856
+transcription regulation	0	contig_856
+unknown function	124	contig_856
+tRNAs	0	contig_856
+CRISPRs	0	contig_856
+tmRNAs	0	contig_856
+VFDB_Virulence_Factors	0	contig_856
+CARD_AMR_Genes	0	contig_856
+CDS	56	contig_858
+connector	1	contig_858
+DNA, RNA and nucleotide metabolism	1	contig_858
+head and packaging	8	contig_858
+integration and excision	0	contig_858
+lysis	0	contig_858
+moron, auxiliary metabolic gene and host takeover	0	contig_858
+other	0	contig_858
+tail	17	contig_858
+transcription regulation	0	contig_858
+unknown function	29	contig_858
+tRNAs	0	contig_858
+CRISPRs	0	contig_858
+tmRNAs	0	contig_858
+VFDB_Virulence_Factors	0	contig_858
+CARD_AMR_Genes	0	contig_858
+CDS	109	contig_871
+connector	0	contig_871
+DNA, RNA and nucleotide metabolism	3	contig_871
+head and packaging	6	contig_871
+integration and excision	0	contig_871
+lysis	1	contig_871
+moron, auxiliary metabolic gene and host takeover	0	contig_871
+other	2	contig_871
+tail	0	contig_871
+transcription regulation	0	contig_871
+unknown function	97	contig_871
+tRNAs	0	contig_871
+CRISPRs	0	contig_871
+tmRNAs	0	contig_871
+VFDB_Virulence_Factors	0	contig_871
+CARD_AMR_Genes	0	contig_871
+CDS	86	contig_891
+connector	2	contig_891
+DNA, RNA and nucleotide metabolism	10	contig_891
+head and packaging	2	contig_891
+integration and excision	0	contig_891
+lysis	2	contig_891
+moron, auxiliary metabolic gene and host takeover	0	contig_891
+other	4	contig_891
+tail	6	contig_891
+transcription regulation	0	contig_891
+unknown function	60	contig_891
+tRNAs	1	contig_891
+CRISPRs	0	contig_891
+tmRNAs	0	contig_891
+VFDB_Virulence_Factors	0	contig_891
+CARD_AMR_Genes	0	contig_891
+CDS	49	contig_900
+connector	2	contig_900
+DNA, RNA and nucleotide metabolism	0	contig_900
+head and packaging	2	contig_900
+integration and excision	0	contig_900
+lysis	2	contig_900
+moron, auxiliary metabolic gene and host takeover	0	contig_900
+other	0	contig_900
+tail	6	contig_900
+transcription regulation	0	contig_900
+unknown function	37	contig_900
+tRNAs	0	contig_900
+CRISPRs	0	contig_900
+tmRNAs	0	contig_900
+VFDB_Virulence_Factors	0	contig_900
+CARD_AMR_Genes	0	contig_900
+CDS	164	contig_92
+connector	0	contig_92
+DNA, RNA and nucleotide metabolism	8	contig_92
+head and packaging	2	contig_92
+integration and excision	0	contig_92
+lysis	1	contig_92
+moron, auxiliary metabolic gene and host takeover	0	contig_92
+other	2	contig_92
+tail	3	contig_92
+transcription regulation	1	contig_92
+unknown function	147	contig_92
+tRNAs	0	contig_92
+CRISPRs	0	contig_92
+tmRNAs	0	contig_92
+VFDB_Virulence_Factors	0	contig_92
+CARD_AMR_Genes	0	contig_92
+CDS	98	contig_921
+connector	0	contig_921
+DNA, RNA and nucleotide metabolism	7	contig_921
+head and packaging	3	contig_921
+integration and excision	0	contig_921
+lysis	1	contig_921
+moron, auxiliary metabolic gene and host takeover	0	contig_921
+other	1	contig_921
+tail	0	contig_921
+transcription regulation	1	contig_921
+unknown function	85	contig_921
+tRNAs	0	contig_921
+CRISPRs	0	contig_921
+tmRNAs	0	contig_921
+VFDB_Virulence_Factors	0	contig_921
+CARD_AMR_Genes	0	contig_921
+CDS	65	contig_926
+connector	0	contig_926
+DNA, RNA and nucleotide metabolism	0	contig_926
+head and packaging	5	contig_926
+integration and excision	0	contig_926
+lysis	0	contig_926
+moron, auxiliary metabolic gene and host takeover	0	contig_926
+other	2	contig_926
+tail	0	contig_926
+transcription regulation	0	contig_926
+unknown function	58	contig_926
+tRNAs	0	contig_926
+CRISPRs	0	contig_926
+tmRNAs	0	contig_926
+VFDB_Virulence_Factors	0	contig_926
+CARD_AMR_Genes	0	contig_926
+CDS	31	contig_928
+connector	0	contig_928
+DNA, RNA and nucleotide metabolism	2	contig_928
+head and packaging	0	contig_928
+integration and excision	0	contig_928
+lysis	0	contig_928
+moron, auxiliary metabolic gene and host takeover	0	contig_928
+other	0	contig_928
+tail	1	contig_928
+transcription regulation	0	contig_928
+unknown function	28	contig_928
+tRNAs	0	contig_928
+CRISPRs	0	contig_928
+tmRNAs	0	contig_928
+VFDB_Virulence_Factors	0	contig_928
+CARD_AMR_Genes	0	contig_928
+CDS	117	contig_929
+connector	3	contig_929
+DNA, RNA and nucleotide metabolism	9	contig_929
+head and packaging	7	contig_929
+integration and excision	0	contig_929
+lysis	2	contig_929
+moron, auxiliary metabolic gene and host takeover	0	contig_929
+other	0	contig_929
+tail	3	contig_929
+transcription regulation	0	contig_929
+unknown function	93	contig_929
+tRNAs	1	contig_929
+CRISPRs	0	contig_929
+tmRNAs	0	contig_929
+VFDB_Virulence_Factors	0	contig_929
+CARD_AMR_Genes	0	contig_929
+CDS	115	contig_939
+connector	3	contig_939
+DNA, RNA and nucleotide metabolism	10	contig_939
+head and packaging	5	contig_939
+integration and excision	1	contig_939
+lysis	1	contig_939
+moron, auxiliary metabolic gene and host takeover	0	contig_939
+other	1	contig_939
+tail	11	contig_939
+transcription regulation	0	contig_939
+unknown function	83	contig_939
+tRNAs	0	contig_939
+CRISPRs	0	contig_939
+tmRNAs	0	contig_939
+VFDB_Virulence_Factors	0	contig_939
+CARD_AMR_Genes	0	contig_939
+CDS	63	contig_94
+connector	1	contig_94
+DNA, RNA and nucleotide metabolism	1	contig_94
+head and packaging	7	contig_94
+integration and excision	0	contig_94
+lysis	0	contig_94
+moron, auxiliary metabolic gene and host takeover	0	contig_94
+other	0	contig_94
+tail	0	contig_94
+transcription regulation	0	contig_94
+unknown function	54	contig_94
+tRNAs	0	contig_94
+CRISPRs	0	contig_94
+tmRNAs	0	contig_94
+VFDB_Virulence_Factors	0	contig_94
+CARD_AMR_Genes	0	contig_94
+CDS	45	contig_959
+connector	0	contig_959
+DNA, RNA and nucleotide metabolism	1	contig_959
+head and packaging	4	contig_959
+integration and excision	0	contig_959
+lysis	0	contig_959
+moron, auxiliary metabolic gene and host takeover	0	contig_959
+other	0	contig_959
+tail	3	contig_959
+transcription regulation	0	contig_959
+unknown function	37	contig_959
+tRNAs	0	contig_959
+CRISPRs	0	contig_959
+tmRNAs	0	contig_959
+VFDB_Virulence_Factors	0	contig_959
+CARD_AMR_Genes	0	contig_959
+CDS	39	contig_977
+connector	0	contig_977
+DNA, RNA and nucleotide metabolism	2	contig_977
+head and packaging	4	contig_977
+integration and excision	0	contig_977
+lysis	0	contig_977
+moron, auxiliary metabolic gene and host takeover	0	contig_977
+other	0	contig_977
+tail	2	contig_977
+transcription regulation	0	contig_977
+unknown function	31	contig_977
+tRNAs	0	contig_977
+CRISPRs	0	contig_977
+tmRNAs	0	contig_977
+VFDB_Virulence_Factors	0	contig_977
+CARD_AMR_Genes	0	contig_977
+CDS	67	contig_982
+connector	0	contig_982
+DNA, RNA and nucleotide metabolism	1	contig_982
+head and packaging	3	contig_982
+integration and excision	0	contig_982
+lysis	0	contig_982
+moron, auxiliary metabolic gene and host takeover	0	contig_982
+other	0	contig_982
+tail	1	contig_982
+transcription regulation	0	contig_982
+unknown function	62	contig_982
+tRNAs	0	contig_982
+CRISPRs	0	contig_982
+tmRNAs	0	contig_982
+VFDB_Virulence_Factors	0	contig_982
+CARD_AMR_Genes	0	contig_982
+CDS	59	contig_983
+connector	0	contig_983
+DNA, RNA and nucleotide metabolism	0	contig_983
+head and packaging	0	contig_983
+integration and excision	0	contig_983
+lysis	0	contig_983
+moron, auxiliary metabolic gene and host takeover	0	contig_983
+other	0	contig_983
+tail	0	contig_983
+transcription regulation	0	contig_983
+unknown function	59	contig_983
+tRNAs	0	contig_983
+CRISPRs	0	contig_983
+tmRNAs	0	contig_983
+VFDB_Virulence_Factors	0	contig_983
+CARD_AMR_Genes	0	contig_983
+CDS	59	contig_986
+connector	0	contig_986
+DNA, RNA and nucleotide metabolism	0	contig_986
+head and packaging	4	contig_986
+integration and excision	0	contig_986
+lysis	1	contig_986
+moron, auxiliary metabolic gene and host takeover	0	contig_986
+other	0	contig_986
+tail	1	contig_986
+transcription regulation	0	contig_986
+unknown function	53	contig_986
+tRNAs	0	contig_986
+CRISPRs	0	contig_986
+tmRNAs	0	contig_986
+VFDB_Virulence_Factors	0	contig_986
+CARD_AMR_Genes	0	contig_986
+CDS	135	contig_99
+connector	0	contig_99
+DNA, RNA and nucleotide metabolism	1	contig_99
+head and packaging	9	contig_99
+integration and excision	0	contig_99
+lysis	0	contig_99
+moron, auxiliary metabolic gene and host takeover	0	contig_99
+other	2	contig_99
+tail	0	contig_99
+transcription regulation	0	contig_99
+unknown function	123	contig_99
+tRNAs	0	contig_99
+CRISPRs	0	contig_99
+tmRNAs	0	contig_99
+VFDB_Virulence_Factors	0	contig_99
+CARD_AMR_Genes	0	contig_99
+CDS	39	contig_998
+connector	0	contig_998
+DNA, RNA and nucleotide metabolism	0	contig_998
+head and packaging	2	contig_998
+integration and excision	0	contig_998
+lysis	1	contig_998
+moron, auxiliary metabolic gene and host takeover	0	contig_998
+other	0	contig_998
+tail	0	contig_998
+transcription regulation	0	contig_998
+unknown function	36	contig_998
+tRNAs	0	contig_998
+CRISPRs	0	contig_998
+tmRNAs	0	contig_998
+VFDB_Virulence_Factors	0	contig_998
+CARD_AMR_Genes	0	contig_998

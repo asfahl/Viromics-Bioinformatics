@@ -1,0 +1,1 @@
+Command line: aragorn -l -gcbact -w -m -o 1.4_annotation/10_pharokka/pharokka_aragorn.txt 1.3_virus_identification/40_results_filter_contigs/assembly.fasta

@@ -1,0 +1,17 @@
+createdb 1.4_annotation/10_pharokka/phanotate_aas_tmp.fasta 1.4_annotation/10_pharokka/VFDB_target_dir/target_seqs 
+
+MMseqs Version:       	13.45111
+Database type         	0
+Shuffle input database	true
+Createdb mode         	0
+Write lookup file     	1
+Offset of numeric ids 	0
+Compressed            	0
+Verbosity             	3
+
+Converting sequences
+[==
+Time for merging to target_seqs_h: 0h 0m 0s 756ms
+Time for merging to target_seqs: 0h 0m 0s 776ms
+Database type: Aminoacid
+Time for processing: 0h 0m 2s 475ms

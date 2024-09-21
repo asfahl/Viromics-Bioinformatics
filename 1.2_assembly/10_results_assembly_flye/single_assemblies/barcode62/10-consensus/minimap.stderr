@@ -1,12 +1,11 @@
-[samfaipath] build FASTA index...
-[M::mm_idx_gen::1.428*0.58] collected minimizers
-[M::mm_idx_gen::1.614*1.19] sorted minimizers
-[M::main::1.614*1.19] loaded/built the index for 956 target sequence(s)
-[M::mm_mapopt_update::1.666*1.19] mid_occ = 10
-[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 956
-[M::mm_idx_stat::1.688*1.18] distinct minimizers: 2770141 (91.58% are singletons); average occurrences: 1.104; average spacing: 5.356; total length: 16386497
-[M::worker_pipeline::7.703*13.82] mapped 18555 sequences
+[M::mm_idx_gen::0.674*0.84] collected minimizers
+[M::mm_idx_gen::0.864*2.36] sorted minimizers
+[M::main::0.864*2.36] loaded/built the index for 954 target sequence(s)
+[M::mm_mapopt_update::0.921*2.28] mid_occ = 10
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 954
+[M::mm_idx_stat::0.950*2.24] distinct minimizers: 2770722 (91.60% are singletons); average occurrences: 1.104; average spacing: 5.356; total length: 16386456
+[M::worker_pipeline::6.768*15.55] mapped 18555 sequences
 [M::main] Version: 2.24-r1155-dirty
 [M::main] CMD: flye-minimap2 -x map-ont -t 30 -a -p 0.5 -N 10 --sam-hit-only -L -K 1G -z 1000 -Q --secondary-seq -I 64G /home/qe76qox/Viromics-Bioinformatics/1.2_assembly/10_results_assembly_flye/single_assemblies/barcode62/00-assembly/draft_assembly.fasta /home/qe76qox/Viromics-Bioinformatics/1.1_QC/20_chopper/full_barcode62_filtered_reads.fastq.gz
-[M::main] Real time: 7.732 sec; CPU: 106.519 sec; Peak RSS: 7.252 GB
+[M::main] Real time: 6.785 sec; CPU: 105.268 sec; Peak RSS: 7.465 GB
 [bam_sort_core] merging from 0 files and 4 in-memory blocks...
