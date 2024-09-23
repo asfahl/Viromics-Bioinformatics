@@ -13,7 +13,7 @@ def main():
 	
 	contig_id = sys.argv[3]
 	
-	df = pd.read_csv(in_file, sep="\t")
+	df = pd.read_csv(in_fPile, sep="\t")
 	df = df.loc[df["contig_id"] == contig_id]
 	
 	for index, row in df.iterrows():
