@@ -1,0 +1,110 @@
+        Sequence  ... Winner_Score
+0     contig_101  ...     0.171433
+1    contig_1015  ...     0.143100
+2    contig_1019  ...     0.092433
+3    contig_1021  ...     0.156000
+4    contig_1024  ...     0.167000
+..           ...  ...          ...
+250   contig_977  ...     0.148000
+251   contig_982  ...     0.167033
+252   contig_986  ...     0.151000
+253    contig_99  ...     0.179000
+254   contig_998  ...     0.220617
+
+[255 rows x 3 columns]
+      user_genome  ...                                           warnings
+0           bin.1  ...  Genome not assigned to closest species as it f...
+1          bin.10  ...   Insufficient number of amino acids in MSA (4.9%)
+2         bin.100  ...  Genome not assigned to closest species as it f...
+3         bin.101  ...   Insufficient number of amino acids in MSA (2.7%)
+4         bin.102  ...                                                NaN
+..            ...  ...                                                ...
+101        bin.97  ...                                                NaN
+102        bin.98  ...  Genome not assigned to closest species as it f...
+103        bin.99  ...  Genome has more than 66.7% of markers with mul...
+104  bin.tooShort  ...                    No bacterial or archaeal marker
+105  bin.unbinned  ...  Genome has more than 71.7% of markers with mul...
+
+[106 rows x 20 columns]
+         query                subject     pid  ...   send         evalue  bitscore
+0   contig_101  bin.69.fa_contig_9141  92.208  ...   2106   1.940000e-21     108.0
+1  contig_1037   bin.5.fa_contig_8618  92.369  ...   6277   1.680000e-94     351.0
+2   contig_110  bin.68.fa_contig_6524  88.612  ...   4796   5.240000e-89     333.0
+3   contig_111  bin.68.fa_contig_6524  88.679  ...   4796  1.160000e-103     381.0
+4  contig_1218  bin.11.fa_contig_2415  98.868  ...  45234   0.000000e+00   16657.0
+5  contig_1218  bin.11.fa_contig_2415  95.516  ...  56113   0.000000e+00   15285.0
+6  contig_1218  bin.11.fa_contig_2415  84.603  ...  52148  2.250000e-157     560.0
+7  contig_1218  bin.11.fa_contig_2415  86.454  ...  52033  1.060000e-145     521.0
+8  contig_1218  bin.11.fa_contig_2415  84.597  ...  51967  2.410000e-107     394.0
+9  contig_1218  bin.11.fa_contig_2415  82.609  ...  51931   5.370000e-84     316.0
+
+[10 rows x 12 columns]
+         query                subject     pid  ...         evalue  bitscore     bin
+0   contig_101  bin.69.fa_contig_9141  92.208  ...   1.940000e-21     108.0  bin.69
+1  contig_1037   bin.5.fa_contig_8618  92.369  ...   1.680000e-94     351.0   bin.5
+2   contig_110  bin.68.fa_contig_6524  88.612  ...   5.240000e-89     333.0  bin.68
+3   contig_111  bin.68.fa_contig_6524  88.679  ...  1.160000e-103     381.0  bin.68
+4  contig_1218  bin.11.fa_contig_2415  98.868  ...   0.000000e+00   16657.0  bin.11
+5  contig_1218  bin.11.fa_contig_2415  95.516  ...   0.000000e+00   15285.0  bin.11
+6  contig_1218  bin.11.fa_contig_2415  84.603  ...  2.250000e-157     560.0  bin.11
+7  contig_1218  bin.11.fa_contig_2415  86.454  ...  1.060000e-145     521.0  bin.11
+8  contig_1218  bin.11.fa_contig_2415  84.597  ...  2.410000e-107     394.0  bin.11
+9  contig_1218  bin.11.fa_contig_2415  82.609  ...   5.370000e-84     316.0  bin.11
+
+[10 rows x 13 columns]
+         query  ...                                     classification
+0   contig_101  ...  d__Bacteria;p__Proteobacteria;c__Gammaproteoba...
+1  contig_1037  ...  d__Bacteria;p__Proteobacteria;c__Gammaproteoba...
+2   contig_110  ...  d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__...
+3   contig_111  ...  d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__...
+4  contig_1218  ...  d__Bacteria;p__Proteobacteria;c__Alphaproteoba...
+5  contig_1218  ...  d__Bacteria;p__Proteobacteria;c__Alphaproteoba...
+6  contig_1218  ...  d__Bacteria;p__Proteobacteria;c__Alphaproteoba...
+7  contig_1218  ...  d__Bacteria;p__Proteobacteria;c__Alphaproteoba...
+8  contig_1218  ...  d__Bacteria;p__Proteobacteria;c__Alphaproteoba...
+9  contig_1218  ...  d__Bacteria;p__Proteobacteria;c__Alphaproteoba...
+
+[10 rows x 15 columns]
+   viral_contig  ... rafah_score
+0    contig_101  ...    0.171433
+1   contig_1037  ...    0.161517
+2    contig_110  ...    0.202000
+3    contig_111  ...    0.193150
+4   contig_1218  ...    0.384000
+5   contig_1218  ...    0.384000
+6   contig_1218  ...    0.384000
+7   contig_1218  ...    0.384000
+8   contig_1218  ...    0.384000
+9   contig_1218  ...    0.384000
+10  contig_1218  ...    0.384000
+11  contig_1218  ...    0.384000
+12  contig_1218  ...    0.384000
+13  contig_1218  ...    0.384000
+14  contig_1218  ...    0.384000
+15  contig_1218  ...    0.384000
+16  contig_1218  ...    0.384000
+17  contig_1218  ...    0.384000
+18  contig_1254  ...    0.098000
+19  contig_1303  ...    0.169000
+20  contig_1303  ...    0.169000
+21  contig_1303  ...    0.169000
+22  contig_1303  ...    0.169000
+23  contig_1303  ...    0.169000
+24  contig_1303  ...    0.169000
+25  contig_1554  ...    0.076000
+26   contig_189  ...    0.147650
+27   contig_213  ...    0.097000
+28   contig_339  ...    0.210883
+29   contig_339  ...    0.210883
+30   contig_383  ...    0.082000
+31   contig_383  ...    0.082000
+32   contig_434  ...    0.297000
+33   contig_434  ...    0.297000
+34   contig_519  ...    0.364000
+35   contig_701  ...    0.133000
+36   contig_734  ...    0.137167
+37   contig_775  ...    0.384000
+38   contig_811  ...    0.112883
+39   contig_871  ...    0.165000
+
+[40 rows x 16 columns]
