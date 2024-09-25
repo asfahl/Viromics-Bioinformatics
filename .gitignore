@@ -2,8 +2,11 @@ py3env/
 source/
 1.3_virus_identification/20_results_assessment_checkv/cross_assembly/tmp/
 *.fastq.gz
+*.fastq
+*.fasta
 python_scripts/visualization/assembly_visualization/input
 2.1_host_prediction/10_rafah/ncbi_to_gtdb.csv
 2.1_host_prediction/10_rafah/split_contigs/
 2.1_host_prediction/10_rafah/
 2.1_host_prediction/20_blastn/
+2.2_taxonomy/10_vcontact_results/

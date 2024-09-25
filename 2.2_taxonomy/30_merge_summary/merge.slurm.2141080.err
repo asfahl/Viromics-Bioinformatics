@@ -1,0 +1,12 @@
+/home/qe76qox/Viromics-Bioinformatics/python_scripts/taxonomy/merge_summary.py:76: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  df_genomad_genes['marker'].fillna('bla',inplace=True)
+/home/qe76qox/Viromics-Bioinformatics/python_scripts/taxonomy/merge_summary.py:103: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_vcontact_final.rename(columns={'GenomeName':'contig_id','taxonomy':'vcontact_taxonomy'}, inplace=True)

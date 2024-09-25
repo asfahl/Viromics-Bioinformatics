@@ -1,0 +1,34 @@
+2024-09-25 16:47:52.359 | INFO     | phold.utils.util:begin_phold:72 - phold: annotating phage genomes with protein structures
+2024-09-25 16:47:52.362 | INFO     | phold.utils.util:begin_phold:74 - You are using phold version 0.2.0
+2024-09-25 16:47:52.365 | INFO     | phold.utils.util:begin_phold:75 - Repository homepage is https://github.com/gbouras13/phold
+2024-09-25 16:47:52.368 | INFO     | phold.utils.util:begin_phold:76 - You are running phold plot
+2024-09-25 16:47:52.371 | INFO     | phold.utils.util:begin_phold:77 - Listing parameters
+2024-09-25 16:47:52.373 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --input 3_Project/3.2_subsampled_phold/10_phold_on_pharoka/phold.gbk
+2024-09-25 16:47:52.376 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --output 3_Project/3.2_subsampled_phold/20_phold_plot
+2024-09-25 16:47:52.378 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --force True
+2024-09-25 16:47:52.380 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --prefix phold
+2024-09-25 16:47:52.383 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --all False
+2024-09-25 16:47:52.386 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --plot_title None
+2024-09-25 16:47:52.388 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --label_hypotheticals False
+2024-09-25 16:47:52.391 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --remove_other_features_labels False
+2024-09-25 16:47:52.394 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --title_size 20.0
+2024-09-25 16:47:52.396 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --label_size 8
+2024-09-25 16:47:52.399 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --interval 5000
+2024-09-25 16:47:52.402 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --truncate 20
+2024-09-25 16:47:52.406 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --dpi 600
+2024-09-25 16:47:52.409 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --annotations 1.0
+2024-09-25 16:47:52.412 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --label_ids None
+2024-09-25 16:47:52.415 | INFO     | phold.io.handle_genbank:get_genbank:57 - Checking if input 3_Project/3.2_subsampled_phold/10_phold_on_pharoka/phold.gbk is a Genbank file
+2024-09-25 16:47:52.613 | INFO     | phold.utils.validation:validate_input:50 - Successfully parsed input 3_Project/3.2_subsampled_phold/10_phold_on_pharoka/phold.gbk as a Genbank format file
+2024-09-25 16:47:52.820 | INFO     | phold:plot:1348 - Plotting contig_1062
+2024-09-25 16:47:56.174 | INFO     | phold:plot:1348 - Plotting contig_1096
+2024-09-25 16:47:59.666 | INFO     | phold:plot:1348 - Plotting contig_1169
+2024-09-25 16:48:02.706 | INFO     | phold:plot:1348 - Plotting contig_1459
+2024-09-25 16:48:05.662 | INFO     | phold:plot:1348 - Plotting contig_1460
+2024-09-25 16:48:08.698 | INFO     | phold:plot:1348 - Plotting contig_200
+2024-09-25 16:48:12.660 | INFO     | phold:plot:1348 - Plotting contig_267
+2024-09-25 16:48:16.062 | INFO     | phold:plot:1348 - Plotting contig_400
+2024-09-25 16:48:18.954 | INFO     | phold:plot:1348 - Plotting contig_58
+2024-09-25 16:48:22.622 | INFO     | phold:plot:1348 - Plotting contig_644
+2024-09-25 16:48:26.074 | INFO     | phold:plot:1348 - Plotting contig_815
+2024-09-25 16:48:29.399 | INFO     | phold:plot:1348 - Plotting contig_820

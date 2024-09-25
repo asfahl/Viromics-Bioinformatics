@@ -1,0 +1,41 @@
+/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/networkx/utils/backends.py:135: RuntimeWarning: networkx backend defined more than once: nx-loopback
+  backends.update(_get_backends("networkx.backends"))
+/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/networkx/utils/backends.py:135: RuntimeWarning: networkx backend defined more than once: nx-loopback
+  backends.update(_get_backends("networkx.backends"))
+Traceback (most recent call last):
+  File "/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/networkx/classes/graph.py", line 1354, in neighbors
+    return iter(self._adj[n])
+  File "/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/networkx/classes/coreviews.py", line 320, in __getitem__
+    raise KeyError(f"Key {node} not found")
+KeyError: 'Key 5264 not found'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/qe76qox/Viromics-Bioinformatics/python_scripts/visualization/taxonomy_visualization/plot_global_taxonomy.py", line 142, in <module>
+    main()
+  File "/home/qe76qox/Viromics-Bioinformatics/python_scripts/visualization/taxonomy_visualization/plot_global_taxonomy.py", line 98, in main
+    subgraph_neighbors = subgraph.edge_subgraph([(contig_id_node, n) for n in subgraph.neighbors(contig_id_node)])
+  File "/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/networkx/classes/graph.py", line 1356, in neighbors
+    raise NetworkXError(f"The node {n} is not in the graph.") from err
+networkx.exception.NetworkXError: The node 5264 is not in the graph.
+/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/networkx/utils/backends.py:135: RuntimeWarning: networkx backend defined more than once: nx-loopback
+  backends.update(_get_backends("networkx.backends"))
+Traceback (most recent call last):
+  File "/home/qe76qox/Viromics-Bioinformatics/python_scripts/visualization/taxonomy_visualization/plot_local_taxonomy.py", line 87, in <module>
+    main()
+  File "/home/qe76qox/Viromics-Bioinformatics/python_scripts/visualization/taxonomy_visualization/plot_local_taxonomy.py", line 48, in main
+    if contig_id_node == -1: raise(AssertionError(f"Could not find {contig_id} in the graph"))
+AssertionError: Could not find contig_58, in the graph
+/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/networkx/utils/backends.py:135: RuntimeWarning: networkx backend defined more than once: nx-loopback
+  backends.update(_get_backends("networkx.backends"))
+Traceback (most recent call last):
+  File "/home/qe76qox/Viromics-Bioinformatics/python_scripts/visualization/taxonomy_visualization/plot_global_taxonomy.py", line 142, in <module>
+    main()
+  File "/home/qe76qox/Viromics-Bioinformatics/python_scripts/visualization/taxonomy_visualization/plot_global_taxonomy.py", line 59, in main
+    if contig_id_node == -1: raise(AssertionError(f"Could not find {contig_id} in the graph"))
+AssertionError: Could not find contig_58, in the graph
+/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/networkx/utils/backends.py:135: RuntimeWarning: networkx backend defined more than once: nx-loopback
+  backends.update(_get_backends("networkx.backends"))
+/home/qe76qox/Viromics-Bioinformatics/py3env/lib64/python3.9/site-packages/networkx/utils/backends.py:135: RuntimeWarning: networkx backend defined more than once: nx-loopback
+  backends.update(_get_backends("networkx.backends"))

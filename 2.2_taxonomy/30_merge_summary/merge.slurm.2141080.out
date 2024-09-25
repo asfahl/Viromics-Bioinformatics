@@ -1,0 +1,165 @@
+            prediction  phage_score
+contig_id                          
+contig_1         phage        5.816
+contig_1004      phage        5.078
+contig_1005      phage        4.527
+contig_1008      phage        3.988
+contig_1006      phage        3.457
+...                ...          ...
+contig_99        phage        3.471
+contig_991       phage        1.070
+contig_992       phage        3.328
+contig_993       phage        2.699
+contig_998       phage        4.043
+
+[874 rows x 2 columns]
+             length  coverage is_circular
+contig_id                                
+contig_200   109562         5           N
+contig_601    85375        35           Y
+contig_58     85038         5           N
+contig_644    72339         4           N
+contig_1484   68203        11           N
+...             ...       ...         ...
+contig_33       691        31           N
+contig_497      683         4           N
+contig_916      605         9           N
+contig_920      586        19           N
+contig_241      568        15           N
+
+[1140 rows x 3 columns]
+             checkv_total_genes  ...  contamination
+contig_id                        ...               
+contig_101                   34  ...            0.0
+contig_1015                  16  ...            0.0
+contig_1019                  49  ...            0.0
+contig_102                   25  ...            0.0
+contig_1021                  28  ...            0.0
+...                         ...  ...            ...
+contig_982                   32  ...            0.0
+contig_983                   28  ...            0.0
+contig_986                   22  ...            0.0
+contig_99                    62  ...            0.0
+contig_998                   22  ...            0.0
+
+[293 rows x 5 columns]
+Description  phanotate_total_genes  CRISPRs  ...  tail  transcription regulation
+contig                                       ...                                
+contig_101                      88        0  ...     0                         0
+contig_1015                     33        0  ...     0                         0
+contig_1019                    109        0  ...     0                         0
+contig_1021                     62        0  ...     1                         0
+contig_1024                     59        0  ...     3                         0
+...                            ...      ...  ...   ...                       ...
+contig_982                      67        0  ...     1                         0
+contig_983                      59        0  ...     0                         0
+contig_986                      59        0  ...     1                         0
+contig_99                      135        0  ...     0                         0
+contig_998                      39        0  ...     0                         0
+
+[256 rows x 12 columns]
+             contig_id_cds  marker  cds
+contig_id                              
+contig_101              13      13   13
+contig_1015              7       7    7
+contig_1019             19      19   19
+contig_1021              9       9    9
+contig_1024             12      12   12
+...                    ...     ...  ...
+contig_982              11      11   11
+contig_983               5       5    5
+contig_986               6       6    6
+contig_99               29      29   29
+contig_998              10      10   10
+
+[255 rows x 3 columns]
+             genomad_total_genes  genomad_viral_genes
+contig_id                                            
+contig_101                    34                 13.0
+contig_1015                   16                  7.0
+contig_1019                   49                 19.0
+contig_1021                   28                  9.0
+contig_1024                   32                 12.0
+...                          ...                  ...
+contig_982                    32                 11.0
+contig_983                    28                  5.0
+contig_986                    22                  6.0
+contig_99                     62                 29.0
+contig_998                    22                 10.0
+
+[256 rows x 2 columns]
+                                          rafah_predicted_host  rafah_prediction_score
+contig_id                                                                             
+contig_101   d__Bacteria;p__Pseudomonadota;c__Gammaproteoba...                0.171433
+contig_1015  d__Bacteria;p__Pseudomonadota;c__Gammaproteoba...                0.143100
+contig_1019  d__Bacteria;p__Pseudomonadota;c__Gammaproteoba...                0.092433
+contig_1021  d__Bacteria;p__Actinomycetota;c__Actinomycetia...                0.156000
+contig_1024  d__Bacteria;p__Actinomycetota;c__Actinomycetia...                0.167000
+...                                                        ...                     ...
+contig_977   d__Bacteria;p__Actinomycetota;c__Actinomycetia...                0.148000
+contig_982   d__Bacteria;p__Pseudomonadota;c__Gammaproteoba...                0.167033
+contig_986   d__Bacteria;p__Actinomycetota;c__Actinomycetia...                0.151000
+contig_99    d__Bacteria;p__Pseudomonadota;c__Alphaproteoba...                0.179000
+contig_998   d__Bacteria;p__Pseudomonadota;c__Gammaproteoba...                0.220617
+
+[255 rows x 2 columns]
+                                             vcontact_taxonomy
+contig_id                                                     
+contig_101   Duplodnaviria;Uroviricota;Caudoviricetes;novel...
+contig_1015                   No Realm;nan;nan;nan;nan;nan;nan
+contig_1019                   No Realm;nan;nan;nan;nan;nan;nan
+contig_1021  Duplodnaviria;Uroviricota;Caudoviricetes;novel...
+contig_1024                   No Realm;nan;nan;nan;nan;nan;nan
+...                                                        ...
+contig_982   Duplodnaviria;Uroviricota;Caudoviricetes;novel...
+contig_983                    No Realm;nan;nan;nan;nan;nan;nan
+contig_986                    No Realm;nan;nan;nan;nan;nan;nan
+contig_99    Duplodnaviria;Uroviricota;Caudoviricetes;novel...
+contig_998                    No Realm;nan;nan;nan;nan;nan;nan
+
+[256 rows x 1 columns]
+             genomad_agreement  ...                                   genomad_taxonomy
+contig_id                       ...                                                   
+contig_101              1.0000  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_1015             1.0000  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_1019             1.0000  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_1021             1.0000  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_1024             1.0000  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+...                        ...  ...                                                ...
+contig_982              1.0000  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_983              0.8552  ...                  Viruses;Varidnaviria;Bamfordvirae
+contig_986              1.0000  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_99               1.0000  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_998              1.0000  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+
+[255 rows x 3 columns]
+             checkv_total_genes  checkv_viral_genes  ... prediction  phage_score
+contig_id                                            ...                        
+contig_101                   34                   0  ...      phage        3.768
+contig_1015                  16                   0  ...      phage        4.605
+contig_1019                  49                   0  ...      phage        3.971
+contig_1021                  28                   0  ...      phage        4.031
+contig_1024                  32                   0  ...      phage        2.639
+...                         ...                 ...  ...        ...          ...
+contig_982                   32                   0  ...      phage        4.145
+contig_983                   28                   0  ...      phage        1.844
+contig_986                   22                   0  ...      phage        3.375
+contig_99                    62                   1  ...      phage        3.471
+contig_998                   22                   0  ...      phage        4.043
+
+[256 rows x 7 columns]
+             checkv_total_genes  ...                                   genomad_taxonomy
+contig_id                        ...                                                   
+contig_101                   34  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_1015                  16  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_1019                  49  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_1021                  28  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_1024                  32  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+...                         ...  ...                                                ...
+contig_982                   32  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_983                   28  ...                  Viruses;Varidnaviria;Bamfordvirae
+contig_986                   22  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_99                    62  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+contig_998                   22  ...  Viruses;Duplodnaviria;Heunggongvirae;Urovirico...
+
+[256 rows x 30 columns]
