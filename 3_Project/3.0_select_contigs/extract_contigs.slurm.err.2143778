@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/qe76qox/Viromics-Bioinformatics/python_scripts/Project/subsampling.py", line 20, in <module>
+    if record.id in contig:
+NameError: name 'contig' is not defined

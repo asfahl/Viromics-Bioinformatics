@@ -1,0 +1,30 @@
+2024-09-26 15:25:56.999 | INFO     | input_commands:instantiate_dirs:183 - Removing output directory 3_Project/3.3_subsampled_pharokka/10_pharokka_results/11_subsample_30 as -f or --force was specified.
+2024-09-26 15:25:57.041 | INFO     | __main__:main:95 - Starting Pharokka v1.7.1
+2024-09-26 15:25:57.045 | INFO     | __main__:main:96 - Command executed: Namespace(infile='3_Project/3.0_select_contigs/select_contigs_30.fasta', outdir='3_Project/3.3_subsampled_pharokka/10_pharokka_results/11_subsample_30', database='/work/groups/VEO/databases/pharokka/v1.7.1/', threads='10', force=True, prefix='Default', locustag='Default', gene_predictor='phanotate', meta=True, split=False, coding_table='11', evalue='1E-05', fast=False, mmseqs2_only=False, meta_hmm=True, dnaapler=False, custom_hmm='', genbank=False, terminase=False, terminase_strand='nothing', terminase_start='nothing', skip_extra_annotations=False, skip_mash=False, minced_args='', mash_distance=0.2, citation=False)
+2024-09-26 15:25:57.051 | INFO     | __main__:main:97 - Repository homepage is https://github.com/gbouras13/pharokka
+2024-09-26 15:25:57.056 | INFO     | __main__:main:98 - Written by George Bouras: george.bouras@adelaide.edu.au
+2024-09-26 15:25:57.060 | INFO     | __main__:main:100 - Checking database installation in /work/groups/VEO/databases/pharokka/v1.7.1/.
+2024-09-26 15:25:57.069 | INFO     | __main__:main:103 - All databases have been successfully checked.
+2024-09-26 15:25:57.074 | INFO     | __main__:main:119 - Checking dependencies.
+2024-09-26 15:25:58.692 | INFO     | input_commands:check_dependencies:379 - Phanotate version found is v1.5.1
+2024-09-26 15:25:58.697 | INFO     | input_commands:check_dependencies:388 - Phanotate version is ok.
+2024-09-26 15:25:58.813 | INFO     | input_commands:check_dependencies:410 - MMseqs2 version found is v13.45111
+2024-09-26 15:25:58.818 | INFO     | input_commands:check_dependencies:419 - MMseqs2 version is ok.
+2024-09-26 15:25:59.379 | INFO     | input_commands:check_dependencies:443 - tRNAscan-SE version found is v2.0.12
+2024-09-26 15:25:59.383 | INFO     | input_commands:check_dependencies:454 - tRNAscan-SE version is ok.
+2024-09-26 15:25:59.909 | INFO     | input_commands:check_dependencies:478 - MinCED version found is v0.4.2
+2024-09-26 15:25:59.913 | INFO     | input_commands:check_dependencies:489 - MinCED version is ok.
+2024-09-26 15:25:59.946 | INFO     | input_commands:check_dependencies:515 - ARAGORN version found is v1.2.41
+2024-09-26 15:25:59.950 | INFO     | input_commands:check_dependencies:526 - ARAGORN version is ok.
+2024-09-26 15:26:00.084 | INFO     | input_commands:check_dependencies:543 - mash version found is v2.3
+2024-09-26 15:26:00.089 | INFO     | input_commands:check_dependencies:550 - mash version is ok.
+2024-09-26 15:26:06.494 | INFO     | input_commands:check_dependencies:569 - Dnaapler version found is v0.7.0
+2024-09-26 15:26:06.499 | INFO     | input_commands:check_dependencies:576 - Dnaapler version is ok.
+2024-09-26 15:26:06.503 | INFO     | input_commands:check_dependencies:588 - Pyrodigal version is v3.3.0
+2024-09-26 15:26:06.508 | INFO     | input_commands:check_dependencies:589 - Pyrodigal version is ok.
+2024-09-26 15:26:06.514 | INFO     | input_commands:check_dependencies:601 - Pyrodigal_gv version is v0.3.1
+2024-09-26 15:26:06.518 | INFO     | input_commands:check_dependencies:602 - Pyrodigal_gv version is ok.
+2024-09-26 15:26:06.635 | INFO     | input_commands:validate_fasta:230 - Checking input 3_Project/3.0_select_contigs/select_contigs_30.fasta.
+2024-09-26 15:26:06.641 | INFO     | input_commands:validate_fasta:232 - Input 3_Project/3.0_select_contigs/select_contigs_30.fasta is in FASTA format.
+2024-09-26 15:26:06.648 | INFO     | input_commands:validate_fasta:237 - Checking input 3_Project/3.0_select_contigs/select_contigs_30.fasta for duplicate FASTA headers.
+2024-09-26 15:26:06.664 | ERROR    | input_commands:check_duplicate_headers:254 - Duplicate header found: contig_200

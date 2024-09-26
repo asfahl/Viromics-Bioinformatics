@@ -1,0 +1,2 @@
+contig_id	cds_id	start	end	strand	transl_table	bitscore	fident	evalue	qStart	qEnd	qLen	tStart	tEnd	tLen	annotation_source	id	System_name_ok	System	gene_name	subtype	proteins_in_the_prediction	batch	nb_sys	type	system_number_of_genes	system_genes	pdb	pLDDT
+contig_1439	contig_1439_CDS_0038	20005	19457	-	11	441.0	0.542	6.167e-10	1.0	139.0	182.0	15.0	151.0	852.0	foldseek	160	brex	BREX	pglxi	BREX_III	BREX__pglXI	1	0	DF	6	BREX__brxF,BREX__brxC,BREX__pglXI,BREX__brxHII,BREX__pglZ3,BREX__brxA	BREX_III.BREX__pglXI.0.DF.pdb	88.26659

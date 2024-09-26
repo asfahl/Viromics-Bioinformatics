@@ -1,0 +1,1 @@
+Command line: foldseek tsv2db 3_Project/3.2_subsampled_phold/10_phold_on_pharoka/11_subset_30/foldseek_db/3di.tsv 3_Project/3.2_subsampled_phold/10_phold_on_pharoka/11_subset_30/foldseek_db/phold_ss --output-dbtype 0

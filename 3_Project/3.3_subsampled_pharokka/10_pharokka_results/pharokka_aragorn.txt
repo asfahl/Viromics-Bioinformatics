@@ -1,0 +1,25 @@
+>contig_1062
+0 genes found
+>contig_1096
+0 genes found
+>contig_1169
+0 genes found
+>contig_1459
+0 genes found
+>contig_1460
+0 genes found
+>contig_200
+0 genes found
+>contig_267
+0 genes found
+>contig_400
+0 genes found
+>contig_58
+0 genes found
+>contig_644
+0 genes found
+>contig_815
+0 genes found
+>contig_820
+0 genes found
+>end 	12 sequences 0 tmRNA genes, nothing found in 12 sequences, (0.00% sensitivity)

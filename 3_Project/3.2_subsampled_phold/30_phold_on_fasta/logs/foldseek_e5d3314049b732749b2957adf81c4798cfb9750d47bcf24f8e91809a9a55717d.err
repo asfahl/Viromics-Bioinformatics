@@ -1,0 +1,1 @@
+Command line: foldseek createtsv 3_Project/3.2_subsampled_phold/30_phold_on_fasta/foldseek_db/phold /veodata/01/databases/phold/v240724/all_phold_structures 3_Project/3.2_subsampled_phold/30_phold_on_fasta/result_db/result_db 3_Project/3.2_subsampled_phold/30_phold_on_fasta/foldseek_results.tsv

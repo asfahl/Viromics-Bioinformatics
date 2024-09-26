@@ -1,0 +1,1119 @@
+contig_id	cds_id	start	end	strand	phrog	function	product	annotation_method	transl_table	bitscore	fident	evalue	qStart	qEnd	qLen	tStart	tEnd	tLen	annotation_source	tophit_protein	function_with_highest_bitscore_proportion	top_bitscore_proportion_not_unknown	head_and_packaging_bitscore_proportion	integration_and_excision_bitscore_proportion	tail_bitscore_proportion	moron_auxiliary_metabolic_gene_and_host_takeover_bitscore_proportion	DNA_RNA_and_nucleotide_metabolism_bitscore_proportion	connector_bitscore_proportion	transcription_regulation_bitscore_proportion	lysis_bitscore_proportion	other_bitscore_proportion	unknown_function_bitscore_proportion
+contig_1062	contig_1062_CDS_0001	2	280	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0002	1358	1567	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0003	2963	2862	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0004	3374	3189	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0005	4342	4226	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0006	4568	4350	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0007	4885	4676	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0008	5264	5449	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0009	5501	5779	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0010	5781	5951	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0011	6121	6312	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0012	6334	6522	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0013	7154	7507	+	21613	unknown function	hypothetical protein	foldseek	11	348.0	0.392	4.809e-07	1.0	100.0	117.0	49.0	146.0	171.0	foldseek	efam_protein267530	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1062	contig_1062_CDS_0014	7593	7784	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0015	7781	7921	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0016	8293	8781	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0017	8750	8869	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0018	8871	9236	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0019	9537	9686	+	67	other	DNA methyltransferase	foldseek	11	223.0	0.679	1.050e-04	0.0	48.0	49.0	16.0	68.0	253.0	foldseek	efam_protein248002	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+contig_1062	contig_1062_CDS_0020	9664	9936	+	67	other	DNA methyltransferase	foldseek	11	325.0	0.659	2.968e-07	7.0	89.0	90.0	76.0	163.0	259.0	foldseek	efam_protein135358	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+contig_1062	contig_1062_CDS_0021	9902	10186	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0022	11321	11458	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0023	11827	11964	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0024	11991	12083	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0025	12199	12690	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0026	13051	13233	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0027	14033	14263	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0028	14520	14672	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0029	15639	15962	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0030	16050	16670	+	22502	other	methyltransferase	foldseek	11	542.0	0.37	3.669e-13	1.0	178.0	206.0	43.0	187.0	188.0	foldseek	envhog_protein527160	other	0.95	0.006	0.0	0.0	0.031	0.013	0.0	0.0	0.0	0.95	0.0
+contig_1062	contig_1062_CDS_0031	16725	17366	+	2456	moron, auxiliary metabolic gene and host takeover	glycosyltransferase	foldseek	11	856.0	0.48	6.761e-21	17.0	211.0	213.0	7.0	198.0	247.0	foldseek	envhog_protein1790436	moron, auxiliary metabolic gene and host takeover	0.773	0.001	0.0	0.0	0.773	0.006	0.0	0.0	0.0	0.22	0.0
+contig_1062	contig_1062_CDS_0032	17494	17652	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0033	17649	17855	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0034	17852	18118	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0035	18324	18779	+	606	head and packaging	terminase small subunit	foldseek	11	363.0	0.518	2.375e-07	3.0	134.0	151.0	40.0	168.0	169.0	foldseek	envhog_protein1322015	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1062	contig_1062_CDS_0036	18730	19257	+	7579	head and packaging	terminase large subunit	foldseek	11	823.0	0.581	6.283e-21	4.0	168.0	175.0	5.0	167.0	227.0	foldseek	efam_protein354698	head and packaging	0.964	0.964	0.0	0.0	0.003	0.02	0.003	0.0	0.0	0.01	0.0
+contig_1062	contig_1062_CDS_0037	19268	19927	+	7579	head and packaging	terminase large subunit	foldseek	11	1151.0	0.549	2.410e-28	0.0	218.0	219.0	180.0	401.0	402.0	foldseek	efam_protein385154	head and packaging	0.986	0.986	0.0	0.0	0.005	0.005	0.003	0.0	0.0	0.0	0.0
+contig_1062	contig_1062_CDS_0038	20171	20413	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0039	20450	20746	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0040	21259	21933	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0041	22527	22685	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0042	22804	23313	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0043	23380	24144	+	33450	tail	tail fiber protein	foldseek	11	271.0	0.205	2.349e-05	17.0	242.0	254.0	299.0	509.0	551.0	foldseek	efam_protein105921	tail	0.615	0.385	0.0	0.615	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1062	contig_1062_CDS_0044	24485	24853	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0045	24846	24980	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0046	24940	25281	+	8469	tail	tail fiber protein	foldseek	11	350.0	0.279	1.944e-07	0.0	112.0	113.0	96.0	202.0	203.0	foldseek	envhog_protein436453	tail	0.779	0.21	0.0	0.779	0.003	0.003	0.001	0.0	0.0	0.003	0.0
+contig_1062	contig_1062_CDS_0047	25281	25724	+	10330	head and packaging	virion structural protein	foldseek	11	239.0	0.27	1.387e-04	7.0	138.0	147.0	92.0	245.0	369.0	foldseek	envhog_protein1267751	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1062	contig_1062_CDS_0048	25942	26358	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0049	26409	26588	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0050	26593	26985	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0051	27175	27666	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0052	27636	28109	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0053	28816	29322	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0054	29465	30016	+	20705	head and packaging	virion structural protein	foldseek	11	306.0	0.312	1.701e-05	9.0	156.0	183.0	4.0	154.0	213.0	foldseek	efam_protein304109	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1062	contig_1062_CDS_0055	30076	30978	+	1623	head and packaging	virion structural protein	foldseek	11	774.0	0.309	1.124e-18	27.0	295.0	300.0	26.0	309.0	315.0	foldseek	efam_protein176995	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1062	contig_1062_CDS_0056	31226	31573	+	19979	head and packaging	virion structural protein	foldseek	11	352.0	0.379	1.592e-07	2.0	109.0	115.0	60.0	166.0	170.0	foldseek	efam_protein254680	head and packaging	0.998	0.998	0.0	0.002	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1062	contig_1062_CDS_0057	31863	32084	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0058	32084	32278	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0059	32788	32934	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0060	32971	33342	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0061	33673	33939	+	906	DNA, RNA and nucleotide metabolism	DNA polymerase/primase	foldseek	11	206.0	0.258	4.677e-04	0.0	83.0	88.0	544.0	631.0	636.0	foldseek	efam_protein178211	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1062	contig_1062_CDS_0062	34057	34158	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0063	34174	34503	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0064	34521	34688	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0065	34746	35210	+	10356	head and packaging	virion structural protein	foldseek	11	460.0	0.319	5.820e-11	1.0	141.0	154.0	14.0	155.0	162.0	foldseek	efam_protein131017	connector	0.629	0.146	0.0	0.225	0.0	0.0	0.629	0.0	0.0	0.0	0.0
+contig_1062	contig_1062_CDS_0066	35795	35592	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0067	36150	36617	+	25379	tail	tail protein	foldseek	11	392.0	0.275	2.053e-07	20.0	151.0	155.0	163.0	291.0	293.0	foldseek	envhog_protein1876665	tail	0.637	0.293	0.0	0.637	0.0	0.0	0.004	0.0	0.045	0.02	0.0
+contig_1062	contig_1062_CDS_0068	38379	38843	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0069	39125	39313	+	403	DNA, RNA and nucleotide metabolism	DNA polymerase exonuclease subunit	foldseek	11	242.0	0.563	1.921e-05	0.0	54.0	62.0	0.0	54.0	187.0	foldseek	envhog_protein955102	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1062	contig_1062_CDS_0070	39385	39636	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0071	40551	40435	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0072	41278	41039	-	6025	other	DNA methyltransferase	foldseek	11	384.0	0.576	1.364e-09	0.0	77.0	79.0	1.0	78.0	109.0	foldseek	protein621226	other	0.997	0.0	0.0	0.0	0.0	0.003	0.0	0.0	0.0	0.997	0.0
+contig_1062	contig_1062_CDS_0073	41925	41755	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0074	42746	42582	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0075	43020	42856	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0076	43774	43478	-	359	other	DNA methyltransferase	foldseek	11	320.0	0.471	2.037e-07	3.0	91.0	98.0	6.0	88.0	186.0	foldseek	efam_protein213682	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+contig_1062	contig_1062_CDS_0077	45101	45394	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0078	46009	46200	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0079	46193	46381	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0080	46388	46930	+	5702	DNA, RNA and nucleotide metabolism	Holliday junction resolvase	foldseek	11	446.0	0.312	1.423e-10	1.0	157.0	180.0	10.0	169.0	172.0	foldseek	envhog_protein28754	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1062	contig_1062_CDS_0081	46927	47187	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0082	47771	47941	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0083	47947	48072	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0084	48141	48326	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0085	48807	49013	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0086	49119	49343	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0087	49693	49938	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1062	contig_1062_CDS_0088	50027	50212	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0001	329	1009	+	95	integration and excision	integrase	foldseek	11	1038.0	0.48	1.411e-26	0.0	225.0	226.0	20.0	246.0	249.0	foldseek	envhog_protein893446	integration and excision	0.697	0.001	0.697	0.0	0.0	0.301	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0002	996	1697	+	2	head and packaging	terminase large subunit	foldseek	11	1230.0	0.714	9.577e-31	0.0	227.0	233.0	0.0	226.0	470.0	foldseek	efam_protein307641	head and packaging	0.954	0.954	0.0	0.0	0.003	0.015	0.0	0.0	0.0	0.028	0.0
+contig_1096	contig_1096_CDS_0003	1654	2406	+	2	head and packaging	terminase large subunit	foldseek	11	1352.0	0.64	6.677e-34	1.0	249.0	250.0	223.0	472.0	473.0	foldseek	efam_protein31843	head and packaging	0.987	0.987	0.0	0.0	0.005	0.005	0.003	0.0	0.0	0.001	0.0
+contig_1096	contig_1096_CDS_0004	2912	2709	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0005	3052	3393	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0006	3461	4180	+	1216	head and packaging	portal protein	foldseek	11	680.0	0.391	2.257e-16	23.0	238.0	239.0	86.0	310.0	422.0	foldseek	envhog_protein184303	head and packaging	0.995	0.995	0.0	0.0	0.0	0.0	0.005	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0007	4332	5774	+	1216	head and packaging	portal protein	foldseek	11	1782.0	0.57	9.498e-42	0.0	434.0	480.0	25.0	461.0	475.0	foldseek	efam_protein224432	head and packaging	0.697	0.697	0.0	0.0	0.0	0.0	0.302	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0008	5850	6110	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0009	7251	7631	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0010	7747	8001	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0011	8031	8759	+	3927	head and packaging	head scaffolding protein	foldseek	11	723.0	0.485	2.495e-16	0.0	241.0	242.0	103.0	344.0	350.0	foldseek	envhog_protein1346945	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0012	8775	9194	+	1328	head and packaging	major head protein	foldseek	11	506.0	0.634	3.259e-13	0.0	133.0	139.0	0.0	132.0	146.0	foldseek	efam_protein248378	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0013	9391	9738	+	1328	head and packaging	major head protein	foldseek	11	554.0	0.634	1.695e-12	0.0	114.0	115.0	0.0	114.0	115.0	foldseek	efam_protein348768	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0014	9796	10101	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0015	10101	10709	+	2941	head and packaging	virion structural protein	foldseek	11	1056.0	0.524	2.604e-25	0.0	201.0	202.0	0.0	201.0	205.0	foldseek	efam_protein270969	head and packaging	0.623	0.623	0.0	0.304	0.062	0.0	0.009	0.0	0.0	0.001	0.0
+contig_1096	contig_1096_CDS_0016	10720	10986	+	240	head and packaging	head protein	foldseek	11	324.0	0.61	1.971e-07	0.0	87.0	88.0	0.0	99.0	126.0	foldseek	efam_protein98740	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0017	11006	11101	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0018	12416	12192	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0019	13796	14575	+	19943	head and packaging	virion structural protein	foldseek	11	669.0	0.388	2.174e-13	23.0	258.0	259.0	453.0	661.0	662.0	foldseek	efam_protein321790	head and packaging	0.939	0.939	0.0	0.056	0.0	0.003	0.0	0.0	0.0	0.002	0.0
+contig_1096	contig_1096_CDS_0020	14863	14540	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0021	15743	15868	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0022	15908	16462	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0023	16497	17243	+	3287	head and packaging	virion structural protein	foldseek	11	601.0	0.347	1.177e-11	0.0	237.0	248.0	0.0	233.0	234.0	foldseek	efam_protein230572	head and packaging	0.981	0.981	0.0	0.002	0.0	0.0	0.013	0.0	0.004	0.0	0.0
+contig_1096	contig_1096_CDS_0024	17206	17481	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0025	18358	19125	+	6121	head and packaging	virion structural protein	foldseek	11	347.0	0.289	2.382e-07	9.0	243.0	255.0	1.0	272.0	849.0	foldseek	envhog_protein1927235	DNA, RNA and nucleotide metabolism	0.705	0.285	0.0	0.0	0.0	0.705	0.0	0.0	0.01	0.0	0.0
+contig_1096	contig_1096_CDS_0026	19494	19712	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0027	19733	20017	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0028	21868	22158	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0029	23018	23302	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0030	23463	23275	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0031	23621	23460	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0032	23681	23980	+	1770	DNA, RNA and nucleotide metabolism	Holliday junction resolvase	foldseek	11	301.0	0.595	3.146e-06	0.0	83.0	99.0	89.0	171.0	176.0	foldseek	envhog_protein1210940	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0033	23931	24236	+	62	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	11	275.0	0.437	1.501e-05	2.0	81.0	101.0	14.0	109.0	450.0	foldseek	envhog_protein1581662	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0034	24193	24414	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0035	24498	25274	+	62	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	11	961.0	0.47	1.238e-22	1.0	233.0	258.0	222.0	450.0	457.0	foldseek	envhog_protein8946	DNA, RNA and nucleotide metabolism	0.96	0.001	0.0	0.0	0.035	0.96	0.0	0.0	0.0	0.005	0.0
+contig_1096	contig_1096_CDS_0036	25358	25257	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0037	25558	25358	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0038	25826	25503	-	112	DNA, RNA and nucleotide metabolism	Gp2.5-like ssDNA binding protein and ssDNA annealing protein	foldseek	11	209.0	0.339	2.884e-04	10.0	102.0	107.0	15.0	114.0	116.0	foldseek	envhog_protein1925199	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0039	26979	25837	-	69	DNA, RNA and nucleotide metabolism	exonuclease	foldseek	11	1334.0	0.401	6.747e-31	1.0	376.0	380.0	15.0	396.0	405.0	foldseek	envhog_protein723003	DNA, RNA and nucleotide metabolism	0.996	0.001	0.0	0.001	0.001	0.996	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0040	27173	26976	-	7766	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	288.0	0.546	1.116e-06	1.0	64.0	65.0	148.0	211.0	213.0	foldseek	envhog_protein721185	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0041	27830	27261	-	17	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	252.0	0.237	2.137e-04	2.0	131.0	189.0	225.0	351.0	390.0	foldseek	envhog_protein9622	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0042	28755	28537	-	17	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	201.0	0.507	3.292e-04	0.0	62.0	72.0	94.0	156.0	838.0	foldseek	protein437107	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0043	28906	28733	-	17	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	232.0	0.58	1.300e-04	2.0	50.0	57.0	34.0	81.0	184.0	foldseek	envhog_protein841238	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0044	30143	30247	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0045	30365	30586	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0046	30586	31338	+	1156	DNA, RNA and nucleotide metabolism	DNA primase	foldseek	11	970.0	0.433	2.486e-23	1.0	247.0	250.0	4.0	245.0	771.0	foldseek	envhog_protein633309	DNA, RNA and nucleotide metabolism	0.999	0.0	0.0	0.0	0.0	0.999	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0047	31358	31882	+	6088	DNA, RNA and nucleotide metabolism	DNA primase	foldseek	11	480.0	0.471	5.211e-11	0.0	158.0	174.0	256.0	410.0	792.0	foldseek	envhog_protein823721	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0048	31864	32124	+	6088	DNA, RNA and nucleotide metabolism	DNA primase	foldseek	11	291.0	0.511	5.352e-07	2.0	85.0	86.0	422.0	505.0	792.0	foldseek	envhog_protein823721	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0049	32099	32374	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0050	32340	32777	+	6088	DNA, RNA and nucleotide metabolism	DNA primase	foldseek	11	633.0	0.68	2.245e-16	1.0	141.0	145.0	579.0	719.0	792.0	foldseek	envhog_protein823721	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0051	32785	33039	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0052	33067	33309	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0053	33309	33602	+	1689	other	nucleotide kinase	foldseek	11	290.0	0.479	4.437e-06	0.0	88.0	97.0	3.0	98.0	114.0	foldseek	efam_protein385930	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+contig_1096	contig_1096_CDS_0054	34870	34337	-	1482	head and packaging	terminase small subunit	foldseek	11	454.0	0.423	3.296e-09	0.0	152.0	177.0	53.0	207.0	210.0	foldseek	envhog_protein1747398	head and packaging	0.998	0.998	0.0	0.0	0.0	0.002	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0055	35090	34854	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0056	35351	35172	-	14076	transcription regulation	transcriptional regulator	foldseek	11	238.0	0.641	6.165e-05	0.0	52.0	59.0	8.0	60.0	67.0	foldseek	envhog_protein33449	transcription regulation	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0057	35575	35348	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0058	35703	35572	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0059	35902	35696	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0060	36350	36036	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0061	36519	36325	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0062	37059	36763	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0063	37490	37813	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0064	38026	38394	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0065	38394	39287	+	15	head and packaging	terminase large subunit	foldseek	11	632.0	0.446	5.162e-15	16.0	194.0	297.0	150.0	332.0	604.0	foldseek	envhog_protein509073	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0066	39318	39662	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0067	39659	39841	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0068	39845	40237	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0069	40385	40663	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0070	40623	40760	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0071	40757	41311	+	53	head and packaging	head maturation protease	foldseek	11	519.0	0.572	1.884e-12	2.0	178.0	184.0	182.0	359.0	718.0	foldseek	envhog_protein1104391	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0072	41322	41519	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0073	41815	41642	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0074	42122	42487	+	53	head and packaging	head maturation protease	foldseek	11	497.0	0.576	7.713e-13	2.0	119.0	121.0	584.0	700.0	718.0	foldseek	envhog_protein1104391	head and packaging	0.996	0.996	0.0	0.003	0.0	0.0	0.0	0.0	0.0	0.001	0.0
+contig_1096	contig_1096_CDS_0075	42509	42721	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0076	43002	42811	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0077	43028	43828	+	267	head and packaging	major head protein	foldseek	11	281.0	0.206	6.541e-06	0.0	183.0	266.0	0.0	181.0	251.0	foldseek	efam_protein308195	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0078	43939	44166	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0079	44381	44623	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0080	44723	44896	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0081	44883	45059	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0082	45301	45474	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0083	45512	45703	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0084	46437	45829	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0085	46773	47012	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0086	47469	47059	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0087	47573	47782	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0088	48913	49518	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0089	49458	49751	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0090	50245	50826	+	3304	tail	L-shaped tail fiber protein assembly	foldseek	11	446.0	0.185	1.147e-08	59.0	192.0	193.0	2.0	140.0	142.0	foldseek	envhog_protein991930	tail	0.743	0.045	0.0	0.743	0.0	0.001	0.211	0.0	0.0	0.001	0.0
+contig_1096	contig_1096_CDS_0091	51216	50917	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0092	51743	51925	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0093	52225	51953	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0094	52262	52708	+	7032	tail	tail fiber protein	foldseek	11	334.0	0.349	1.025e-05	6.0	130.0	148.0	424.0	560.0	583.0	foldseek	envhog_protein1598438	tail	0.686	0.28	0.0	0.686	0.0	0.0	0.0	0.0	0.0	0.034	0.0
+contig_1096	contig_1096_CDS_0095	52833	52946	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0096	52952	53092	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0097	53096	53806	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0098	53853	53999	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0099	54261	54623	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0100	55342	55106	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0101	55378	56196	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0102	56279	56566	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0103	56563	57009	+	4067	other	transglycosylase	foldseek	11	421.0	0.326	3.875e-08	0.0	131.0	148.0	7.0	153.0	173.0	foldseek	envhog_protein871621	other	0.786	0.0	0.0	0.183	0.0	0.0	0.0	0.0	0.031	0.786	0.0
+contig_1096	contig_1096_CDS_0104	57042	57515	+	1770	DNA, RNA and nucleotide metabolism	Holliday junction resolvase	foldseek	11	729.0	0.428	1.096e-17	3.0	156.0	157.0	30.0	183.0	184.0	foldseek	envhog_protein1092042	DNA, RNA and nucleotide metabolism	0.994	0.003	0.003	0.0	0.0	0.994	0.0	0.0	0.0	0.0	0.0
+contig_1096	contig_1096_CDS_0105	57880	58203	+	2324	DNA, RNA and nucleotide metabolism	Erf-like ssDNA annealing protein	foldseek	11	435.0	0.6	3.249e-09	1.0	106.0	107.0	43.0	152.0	153.0	foldseek	envhog_protein280650	DNA, RNA and nucleotide metabolism	0.997	0.0	0.0	0.0	0.0	0.997	0.0	0.0	0.0	0.003	0.0
+contig_1096	contig_1096_CDS_0106	58200	58568	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0107	58565	58747	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0108	59634	59341	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0109	59902	60054	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0110	60062	60379	+	139	other	deoxynucleoside monophosphate kinase	foldseek	11	255.0	0.533	1.044e-04	0.0	85.0	105.0	19.0	108.0	372.0	foldseek	envhog_protein1271651	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+contig_1096	contig_1096_CDS_0111	60534	60683	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0112	60661	61335	+	139	other	deoxynucleoside monophosphate kinase	foldseek	11	435.0	0.544	1.914e-10	1.0	141.0	224.0	75.0	216.0	218.0	foldseek	envhog_protein20029	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+contig_1096	contig_1096_CDS_0113	61585	62097	+	221	other	metallo-phosphoesterase	foldseek	11	274.0	0.636	3.475e-06	4.0	80.0	170.0	51.0	126.0	292.0	foldseek	envhog_protein1735015	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+contig_1096	contig_1096_CDS_0114	62079	62351	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0115	62306	62632	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0116	62786	62541	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0117	63301	62786	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0118	63489	63854	+	2597	DNA, RNA and nucleotide metabolism	DNA primase	foldseek	11	477.0	0.544	1.049e-11	0.0	111.0	121.0	449.0	560.0	666.0	foldseek	envhog_protein1294154	DNA, RNA and nucleotide metabolism	0.99	0.0	0.005	0.0	0.001	0.99	0.0	0.0	0.0	0.001	0.0
+contig_1096	contig_1096_CDS_0119	64237	64605	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1096	contig_1096_CDS_0120	64609	65085	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0001	651	118	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0002	926	789	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0003	1844	1110	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0004	2362	1853	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0005	2600	2409	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0006	2826	3077	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0007	3043	3318	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0008	3726	3226	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0009	3974	4273	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0010	4469	4717	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0011	4657	5214	+	378	DNA, RNA and nucleotide metabolism	single strand DNA binding protein	foldseek	11	239.0	0.267	1.813e-04	8.0	180.0	185.0	75.0	210.0	212.0	foldseek	efam_protein31225	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1169	contig_1169_CDS_0012	5485	5706	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0013	6039	6524	+	10477	DNA, RNA and nucleotide metabolism	exonuclease	foldseek	11	492.0	0.698	3.152e-12	3.0	158.0	161.0	85.0	240.0	278.0	foldseek	envhog_protein2011271	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1169	contig_1169_CDS_0014	6725	7429	+	140	DNA, RNA and nucleotide metabolism	RusA-like Holliday junction resolvase	foldseek	11	744.0	0.506	1.336e-17	86.0	233.0	234.0	0.0	148.0	149.0	foldseek	envhog_protein704995	DNA, RNA and nucleotide metabolism	0.998	0.0	0.0	0.0	0.0	0.998	0.0	0.001	0.0	0.0	0.0
+contig_1169	contig_1169_CDS_0015	7419	7571	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0016	7568	7762	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0017	7759	8265	+	325	DNA, RNA and nucleotide metabolism	Dda-like helicase	foldseek	11	226.0	0.343	2.075e-04	0.0	97.0	168.0	6.0	89.0	265.0	foldseek	envhog_protein289788	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1169	contig_1169_CDS_0018	8449	8970	+	325	DNA, RNA and nucleotide metabolism	Dda-like helicase	foldseek	11	432.0	0.317	3.179e-09	2.0	123.0	173.0	822.0	949.0	1000.0	foldseek	envhog_protein1781317_4	DNA, RNA and nucleotide metabolism	0.966	0.0	0.0	0.0	0.014	0.966	0.0	0.0	0.0	0.02	0.0
+contig_1169	contig_1169_CDS_0019	9366	9055	-	9589	lysis	endolysin	foldseek	11	333.0	0.447	1.854e-06	9.0	102.0	103.0	129.0	221.0	222.0	foldseek	efam_protein284067	lysis	0.933	0.0	0.0	0.067	0.0	0.0	0.0	0.0	0.933	0.0	0.0
+contig_1169	contig_1169_CDS_0020	9411	9566	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0021	9712	9533	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0022	9864	9712	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0023	10220	9882	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0024	11555	11373	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0025	11866	11558	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0026	12353	11988	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0027	12648	12358	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0028	12854	13075	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0029	13180	13040	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0030	13497	13210	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0031	14212	13511	-	1328	head and packaging	major head protein	foldseek	11	603.0	0.436	3.246e-15	23.0	231.0	233.0	15.0	233.0	236.0	foldseek	envhog_protein1098280	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1169	contig_1169_CDS_0032	14886	14230	-	3927	head and packaging	head scaffolding protein	foldseek	11	285.0	0.175	3.862e-05	5.0	215.0	218.0	164.0	356.0	360.0	foldseek	envhog_protein132584	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1169	contig_1169_CDS_0033	15269	15024	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0034	16421	16143	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0035	17332	16418	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0036	17432	17310	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0037	18531	18073	-	1216	head and packaging	portal protein	foldseek	11	332.0	0.335	6.834e-07	11.0	151.0	152.0	12.0	163.0	431.0	foldseek	envhog_protein902099	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1169	contig_1169_CDS_0038	18807	18628	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0039	19108	19281	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0040	19733	19431	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0041	20487	19966	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0042	20979	20575	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0043	21196	21005	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0044	21545	21213	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0045	22449	22069	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0046	22507	22403	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0047	22805	22638	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0048	23122	23475	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0049	24149	23829	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0050	25302	24886	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0051	26109	25855	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0052	26300	26130	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0053	27047	26340	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0054	27858	27508	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0055	28591	28445	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0056	28598	29110	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0057	29510	29076	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0058	29710	29507	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0059	30010	29780	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0060	30435	30283	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0061	31163	30438	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0062	31600	31265	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0063	32395	32006	-	28766	tail	tail fiber protein	foldseek	11	205.0	0.424	5.462e-04	0.0	102.0	129.0	0.0	92.0	228.0	foldseek	envhog_protein1079122	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1169	contig_1169_CDS_0064	33104	32562	-	5107	lysis	amidase	foldseek	11	376.0	0.528	5.117e-07	2.0	107.0	180.0	270.0	369.0	495.0	foldseek	envhog_protein1718836	lysis	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+contig_1169	contig_1169_CDS_0065	33513	33070	-	3287	head and packaging	virion structural protein	foldseek	11	539.0	0.603	1.889e-10	3.0	133.0	147.0	411.0	536.0	766.0	foldseek	envhog_protein194234	head and packaging	0.525	0.525	0.0	0.055	0.0	0.0	0.019	0.0	0.402	0.0	0.0
+contig_1169	contig_1169_CDS_0066	34328	33480	-	376	tail	tail protein	foldseek	11	251.0	0.16	5.610e-04	24.0	203.0	282.0	0.0	202.0	229.0	foldseek	efam_protein182939	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1169	contig_1169_CDS_0067	34616	34873	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0068	35465	35262	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0069	35784	35984	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0070	36063	36500	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0071	36566	36766	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0072	37651	38421	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0073	38418	38750	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1169	contig_1169_CDS_0074	39404	38715	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0001	1401	1000	-	244	DNA, RNA and nucleotide metabolism	RusA-like Holliday junction resolvase	foldseek	11	519.0	0.69	2.947e-13	4.0	126.0	133.0	9.0	134.0	169.0	foldseek	envhog_protein1896302	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1459	contig_1459_CDS_0002	1633	1412	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0003	1947	1633	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0004	2713	2294	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0005	4285	4136	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0006	5447	5154	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0007	6518	6318	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0008	6918	6499	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0009	7128	7000	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0010	8070	7939	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0011	9112	8993	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0012	9506	9225	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0013	10050	9955	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0014	11196	10873	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0015	11619	11386	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0016	12003	11686	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0017	12256	12477	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0018	12697	12461	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0019	13255	12779	-	2263	head and packaging	major head protein	foldseek	11	822.0	0.601	2.067e-18	0.0	155.0	158.0	0.0	172.0	516.0	foldseek	efam_protein224424	head and packaging	0.997	0.997	0.0	0.001	0.001	0.001	0.0	0.0	0.0	0.0	0.0
+contig_1459	contig_1459_CDS_0020	14067	13792	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0021	14964	14749	-	9	head and packaging	terminase large subunit	foldseek	11	270.0	0.872	2.387e-05	0.0	54.0	71.0	34.0	88.0	206.0	foldseek	envhog_protein1505246	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1459	contig_1459_CDS_0022	15274	15131	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1459	contig_1459_CDS_0023	15423	15274	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0001	222	1	-	338	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	250.0	0.439	1.135e-05	0.0	69.0	74.0	25.0	115.0	170.0	foldseek	envhog_protein1470434	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_1460	contig_1460_CDS_0002	890	630	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0003	1024	887	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0004	1446	1673	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0005	1910	2233	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0006	2420	2244	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0007	2870	2658	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0008	3234	2827	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0009	3542	3186	-	16823	tail	tail length tape measure protein	foldseek	11	351.0	0.495	3.946e-08	12.0	117.0	118.0	4.0	114.0	181.0	foldseek	protein490488	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1460	contig_1460_CDS_0010	3957	3523	-	25359	unknown function	hypothetical protein	foldseek	11	361.0	0.78	5.940e-09	39.0	143.0	144.0	1.0	99.0	100.0	foldseek	efam_protein180952	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_1460	contig_1460_CDS_0011	4447	3923	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0012	5115	4984	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0013	5455	5138	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0014	6008	5781	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0015	6662	6474	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0016	8008	7838	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0017	13170	12979	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0018	13342	13163	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0019	14906	14697	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0020	15190	15080	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_1460	contig_1460_CDS_0021	15658	15452	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0001	160	2	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0002	728	408	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0003	911	771	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0004	1309	1623	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0005	1604	1876	+	239	DNA, RNA and nucleotide metabolism	DNA primase/helicase	foldseek	11	207.0	0.602	3.482e-04	1.0	73.0	90.0	155.0	227.0	627.0	foldseek	protein781588	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0006	1863	2030	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0007	2008	3042	+	239	DNA, RNA and nucleotide metabolism	DNA primase/helicase	foldseek	11	1396.0	0.482	2.343e-35	0.0	343.0	344.0	287.0	626.0	627.0	foldseek	protein781588	DNA, RNA and nucleotide metabolism	0.89	0.004	0.001	0.0	0.016	0.89	0.0	0.0	0.0	0.089	0.0
+contig_200	contig_200_CDS_0008	3023	4303	+	325	DNA, RNA and nucleotide metabolism	Dda-like helicase	foldseek	11	1990.0	0.509	3.414e-50	0.0	425.0	426.0	0.0	433.0	434.0	foldseek	protein440352	DNA, RNA and nucleotide metabolism	0.716	0.27	0.0	0.0	0.01	0.716	0.0	0.0	0.0	0.004	0.0
+contig_200	contig_200_CDS_0009	4313	4492	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0010	4523	4756	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0011	4790	5434	+	17	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	911.0	0.597	3.476e-22	10.0	208.0	214.0	0.0	197.0	801.0	foldseek	envhog_protein307078	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0012	5401	6288	+	17	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	1003.0	0.667	5.345e-24	1.0	282.0	295.0	193.0	474.0	801.0	foldseek	envhog_protein307078	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0013	6269	6697	+	15971	DNA, RNA and nucleotide metabolism	DNA polymerase I	foldseek	11	312.0	0.4	3.714e-07	1.0	113.0	142.0	862.0	973.0	1000.0	foldseek	envhog_protein1172510_1	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0014	6722	7210	+	59	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	391.0	0.274	9.883e-09	3.0	160.0	162.0	23.0	179.0	188.0	foldseek	envhog_protein81734	DNA, RNA and nucleotide metabolism	0.998	0.0	0.0	0.0	0.0	0.998	0.0	0.0	0.0	0.002	0.0
+contig_200	contig_200_CDS_0015	7472	8227	+	17	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	790.0	0.493	2.286e-19	4.0	250.0	251.0	634.0	879.0	880.0	foldseek	protein435432	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0016	8280	8513	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0017	8700	9128	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0018	9091	9288	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0019	9353	9652	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0020	9627	10043	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0021	10057	10248	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0022	10187	10768	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0023	10765	11478	+	159	DNA, RNA and nucleotide metabolism	RuvC-like Holliday junction resolvase	foldseek	11	851.0	0.444	1.083e-19	6.0	232.0	237.0	7.0	234.0	235.0	foldseek	protein865649	DNA, RNA and nucleotide metabolism	0.883	0.112	0.004	0.0	0.001	0.883	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0024	11541	12050	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0025	12068	12748	+	284	DNA, RNA and nucleotide metabolism	exonuclease	foldseek	11	917.0	0.642	4.059e-23	1.0	220.0	226.0	189.0	409.0	410.0	foldseek	protein351479	DNA, RNA and nucleotide metabolism	0.99	0.0	0.0	0.0	0.0	0.99	0.0	0.0	0.0	0.01	0.0
+contig_200	contig_200_CDS_0026	12843	14117	+	84	DNA, RNA and nucleotide metabolism	ribonucleoside-diphosphate reductase large subunit	foldseek	11	1826.0	0.534	1.959e-39	1.0	415.0	424.0	10.0	399.0	698.0	foldseek	protein756306	DNA, RNA and nucleotide metabolism	0.976	0.0	0.0	0.0	0.024	0.976	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0027	14191	15453	+	3844	moron, auxiliary metabolic gene and host takeover	NrdA-like aerobic NDP reductase large subunit	foldseek	11	1352.0	0.521	5.132e-32	86.0	419.0	420.0	18.0	362.0	363.0	foldseek	envhog_protein1747823	DNA, RNA and nucleotide metabolism	0.958	0.007	0.0	0.001	0.032	0.958	0.0	0.0	0.0	0.002	0.0
+contig_200	contig_200_CDS_0028	15472	16353	+	86	DNA, RNA and nucleotide metabolism	ribonucleoside diphosphate reductase small subunit	foldseek	11	1017.0	0.537	3.899e-18	2.0	270.0	293.0	1.0	269.0	356.0	foldseek	protein665707	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0029	16346	16510	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0030	16561	16674	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0031	16753	17040	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0032	17107	17406	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0033	17450	18127	+	139	other	deoxynucleoside monophosphate kinase	foldseek	11	649.0	0.426	3.234e-15	56.0	219.0	225.0	0.0	162.0	166.0	foldseek	efam_protein112508	other	0.987	0.0	0.0	0.0	0.0	0.013	0.0	0.0	0.0	0.987	0.0
+contig_200	contig_200_CDS_0034	18127	18471	+	56	other	DNA methyltransferase	foldseek	11	315.0	0.243	5.128e-07	3.0	111.0	114.0	6.0	109.0	157.0	foldseek	envhog_protein677980	other	0.995	0.002	0.0	0.0	0.003	0.0	0.0	0.0	0.0	0.995	0.0
+contig_200	contig_200_CDS_0035	18509	18961	+	56	other	DNA methyltransferase	foldseek	11	371.0	0.369	7.302e-09	0.0	149.0	150.0	135.0	284.0	287.0	foldseek	protein800521	other	0.996	0.002	0.0	0.0	0.002	0.0	0.0	0.0	0.0	0.996	0.0
+contig_200	contig_200_CDS_0036	19121	19483	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0037	19655	20044	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0038	20016	20702	+	314	DNA, RNA and nucleotide metabolism	homing endonuclease	foldseek	11	800.0	0.643	1.242e-18	3.0	218.0	228.0	1.0	215.0	223.0	foldseek	envhog_protein2015470	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0039	20695	20922	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0040	20922	21407	+	3717	head and packaging	terminase large subunit	foldseek	11	216.0	0.093	6.110e-04	26.0	146.0	161.0	33.0	150.0	435.0	foldseek	efam_protein353133	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0041	21487	21792	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0042	21779	21994	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0043	21991	22272	+	84	DNA, RNA and nucleotide metabolism	ribonucleoside-diphosphate reductase large subunit	foldseek	11	289.0	0.44	1.497e-06	0.0	73.0	93.0	0.0	72.0	1000.0	foldseek	protein756582_1	DNA, RNA and nucleotide metabolism	0.995	0.0	0.0	0.0	0.0	0.995	0.0	0.0	0.0	0.005	0.0
+contig_200	contig_200_CDS_0044	22253	22534	+	986	DNA, RNA and nucleotide metabolism	RNA-binding protein	foldseek	11	623.0	0.793	7.177e-15	1.0	92.0	93.0	4.0	95.0	96.0	foldseek	envhog_protein923357	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0045	22518	22697	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0046	22699	23169	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0047	23171	23389	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0048	23393	23953	+	768	DNA, RNA and nucleotide metabolism	DprA-like DNA recombination-mediator protein	foldseek	11	673.0	0.375	2.272e-15	1.0	183.0	186.0	3.0	185.0	192.0	foldseek	protein130128	DNA, RNA and nucleotide metabolism	0.931	0.0	0.0	0.0	0.003	0.931	0.0	0.0	0.0	0.066	0.0
+contig_200	contig_200_CDS_0049	23956	24138	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0050	24146	24496	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0051	24558	24749	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0052	24721	24996	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0053	24998	25249	+	35727	unknown function	hypothetical protein	foldseek	11	229.0	0.261	2.404e-04	1.0	78.0	83.0	0.0	82.0	130.0	foldseek	protein703010	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0054	25236	25484	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0055	25497	25688	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0056	25699	25923	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0057	25916	26065	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0058	26253	26600	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0059	26614	26787	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0060	26780	27280	+	16227	head and packaging	virion structural protein	foldseek	11	456.0	0.366	8.909e-11	7.0	159.0	166.0	773.0	922.0	981.0	foldseek	envhog_protein33036_4	other	0.672	0.243	0.0	0.0	0.0	0.086	0.0	0.0	0.0	0.672	0.0
+contig_200	contig_200_CDS_0061	27309	27818	+	30509	tail	collagen like minor tail	foldseek	11	408.0	0.265	1.874e-09	1.0	141.0	169.0	490.0	618.0	630.0	foldseek	envhog_protein2104955	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0062	27985	28110	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0063	28966	28667	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0064	29742	29254	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0065	29952	29746	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0066	30338	30141	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0067	30920	30411	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0068	31098	30964	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0069	31418	31104	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0070	33063	32041	-	374	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	929.0	0.342	2.663e-21	37.0	291.0	340.0	5.0	256.0	264.0	foldseek	protein721144	DNA, RNA and nucleotide metabolism	0.998	0.0	0.0	0.0	0.002	0.998	0.0	0.0	0.0	0.001	0.0
+contig_200	contig_200_CDS_0071	33457	33125	-	2110	unknown function	hypothetical protein	foldseek	11	356.0	0.387	5.855e-07	0.0	109.0	110.0	0.0	99.0	111.0	foldseek	protein246487	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0072	33695	33474	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0073	33987	33757	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0074	34777	34046	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0075	34913	34764	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0076	35187	34906	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0077	35393	35187	-	36690	unknown function	hypothetical protein	foldseek	11	215.0	0.397	1.375e-04	0.0	67.0	68.0	0.0	62.0	68.0	foldseek	protein354967	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0078	35748	35386	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0079	35953	35750	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0080	36697	36026	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0081	37232	36702	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0082	37396	37229	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0083	38377	38051	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0084	38761	38459	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0085	38991	38788	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0086	39226	38993	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0087	39735	39223	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0088	39959	39813	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0089	40256	40086	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0090	41290	40256	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0091	41673	41311	-	953	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	403.0	0.571	1.878e-08	0.0	115.0	120.0	86.0	203.0	209.0	foldseek	envhog_protein1701770	DNA, RNA and nucleotide metabolism	0.994	0.0	0.0	0.0	0.0	0.994	0.0	0.0	0.0	0.006	0.0
+contig_200	contig_200_CDS_0092	41977	41681	-	953	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	245.0	0.469	6.717e-05	32.0	97.0	98.0	2.0	67.0	116.0	foldseek	envhog_protein657831	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0093	42390	42055	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0094	42683	42594	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0095	42901	42683	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0096	43248	42898	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0097	43468	43250	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0098	43959	43549	-	21591	unknown function	hypothetical protein	foldseek	11	327.0	0.258	7.025e-07	1.0	113.0	136.0	59.0	176.0	179.0	foldseek	protein713998	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0099	44292	44143	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0100	44810	44301	-	3600	moron, auxiliary metabolic gene and host takeover	antimicrobial peptide resistance and lipid A acylation protein PagP	foldseek	11	437.0	0.216	2.192e-08	14.0	168.0	169.0	19.0	171.0	173.0	foldseek	protein537534	moron, auxiliary metabolic gene and host takeover	0.841	0.008	0.0	0.022	0.841	0.0	0.0	0.0	0.008	0.122	0.0
+contig_200	contig_200_CDS_0101	44986	45384	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0102	45386	45709	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0103	45758	46036	+	8863	unknown function	hypothetical protein	foldseek	11	223.0	0.333	1.160e-04	0.0	88.0	92.0	0.0	89.0	90.0	foldseek	protein848772	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0104	46039	46542	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0105	46539	46859	+	22	DNA, RNA and nucleotide metabolism	thioredoxin domain	foldseek	11	313.0	0.27	6.777e-07	10.0	103.0	106.0	7.0	100.0	104.0	foldseek	envhog_protein1122575	DNA, RNA and nucleotide metabolism	0.992	0.0	0.0	0.0	0.0	0.992	0.0	0.0	0.0	0.008	0.0
+contig_200	contig_200_CDS_0106	46859	47455	+	85	DNA, RNA and nucleotide metabolism	thymidylate synthase	foldseek	11	694.0	0.355	1.052e-17	3.0	196.0	198.0	0.0	190.0	608.0	foldseek	envhog_protein1856944	DNA, RNA and nucleotide metabolism	0.999	0.0	0.0	0.0	0.0	0.999	0.0	0.0	0.001	0.0	0.0
+contig_200	contig_200_CDS_0107	47415	47804	+	85	DNA, RNA and nucleotide metabolism	thymidylate synthase	foldseek	11	338.0	0.537	4.672e-07	16.0	119.0	129.0	68.0	175.0	180.0	foldseek	envhog_protein1080282	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0108	47895	48200	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0109	48184	48489	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0110	48574	48849	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0111	48943	49170	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0112	49218	49325	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0113	49309	49491	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0114	49491	49703	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0115	49798	50124	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0116	50121	50390	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0117	50413	50571	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0118	50660	51964	+	77	DNA, RNA and nucleotide metabolism	SbcC-like subunit of palindrome specific endonuclease	foldseek	11	682.0	0.17	1.584e-15	3.0	427.0	434.0	1.0	522.0	545.0	foldseek	envhog_protein1848169	DNA, RNA and nucleotide metabolism	0.982	0.001	0.0	0.0	0.009	0.982	0.0	0.0	0.0	0.004	0.0
+contig_200	contig_200_CDS_0119	52026	52331	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0120	52328	52534	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0121	52521	52697	+	8110	unknown function	hypothetical protein	foldseek	11	261.0	0.482	9.421e-05	0.0	57.0	58.0	0.0	57.0	58.0	foldseek	protein74671	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0122	52716	53663	+	1614	DNA, RNA and nucleotide metabolism	nucleotidyltransferase	foldseek	11	876.0	0.416	4.523e-21	0.0	313.0	315.0	12.0	332.0	334.0	foldseek	efam_protein254258	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0123	53677	54318	+	374	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	837.0	0.366	5.693e-20	0.0	202.0	213.0	0.0	207.0	210.0	foldseek	protein721204	DNA, RNA and nucleotide metabolism	0.998	0.0	0.0	0.0	0.001	0.998	0.0	0.0	0.0	0.001	0.0
+contig_200	contig_200_CDS_0124	54383	54880	+	600	unknown function	unknown function	foldseek	11	725.0	0.567	1.453e-13	0.0	163.0	165.0	0.0	163.0	168.0	foldseek	protein813949	tail	0.692	0.0	0.0	0.692	0.0	0.0	0.0	0.0	0.105	0.202	0.0
+contig_200	contig_200_CDS_0125	55120	54923	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0126	55302	55120	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0127	55666	55274	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0128	56068	55697	-	3427	lysis	holin	foldseek	11	458.0	0.45	6.585e-09	1.0	122.0	123.0	25.0	144.0	145.0	foldseek	efam_protein67734	lysis	0.526	0.0	0.0	0.474	0.0	0.0	0.0	0.0	0.526	0.0	0.0
+contig_200	contig_200_CDS_0129	56186	56091	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0130	56442	56179	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0131	56985	56491	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0132	57086	56988	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0133	58229	57114	-	9116	tail	tail protein	foldseek	11	349.0	0.155	1.425e-06	0.0	367.0	371.0	26.0	528.0	530.0	foldseek	envhog_protein1833293	tail	0.959	0.041	0.0	0.959	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0134	58402	58226	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0135	59049	58444	-	16185	tail	tail protein	foldseek	11	410.0	0.354	1.715e-08	21.0	197.0	201.0	21.0	196.0	201.0	foldseek	efam_protein138933	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0136	59436	59059	-	16185	tail	tail protein	foldseek	11	258.0	0.208	5.094e-04	3.0	124.0	125.0	0.0	108.0	109.0	foldseek	envhog_protein1809689	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0137	60343	59558	-	13893	tail	tail protein	foldseek	11	294.0	0.367	7.613e-05	39.0	260.0	261.0	423.0	643.0	675.0	foldseek	envhog_protein1629833	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0138	60696	60394	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0139	61649	60693	-	1640	tail	tail protein	foldseek	11	486.0	0.206	7.371e-11	8.0	305.0	318.0	10.0	332.0	698.0	foldseek	envhog_protein227000	tail	0.951	0.034	0.0	0.951	0.008	0.0	0.007	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0140	62339	61725	-	31	tail	central tail fiber J	foldseek	11	431.0	0.153	4.262e-08	8.0	202.0	204.0	4.0	215.0	232.0	foldseek	protein510560_2	tail	0.96	0.028	0.0	0.96	0.003	0.0	0.004	0.0	0.0	0.006	0.0
+contig_200	contig_200_CDS_0141	62705	62478	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0142	62910	62680	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0143	63341	62913	-	33244	tail	tail fiber protein	foldseek	11	255.0	0.168	4.003e-04	4.0	139.0	142.0	382.0	517.0	518.0	foldseek	envhog_protein1003157	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0144	63951	63304	-	31	tail	central tail fiber J	foldseek	11	501.0	0.274	2.208e-09	25.0	214.0	215.0	729.0	922.0	1000.0	foldseek	protein511718_1	tail	0.934	0.059	0.0	0.934	0.001	0.001	0.0	0.001	0.002	0.002	0.0
+contig_200	contig_200_CDS_0145	64294	64019	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0146	66060	64468	-	31	tail	central tail fiber J	foldseek	11	2311.0	0.576	2.449e-54	25.0	510.0	530.0	24.0	507.0	1000.0	foldseek	protein511718_1	tail	0.97	0.02	0.0	0.97	0.001	0.0	0.0	0.0	0.001	0.008	0.0
+contig_200	contig_200_CDS_0147	66229	66065	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0148	66405	66226	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0149	66586	66374	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0150	66909	66658	-	2635	tail	tail protein	foldseek	11	331.0	0.474	6.985e-08	5.0	82.0	83.0	1.0	78.0	108.0	foldseek	protein682451	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0151	67240	66911	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0152	67690	67890	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0153	68095	67937	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0154	68264	68034	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0155	68844	68617	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0156	69289	68816	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0157	70132	69926	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0158	70518	70306	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0159	70862	70572	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0160	71404	71174	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0161	71552	71361	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0162	71861	71667	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0163	72292	71882	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0164	74052	72904	-	290	tail	minor tail protein	foldseek	11	1775.0	0.796	1.520e-35	5.0	371.0	382.0	3.0	370.0	413.0	foldseek	envhog_protein1142301	tail	0.995	0.003	0.0	0.995	0.0	0.001	0.001	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0165	74251	74066	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0166	74566	74339	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0167	74950	74567	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0168	75300	75130	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0169	75551	75360	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0170	76048	75716	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0171	77083	76265	-	1005	head and packaging	major head protein	foldseek	11	684.0	0.529	4.204e-16	0.0	247.0	272.0	80.0	344.0	402.0	foldseek	protein648063	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0172	77272	77111	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0173	77696	77328	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0174	78403	77693	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0175	78509	78411	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0176	78613	78506	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0177	78915	78616	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0178	79229	78927	-	5	connector	tail completion or Neck1 protein	foldseek	11	214.0	0.293	1.568e-04	4.0	95.0	100.0	2.0	90.0	195.0	foldseek	envhog_protein160043	connector	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0179	79583	79239	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0180	80752	79949	-	113	head and packaging	portal protein	foldseek	11	1039.0	0.684	2.025e-25	4.0	246.0	267.0	1.0	242.0	505.0	foldseek	efam_protein210819	head and packaging	0.995	0.995	0.0	0.0	0.002	0.003	0.001	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0181	81618	81448	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0182	82165	82025	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0183	83934	82945	-	2	head and packaging	terminase large subunit	foldseek	11	1815.0	0.711	4.749e-46	0.0	328.0	329.0	120.0	448.0	531.0	foldseek	protein423094	head and packaging	0.989	0.989	0.0	0.0	0.004	0.004	0.003	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0184	84322	84041	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0185	84909	84325	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0186	85496	85362	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0187	85959	85732	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0188	86221	85916	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0189	86860	86432	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0190	87484	87275	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0191	87630	87475	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0192	88241	87840	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0193	88642	88271	-	414	DNA, RNA and nucleotide metabolism	RNA polymerase	foldseek	11	354.0	0.389	9.260e-08	10.0	122.0	123.0	51.0	157.0	158.0	foldseek	envhog_protein2003506	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0194	88817	88632	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0195	88886	89149	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0196	89255	89446	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0197	89545	89742	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0198	89743	90006	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0199	90140	90667	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0200	90648	90929	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0201	91018	91491	+	4756	unknown function	hypothetical protein	foldseek	11	321.0	0.271	2.030e-05	9.0	153.0	157.0	354.0	504.0	505.0	foldseek	protein479034	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0202	91505	91789	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0203	92100	92684	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0204	92687	92968	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0205	93394	93699	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0206	93875	94327	+	2	head and packaging	terminase large subunit	foldseek	11	759.0	0.595	2.782e-19	8.0	148.0	150.0	289.0	429.0	531.0	foldseek	protein423094	head and packaging	0.98	0.98	0.001	0.0	0.001	0.014	0.003	0.0	0.0	0.001	0.0
+contig_200	contig_200_CDS_0207	94923	95090	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0208	95359	95586	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0209	96739	97170	+	113	head and packaging	portal protein	foldseek	11	379.0	0.676	1.249e-08	4.0	142.0	143.0	1.0	139.0	505.0	foldseek	efam_protein210819	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0210	98250	98390	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0211	98562	98723	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0212	98747	98902	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0213	98892	98987	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0214	99217	99363	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0215	99442	99783	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0216	99755	100153	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0217	100297	101337	+	1005	head and packaging	major head protein	foldseek	11	1418.0	0.64	8.660e-35	2.0	337.0	346.0	48.0	400.0	402.0	foldseek	protein648063	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0218	101382	101726	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0219	101680	101850	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0220	102581	102781	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0221	103535	103693	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0222	103677	103853	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0223	104262	104516	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0224	104455	104781	+	290	tail	minor tail protein	foldseek	11	381.0	0.779	9.583e-08	22.0	107.0	108.0	327.0	412.0	413.0	foldseek	envhog_protein1142301	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0225	104786	105202	+	169	connector	tail completion or Neck1 protein	foldseek	11	404.0	0.492	3.176e-09	3.0	137.0	138.0	4.0	138.0	139.0	foldseek	protein53204	connector	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+contig_200	contig_200_CDS_0226	105329	105694	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0227	105715	105924	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0228	105932	106039	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0229	106023	106214	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0230	106171	106413	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0231	106439	106834	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0232	106794	107072	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0233	107254	107820	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0234	108013	108273	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0235	108669	108860	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_200	contig_200_CDS_0236	109265	109492	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0001	350	141	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0002	963	685	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0003	1088	996	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0004	1349	1107	-	5	connector	tail completion or Neck1 protein	foldseek	11	220.0	0.468	1.071e-04	0.0	78.0	80.0	111.0	188.0	194.0	foldseek	efam_protein196234	connector	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0005	2047	1799	-	9729	tail	tail fiber protein	foldseek	11	295.0	0.645	3.245e-07	3.0	81.0	82.0	7.0	85.0	156.0	foldseek	efam_protein191300	tail	0.926	0.074	0.0	0.926	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0006	2792	2109	-	166	tail	tail protein	foldseek	11	890.0	0.525	2.757e-20	0.0	216.0	227.0	0.0	211.0	216.0	foldseek	efam_protein128440	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0007	3118	2912	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0008	3777	3577	-	5653	head and packaging	terminase large subunit	foldseek	11	214.0	0.397	3.809e-04	2.0	65.0	66.0	18.0	84.0	88.0	foldseek	envhog_protein2148909	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0009	4078	3761	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0010	4726	4484	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0011	4953	4825	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0012	5595	5455	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0013	5816	5592	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0014	5905	5813	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0015	6421	6131	-	27829	DNA, RNA and nucleotide metabolism	DnaA-like replication initiation protein	foldseek	11	241.0	0.347	5.504e-04	6.0	94.0	96.0	1.0	93.0	135.0	foldseek	envhog_protein1078815	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0016	6504	6412	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0017	6776	6606	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0018	7372	7010	-	67	other	DNA methyltransferase	foldseek	11	499.0	0.698	4.860e-12	14.0	119.0	120.0	437.0	542.0	603.0	foldseek	envhog_protein239463	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+contig_267	contig_267_CDS_0019	7569	7366	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0020	7865	7587	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0021	8208	7837	-	107	DNA, RNA and nucleotide metabolism	exonuclease	foldseek	11	492.0	0.697	5.227e-12	0.0	116.0	123.0	38.0	154.0	233.0	foldseek	efam_protein251436	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0022	8335	8219	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0023	8457	8335	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0024	8570	8454	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0025	8745	8575	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0026	8979	8842	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0027	9154	8942	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0028	9499	9383	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0029	10039	9884	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0030	10229	10125	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0031	10598	10401	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0032	11148	10633	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0033	11415	11152	-	1035	DNA, RNA and nucleotide metabolism	endonuclease VII	foldseek	11	423.0	0.55	1.757e-10	6.0	85.0	87.0	195.0	274.0	277.0	foldseek	envhog_protein496743	DNA, RNA and nucleotide metabolism	0.978	0.006	0.0	0.0	0.005	0.978	0.0	0.0	0.0	0.011	0.0
+contig_267	contig_267_CDS_0034	11722	11543	-	1035	DNA, RNA and nucleotide metabolism	endonuclease VII	foldseek	11	191.0	0.433	6.940e-04	1.0	56.0	59.0	13.0	72.0	194.0	foldseek	envhog_protein980027	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0035	11934	11719	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0036	12145	11939	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0037	12725	12606	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0038	13067	12783	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0039	13603	13139	-	1035	DNA, RNA and nucleotide metabolism	endonuclease VII	foldseek	11	503.0	0.488	6.894e-12	5.0	152.0	154.0	7.0	174.0	197.0	foldseek	envhog_protein310569	DNA, RNA and nucleotide metabolism	0.971	0.0	0.0	0.0	0.01	0.971	0.0	0.0	0.0	0.019	0.0
+contig_267	contig_267_CDS_0040	13789	13661	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0041	13958	13779	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0042	14202	14002	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0043	14478	14362	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0044	14886	14791	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0045	15650	15351	-	5034	DNA, RNA and nucleotide metabolism	NinG/ Rap DNA junction specific endonuclease	foldseek	11	368.0	0.531	1.705e-08	2.0	97.0	99.0	26.0	120.0	125.0	foldseek	efam_protein24829	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0046	16765	16607	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0047	18234	18401	+	465	lysis	endolysin	foldseek	11	200.0	0.555	5.911e-04	1.0	54.0	55.0	112.0	165.0	166.0	foldseek	protein506764	lysis	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+contig_267	contig_267_CDS_0048	18844	18978	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0049	19376	19546	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0050	19786	19902	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0051	20163	20306	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0052	20565	20723	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0053	20677	20835	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0054	21274	21381	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0055	21353	21451	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0056	21568	21879	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0057	21920	22042	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0058	22276	22428	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0059	22680	22838	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0060	22854	22952	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0061	23072	23164	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0062	24355	24525	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0063	27849	28055	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0064	28250	28504	+	2	head and packaging	terminase large subunit	foldseek	11	390.0	0.726	1.594e-09	0.0	83.0	84.0	301.0	384.0	385.0	foldseek	efam_protein67955	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0065	29376	29540	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0066	29642	30055	+	166	tail	tail protein	foldseek	11	613.0	0.535	5.256e-14	0.0	135.0	137.0	0.0	138.0	223.0	foldseek	efam_protein166416	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0067	30389	30568	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0068	30585	30845	+	17587	tail	tail fiber protein	foldseek	11	236.0	0.375	1.917e-04	2.0	85.0	86.0	54.0	154.0	156.0	foldseek	efam_protein261955	tail	0.97	0.03	0.0	0.97	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0069	31016	31147	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0070	31389	31550	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0071	31547	31783	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0072	32250	32645	+	26672	head and packaging	virion structural protein	foldseek	11	506.0	0.409	9.493e-10	11.0	130.0	131.0	211.0	332.0	342.0	foldseek	efam_protein384907	tail	0.547	0.453	0.0	0.547	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0073	32839	33126	+	215	head and packaging	structural protein with Ig domain	foldseek	11	293.0	0.468	1.775e-06	2.0	93.0	95.0	5.0	98.0	390.0	foldseek	efam_protein383600	head and packaging	0.965	0.965	0.0	0.035	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0074	33329	33487	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0075	34332	34517	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0076	34523	34699	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0077	34883	35029	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0078	35097	35195	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0079	35137	35427	+	3336	tail	tail length tape measure protein	foldseek	11	225.0	0.602	9.248e-05	8.0	90.0	96.0	49.0	129.0	239.0	foldseek	efam_protein199517	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0080	36010	36147	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0081	36435	36530	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0082	37136	37339	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0083	37401	37712	+	15223	other	protease	foldseek	11	330.0	0.541	1.645e-07	3.0	102.0	103.0	92.0	194.0	197.0	foldseek	efam_protein114567	other	0.749	0.251	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.749	0.0
+contig_267	contig_267_CDS_0084	37736	37873	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0085	38401	38655	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0086	38946	39116	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0087	39551	39799	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0088	40135	40389	+	19979	head and packaging	virion structural protein	foldseek	11	213.0	0.604	2.598e-04	1.0	81.0	84.0	56.0	136.0	182.0	foldseek	efam_protein202439	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0089	41688	41969	+	33693	head and packaging	portal protein	foldseek	11	309.0	0.478	7.496e-07	1.0	90.0	93.0	74.0	165.0	302.0	foldseek	efam_protein87199	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0090	42011	42421	+	33693	head and packaging	portal protein	foldseek	11	454.0	0.649	1.194e-11	2.0	135.0	136.0	62.0	195.0	538.0	foldseek	efam_protein141703	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0091	42646	42999	+	33693	head and packaging	portal protein	foldseek	11	226.0	0.542	1.396e-04	0.0	102.0	117.0	23.0	127.0	241.0	foldseek	efam_protein253909	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0092	43251	43667	+	11226	head and packaging	portal protein	foldseek	11	306.0	0.359	8.607e-06	25.0	130.0	138.0	3.0	130.0	166.0	foldseek	efam_protein222002	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_267	contig_267_CDS_0093	43807	43908	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0094	43892	44125	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0095	46210	46392	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0096	46389	46553	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0097	46540	46986	+	7	lysis	endolysin	foldseek	11	643.0	0.442	1.300e-13	0.0	146.0	148.0	0.0	144.0	158.0	foldseek	protein242897	lysis	0.987	0.001	0.0	0.011	0.001	0.0	0.0	0.0	0.987	0.001	0.0
+contig_267	contig_267_CDS_0098	46961	47302	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0099	47679	47491	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0100	47834	47673	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0101	47898	47797	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0102	48550	48642	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0103	48644	48829	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0104	48831	48959	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0105	49079	49174	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0106	49866	50102	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0107	51430	51600	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0108	51678	51559	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0109	52700	52999	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0110	53634	53798	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0111	53804	53920	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0112	54180	54332	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0113	55404	55559	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0114	57304	57465	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0115	57514	57741	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0116	59183	59350	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0117	59564	59695	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0118	59806	59949	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0119	60742	60933	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0120	61188	61346	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0121	61318	61662	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_267	contig_267_CDS_0122	61949	62077	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0001	993	1160	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0002	1944	2573	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0003	2843	3094	+	2263	head and packaging	major head protein	foldseek	11	226.0	0.301	2.911e-04	10.0	79.0	83.0	11.0	82.0	124.0	foldseek	envhog_protein1125745	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_400	contig_400_CDS_0004	4314	4727	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0005	5348	5536	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0006	5542	5649	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0007	6000	6197	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0008	6540	6998	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0009	6998	7279	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0010	8314	8772	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0011	9567	9791	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0012	10029	9850	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0013	10169	10549	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0014	11872	12108	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0015	12154	12336	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_400	contig_400_CDS_0016	13698	14105	+	3290	DNA, RNA and nucleotide metabolism	single strand annealing protein	foldseek	11	683.0	0.744	1.127e-16	0.0	128.0	135.0	0.0	126.0	187.0	foldseek	efam_protein69917	DNA, RNA and nucleotide metabolism	0.957	0.0	0.0	0.0	0.0	0.957	0.0	0.0	0.0	0.043	0.0
+contig_400	contig_400_CDS_0017	14804	15025	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0001	2106	1933	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0002	2299	2099	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0003	2638	2378	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0004	2970	2722	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0005	3628	3314	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0006	3886	3716	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0007	4063	3902	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0008	4754	4365	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0009	5005	4751	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0010	5187	5029	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0011	5343	5191	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0012	5504	5355	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0013	5904	5686	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0014	6249	5950	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0015	6483	6271	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0016	6672	6502	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0017	7379	6684	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0018	7883	7557	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0019	8343	7876	-	3878	unknown function	hypothetical protein	foldseek	11	276.0	0.39	7.917e-05	0.0	123.0	155.0	0.0	126.0	151.0	foldseek	protein753303	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0020	8736	8503	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0021	9110	8733	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0022	9211	9107	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0023	9516	9211	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0024	9959	9513	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0025	10477	9974	-	6266	unknown function	hypothetical protein	foldseek	11	425.0	0.409	4.456e-08	1.0	160.0	167.0	0.0	158.0	375.0	foldseek	protein112756	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0026	10920	10666	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0027	11979	10924	-	681	DNA, RNA and nucleotide metabolism	endonuclease	foldseek	11	1469.0	0.557	1.404e-34	9.0	328.0	351.0	27.0	345.0	351.0	foldseek	envhog_protein1472752	DNA, RNA and nucleotide metabolism	0.996	0.0	0.0	0.0	0.0	0.996	0.0	0.004	0.0	0.0	0.0
+contig_58	contig_58_CDS_0028	12619	13230	+	81	moron, auxiliary metabolic gene and host takeover	2OG-Fe(II) oxygenase	foldseek	11	246.0	0.081	7.522e-04	38.0	198.0	203.0	14.0	146.0	162.0	foldseek	efam_protein217281	moron, auxiliary metabolic gene and host takeover	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0029	13227	13430	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0030	13665	14111	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0031	14112	14513	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0032	14751	15116	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0033	15118	15324	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0034	15336	16385	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0035	16379	16582	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0036	16598	18469	+	239	DNA, RNA and nucleotide metabolism	DNA primase/helicase	foldseek	11	2544.0	0.487	6.513e-61	0.0	621.0	623.0	2.0	628.0	632.0	foldseek	protein781862	DNA, RNA and nucleotide metabolism	0.931	0.002	0.001	0.0	0.004	0.931	0.0	0.0	0.0	0.062	0.0
+contig_58	contig_58_CDS_0037	18481	20664	+	1252	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	2542.0	0.484	1.518e-51	0.0	724.0	727.0	11.0	636.0	642.0	foldseek	envhog_protein1165301	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0038	20744	20881	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0039	20891	21133	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0040	21130	21297	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0041	21312	21566	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0042	21578	21793	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0043	21851	22471	+	112	DNA, RNA and nucleotide metabolism	Gp2.5-like ssDNA binding protein and ssDNA annealing protein	foldseek	11	605.0	0.376	2.157e-12	1.0	186.0	206.0	4.0	194.0	219.0	foldseek	protein657131	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0044	22566	22838	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0045	22838	23086	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0046	23130	23324	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0047	23321	24316	+	107	DNA, RNA and nucleotide metabolism	exonuclease	foldseek	11	272.0	0.206	5.384e-05	189.0	330.0	331.0	5.0	145.0	146.0	foldseek	envhog_protein1015222	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0048	24313	24840	+	1985	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	568.0	0.69	9.887e-14	1.0	142.0	175.0	4.0	145.0	187.0	foldseek	protein567233	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0049	24862	25065	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0050	25058	25360	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0051	25353	25568	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0052	26030	26263	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0053	26250	26573	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0054	26570	26782	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0055	26779	26913	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0056	26894	27055	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0057	27052	27579	+	221	other	metallo-phosphoesterase	foldseek	11	864.0	0.639	3.970e-21	3.0	173.0	175.0	7.0	177.0	260.0	foldseek	protein72160	other	0.989	0.0	0.0	0.0	0.0	0.011	0.0	0.0	0.0	0.989	0.0
+contig_58	contig_58_CDS_0058	27835	28509	+	236	other	nucleotide kinase	foldseek	11	457.0	0.41	1.375e-09	4.0	223.0	224.0	0.0	161.0	162.0	foldseek	envhog_protein1382402	other	0.981	0.0	0.0	0.0	0.0	0.019	0.0	0.0	0.0	0.981	0.0
+contig_58	contig_58_CDS_0059	28499	28888	+	420	unknown function	unknown function	foldseek	11	233.0	0.27	7.163e-05	0.0	101.0	129.0	0.0	118.0	203.0	foldseek	protein204355	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0060	28881	29042	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0061	29058	29186	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0062	29179	29409	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0063	30826	31044	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0064	31044	31280	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0065	31301	31594	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0066	31710	31940	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0067	31946	32152	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0068	32091	32345	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0069	32371	32733	+	86	DNA, RNA and nucleotide metabolism	ribonucleoside diphosphate reductase small subunit	foldseek	11	323.0	0.504	1.975e-07	4.0	112.0	120.0	240.0	348.0	356.0	foldseek	protein665898	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0070	32726	34384	+	84	DNA, RNA and nucleotide metabolism	ribonucleoside-diphosphate reductase large subunit	foldseek	11	3117.0	0.76	2.041e-67	0.0	551.0	552.0	0.0	550.0	576.0	foldseek	protein755848	DNA, RNA and nucleotide metabolism	0.963	0.0	0.0	0.0	0.037	0.963	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0071	34556	34696	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0072	34788	34940	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0073	34972	35409	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0074	35437	35610	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0075	36124	35798	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0076	36428	36132	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0077	37015	36581	-	4349	lysis	Rz-like spanin	foldseek	11	191.0	0.303	1.565e-04	3.0	143.0	144.0	9.0	153.0	154.0	foldseek	envhog_protein271039	lysis	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+contig_58	contig_58_CDS_0078	37247	37002	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0079	39343	37244	-	1640	tail	tail protein	foldseek	11	1854.0	0.541	1.049e-37	22.0	696.0	699.0	227.0	908.0	912.0	foldseek	envhog_protein1957182	tail	0.729	0.253	0.0	0.729	0.001	0.0	0.002	0.0	0.0	0.016	0.0
+contig_58	contig_58_CDS_0080	40225	39473	-	2282	tail	tail fiber protein	foldseek	11	986.0	0.679	6.338e-25	0.0	235.0	250.0	0.0	234.0	287.0	foldseek	envhog_protein1631075	tail	0.954	0.042	0.0	0.954	0.0	0.004	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0081	40626	40231	-	7	lysis	endolysin	foldseek	11	389.0	0.354	1.051e-06	2.0	128.0	131.0	49.0	170.0	184.0	foldseek	protein245208	lysis	0.997	0.0	0.0	0.003	0.0	0.0	0.0	0.0	0.997	0.0	0.0
+contig_58	contig_58_CDS_0082	41029	40796	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0083	41586	41173	-	587	head and packaging	structural protein	foldseek	11	543.0	0.664	2.254e-13	0.0	136.0	137.0	1.0	137.0	238.0	foldseek	envhog_protein1904303	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0084	42007	41588	-	6	tail	baseplate wedge subunit	foldseek	11	533.0	0.419	4.119e-13	15.0	136.0	139.0	364.0	483.0	484.0	foldseek	protein238577	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0085	42890	41955	-	6	tail	baseplate wedge subunit	foldseek	11	1231.0	0.408	1.793e-28	2.0	309.0	311.0	55.0	365.0	485.0	foldseek	protein238629	tail	0.997	0.003	0.0	0.997	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0086	43464	43213	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0087	43695	43477	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0088	44237	43782	-	11	tail	baseplate spike	foldseek	11	604.0	0.606	1.548e-12	7.0	133.0	151.0	17.0	143.0	264.0	foldseek	envhog_protein1000069	tail	0.998	0.0	0.0	0.998	0.0	0.0	0.0	0.0	0.002	0.0	0.0
+contig_58	contig_58_CDS_0089	45118	44234	-	196	tail	baseplate hub	foldseek	11	1672.0	0.647	6.756e-37	3.0	289.0	294.0	12.0	298.0	302.0	foldseek	envhog_protein125879	tail	0.833	0.101	0.0	0.833	0.017	0.0	0.0	0.0	0.006	0.042	0.0
+contig_58	contig_58_CDS_0090	45459	45121	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0091	46327	45626	-	817	tail	tail fiber protein	foldseek	11	406.0	0.393	1.181e-08	2.0	224.0	233.0	7.0	219.0	270.0	foldseek	envhog_protein1062726	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0092	47320	46331	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0093	48297	47425	-	20644	tail	tail length tape measure protein	foldseek	11	638.0	0.562	6.259e-14	1.0	287.0	290.0	3.0	261.0	624.0	foldseek	envhog_protein327540	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0094	48644	48294	-	681	DNA, RNA and nucleotide metabolism	endonuclease	foldseek	11	366.0	0.403	4.920e-08	10.0	115.0	116.0	2.0	109.0	113.0	foldseek	envhog_protein847242	DNA, RNA and nucleotide metabolism	0.977	0.0	0.0	0.0	0.0	0.977	0.0	0.023	0.0	0.0	0.0
+contig_58	contig_58_CDS_0095	49282	49040	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0096	49858	49532	-	11820	tail	tail assembly chaperone	foldseek	11	472.0	0.685	1.012e-10	0.0	107.0	108.0	0.0	104.0	105.0	foldseek	envhog_protein734129	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0097	50462	49965	-	280	head and packaging	virion structural protein	foldseek	11	573.0	0.541	3.210e-13	0.0	155.0	165.0	0.0	156.0	158.0	foldseek	envhog_protein1316957	tail	0.817	0.125	0.0	0.817	0.0	0.0	0.027	0.0	0.025	0.006	0.0
+contig_58	contig_58_CDS_0098	50963	50463	-	280	head and packaging	virion structural protein	foldseek	11	573.0	0.351	8.676e-12	0.0	163.0	166.0	0.0	161.0	167.0	foldseek	protein308609	tail	0.822	0.17	0.0	0.822	0.0	0.0	0.001	0.0	0.004	0.001	0.0
+contig_58	contig_58_CDS_0099	51537	51016	-	280	head and packaging	virion structural protein	foldseek	11	566.0	0.52	2.631e-12	0.0	172.0	173.0	0.0	172.0	174.0	foldseek	envhog_protein1484237	tail	0.882	0.083	0.0	0.882	0.0	0.001	0.025	0.0	0.003	0.005	0.0
+contig_58	contig_58_CDS_0100	52869	51556	-	205	tail	tail sheath	foldseek	11	1916.0	0.577	8.540e-46	2.0	436.0	437.0	3.0	428.0	429.0	foldseek	envhog_protein358577	tail	0.998	0.002	0.0	0.998	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0101	53443	52889	-	7975	connector	tail terminator	foldseek	11	535.0	0.243	6.589e-16	0.0	169.0	184.0	0.0	168.0	169.0	foldseek	envhog_protein1577906	connector	0.656	0.105	0.0	0.239	0.0	0.0	0.656	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0102	53811	53440	-	939	head and packaging	head protein	foldseek	11	659.0	0.565	2.454e-13	2.0	122.0	123.0	12.0	131.0	132.0	foldseek	envhog_protein1802581	connector	0.803	0.197	0.0	0.0	0.0	0.0	0.803	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0103	54285	53896	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0104	54519	54292	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0105	55111	54788	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0106	55811	55050	-	29	head and packaging	major head protein	foldseek	11	738.0	0.635	2.039e-18	0.0	235.0	253.0	13.0	246.0	352.0	foldseek	envhog_protein4612	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0107	56223	55825	-	20327	head and packaging	virion structural protein	foldseek	11	620.0	0.661	5.792e-14	0.0	131.0	132.0	0.0	131.0	132.0	foldseek	envhog_protein2081653	head and packaging	0.984	0.984	0.0	0.004	0.0	0.0	0.0	0.0	0.0	0.012	0.0
+contig_58	contig_58_CDS_0108	56986	56225	-	314	DNA, RNA and nucleotide metabolism	homing endonuclease	foldseek	11	786.0	0.402	8.229e-20	3.0	250.0	253.0	1.0	238.0	244.0	foldseek	envhog_protein2164007	DNA, RNA and nucleotide metabolism	0.995	0.002	0.0	0.0	0.001	0.995	0.0	0.001	0.0	0.002	0.0
+contig_58	contig_58_CDS_0109	57421	56999	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0110	57926	57414	-	2970	unknown function	hypothetical protein	foldseek	11	268.0	0.314	3.970e-05	40.0	159.0	170.0	49.0	174.0	380.0	foldseek	protein760077	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0111	58414	57926	-	1530	other	DNA methyltransferase	foldseek	11	709.0	0.696	4.659e-18	0.0	161.0	162.0	3.0	165.0	168.0	foldseek	envhog_protein738030	head and packaging	0.508	0.508	0.0	0.0	0.0	0.109	0.0	0.0	0.0	0.382	0.0
+contig_58	contig_58_CDS_0112	58581	58414	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0113	59342	58626	-	113	head and packaging	portal protein	foldseek	11	789.0	0.564	2.400e-18	12.0	228.0	238.0	206.0	423.0	541.0	foldseek	envhog_protein1604852	head and packaging	0.995	0.995	0.0	0.0	0.0	0.005	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0114	59907	59287	-	113	head and packaging	portal protein	foldseek	11	557.0	0.496	1.384e-12	7.0	163.0	206.0	1.0	156.0	162.0	foldseek	envhog_protein2183064	head and packaging	0.993	0.993	0.0	0.0	0.0	0.007	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0115	60550	59921	-	979	head and packaging	terminase large subunit	foldseek	11	806.0	0.474	8.680e-21	0.0	207.0	209.0	284.0	491.0	492.0	foldseek	protein839199	head and packaging	0.989	0.989	0.0	0.0	0.003	0.005	0.003	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0116	61313	60534	-	979	head and packaging	terminase large subunit	foldseek	11	1069.0	0.569	6.153e-27	1.0	245.0	259.0	39.0	274.0	492.0	foldseek	protein839199	head and packaging	0.981	0.981	0.0	0.0	0.006	0.002	0.01	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0117	61699	61580	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0118	63234	61969	-	38537	tail	tail fiber protein	foldseek	11	930.0	0.208	1.718e-22	23.0	420.0	421.0	14.0	402.0	403.0	foldseek	envhog_protein259233	tail	0.602	0.088	0.0	0.602	0.205	0.002	0.013	0.0	0.007	0.082	0.0
+contig_58	contig_58_CDS_0119	63535	63257	-	819	tail	tail protein	foldseek	11	268.0	0.141	2.867e-04	1.0	91.0	92.0	0.0	103.0	104.0	foldseek	efam_protein64349	tail	0.568	0.062	0.0	0.568	0.0	0.0	0.0	0.0	0.37	0.0	0.0
+contig_58	contig_58_CDS_0120	64073	63564	-	16185	tail	tail protein	foldseek	11	368.0	0.267	1.509e-07	10.0	163.0	169.0	30.0	183.0	184.0	foldseek	efam_protein183443	tail	0.515	0.454	0.0	0.515	0.0	0.0	0.0	0.0	0.0	0.031	0.0
+contig_58	contig_58_CDS_0121	64411	64070	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0122	66141	65788	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0123	66714	66484	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0124	67049	66711	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0125	67331	67170	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0126	67815	67342	-	8102	DNA, RNA and nucleotide metabolism	replication initiation protein	foldseek	11	636.0	0.515	4.253e-15	0.0	156.0	157.0	53.0	211.0	212.0	foldseek	envhog_protein630318	DNA, RNA and nucleotide metabolism	0.996	0.0	0.0	0.0	0.0	0.996	0.0	0.004	0.0	0.0	0.0
+contig_58	contig_58_CDS_0127	67997	67872	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0128	68642	68331	-	464	unknown function	unknown function	foldseek	11	435.0	0.523	2.468e-10	3.0	100.0	103.0	29.0	135.0	139.0	foldseek	protein543710	DNA, RNA and nucleotide metabolism	0.751	0.0	0.0	0.0	0.0	0.751	0.0	0.0	0.0	0.249	0.0
+contig_58	contig_58_CDS_0129	68776	68928	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0130	68938	69147	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0131	69149	69325	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0132	69322	69489	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0133	69492	69698	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0134	69695	70456	+	4717	DNA, RNA and nucleotide metabolism	tRNA-His guanylyltransferase	foldseek	11	1266.0	0.604	1.637e-29	6.0	246.0	253.0	1.0	247.0	256.0	foldseek	protein86358	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0135	70453	70665	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0136	70662	70997	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0137	70994	71230	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0138	71301	71708	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0139	71711	72703	+	681	DNA, RNA and nucleotide metabolism	endonuclease	foldseek	11	1425.0	0.551	1.070e-32	10.0	329.0	330.0	28.0	347.0	351.0	foldseek	envhog_protein1472752	DNA, RNA and nucleotide metabolism	0.992	0.0	0.0	0.0	0.001	0.992	0.0	0.007	0.0	0.0	0.0
+contig_58	contig_58_CDS_0140	72759	73598	+	170	other	PhoH-like phosphate starvation-inducible	foldseek	11	887.0	0.232	1.136e-21	1.0	277.0	279.0	0.0	263.0	344.0	foldseek	envhog_protein1245052	head and packaging	0.623	0.623	0.002	0.0	0.003	0.095	0.002	0.0	0.0	0.274	0.0
+contig_58	contig_58_CDS_0141	73598	73969	+	1827	other	ATP-dependent protease	foldseek	11	417.0	0.36	5.207e-09	0.0	116.0	123.0	14.0	135.0	232.0	foldseek	envhog_protein1611637	head and packaging	0.717	0.717	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.283	0.0
+contig_58	contig_58_CDS_0142	74082	74450	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0143	74509	74697	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0144	74712	74825	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0145	74825	75445	+	953	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	943.0	0.52	4.693e-20	3.0	202.0	206.0	6.0	195.0	196.0	foldseek	protein789721	DNA, RNA and nucleotide metabolism	0.996	0.0	0.0	0.0	0.0	0.996	0.0	0.0	0.0	0.004	0.0
+contig_58	contig_58_CDS_0146	75579	75683	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0147	75699	76028	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0148	76025	76432	+	174	DNA, RNA and nucleotide metabolism	dCMP deaminase	foldseek	11	687.0	0.474	1.935e-17	0.0	134.0	135.0	0.0	134.0	135.0	foldseek	protein708897	DNA, RNA and nucleotide metabolism	0.994	0.0	0.0	0.0	0.001	0.994	0.0	0.0	0.002	0.003	0.0
+contig_58	contig_58_CDS_0149	76497	76709	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0150	76706	77446	+	114	DNA, RNA and nucleotide metabolism	ATP-dependent DNA ligase	foldseek	11	910.0	0.473	6.282e-21	2.0	218.0	246.0	4.0	222.0	371.0	foldseek	protein547892	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0151	77463	77675	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0152	77822	78016	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0153	77979	78248	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0154	78369	78557	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0155	78857	78994	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0156	79630	79851	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0157	79876	80493	+	681	DNA, RNA and nucleotide metabolism	endonuclease	foldseek	11	717.0	0.625	2.248e-17	5.0	172.0	205.0	27.0	194.0	351.0	foldseek	envhog_protein1472752	DNA, RNA and nucleotide metabolism	0.998	0.0	0.0	0.0	0.0	0.998	0.0	0.002	0.0	0.0	0.0
+contig_58	contig_58_CDS_0158	80450	80860	+	681	DNA, RNA and nucleotide metabolism	endonuclease	foldseek	11	447.0	0.513	3.801e-10	27.0	135.0	136.0	1.0	109.0	113.0	foldseek	envhog_protein847242	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_58	contig_58_CDS_0159	80857	81009	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0160	81002	81313	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0161	81323	81661	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0162	81654	81830	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0163	81830	82177	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0164	82299	82538	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0165	82535	82747	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0166	82744	83001	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0167	82998	83153	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0168	83137	83325	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_58	contig_58_CDS_0169	83318	84508	+	2488	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	11	450.0	0.111	4.157e-09	0.0	389.0	396.0	0.0	489.0	507.0	foldseek	protein313053	DNA, RNA and nucleotide metabolism	0.993	0.0	0.0	0.0	0.005	0.993	0.0	0.0	0.0	0.002	0.0
+contig_644	contig_644_CDS_0001	58	336	+	9	head and packaging	terminase large subunit	foldseek	11	287.0	0.42	1.699e-06	22.0	90.0	92.0	16.0	84.0	99.0	foldseek	envhog_protein1867643	head and packaging	0.8	0.8	0.0	0.0	0.0	0.2	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0002	799	1002	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0003	2398	2225	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0004	2803	3099	+	2263	head and packaging	major head protein	foldseek	11	327.0	0.488	7.698e-07	5.0	94.0	98.0	45.0	132.0	511.0	foldseek	efam_protein143439	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0005	3204	3073	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0006	4043	4252	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0007	5816	6013	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0008	6057	6284	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0009	6320	6571	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0010	6878	7003	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0011	7622	7846	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0012	10003	9905	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0013	10129	10004	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0014	10490	10371	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0015	10803	10651	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0016	11114	10800	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0017	11285	11136	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0018	13307	12855	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0019	14230	14021	-	1167	other	phosphofructokinase	foldseek	11	220.0	0.623	1.332e-04	0.0	68.0	69.0	0.0	68.0	77.0	foldseek	envhog_protein1028741	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+contig_644	contig_644_CDS_0020	16026	15892	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0021	17458	17321	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0022	19253	19080	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0023	20598	20425	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0024	20839	20699	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0025	21224	21081	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0026	21803	21276	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0027	21989	21810	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0028	24090	22873	-	2263	head and packaging	major head protein	foldseek	11	1078.0	0.566	5.358e-26	6.0	363.0	405.0	147.0	500.0	594.0	foldseek	envhog_protein1545500	head and packaging	0.999	0.999	0.0	0.001	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0029	24256	24065	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0030	24526	24702	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0031	24889	24641	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0032	25382	24849	-	12	head and packaging	portal protein	foldseek	11	527.0	0.461	5.912e-12	12.0	172.0	177.0	3.0	166.0	365.0	foldseek	efam_protein69944	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0033	26195	25392	-	9	head and packaging	terminase large subunit	foldseek	11	1258.0	0.6	1.109e-29	5.0	266.0	267.0	60.0	313.0	314.0	foldseek	efam_protein176758	head and packaging	0.985	0.985	0.0	0.0	0.003	0.008	0.003	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0034	26873	26649	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0035	29048	26916	-	6958	head and packaging	virion structural protein	foldseek	11	527.0	0.266	2.239e-10	0.0	549.0	710.0	267.0	765.0	766.0	foldseek	envhog_protein1691970	head and packaging	0.43	0.43	0.0	0.097	0.374	0.099	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0036	29827	29150	-	6958	head and packaging	virion structural protein	foldseek	11	419.0	0.411	1.908e-09	9.0	207.0	225.0	15.0	218.0	1000.0	foldseek	envhog_protein946932_1	head and packaging	0.786	0.786	0.0	0.0	0.214	0.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0037	30529	29840	-	4067	other	transglycosylase	foldseek	11	295.0	0.189	4.294e-06	22.0	205.0	229.0	604.0	782.0	806.0	foldseek	envhog_protein1988816	tail	0.428	0.18	0.0	0.428	0.0	0.0	0.0	0.0	0.188	0.204	0.0
+contig_644	contig_644_CDS_0038	30897	30568	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0039	31888	31064	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0040	33066	31894	-	598	DNA, RNA and nucleotide metabolism	DNA ejection	foldseek	11	251.0	0.227	7.611e-04	22.0	344.0	390.0	145.0	422.0	438.0	foldseek	envhog_protein2148986	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0041	33497	33075	-	4287	DNA, RNA and nucleotide metabolism	DNA ejection protein	foldseek	11	493.0	0.204	8.307e-12	0.0	139.0	140.0	0.0	137.0	138.0	foldseek	efam_protein200063	other	0.616	0.003	0.0	0.003	0.002	0.375	0.0	0.0	0.0	0.616	0.0
+contig_644	contig_644_CDS_0042	34467	33535	-	3547	tail	tail length tape measure protein	foldseek	11	398.0	0.44	1.485e-08	65.0	248.0	310.0	5.0	193.0	271.0	foldseek	envhog_protein257698	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0043	34814	34464	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0044	35331	34816	-	511	head and packaging	internal virion protein	foldseek	11	524.0	0.49	2.571e-10	24.0	170.0	171.0	664.0	809.0	817.0	foldseek	envhog_protein1024770	head and packaging	0.916	0.916	0.0	0.009	0.0	0.004	0.062	0.0	0.009	0.0	0.0
+contig_644	contig_644_CDS_0045	37255	35276	-	511	head and packaging	internal virion protein	foldseek	11	2679.0	0.514	3.861e-52	0.0	656.0	659.0	9.0	654.0	817.0	foldseek	envhog_protein1024770	head and packaging	0.441	0.441	0.0	0.363	0.0	0.0	0.076	0.0	0.119	0.001	0.0
+contig_644	contig_644_CDS_0046	37618	37385	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0047	37911	37615	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0048	38277	37921	-	1259	tail	baseplate hub subunit and tail lysozyme	foldseek	11	642.0	0.586	1.131e-14	1.0	116.0	118.0	32.0	147.0	157.0	foldseek	envhog_protein1303749	tail	0.777	0.005	0.0	0.777	0.0	0.0	0.0	0.0	0.216	0.002	0.0
+contig_644	contig_644_CDS_0049	38356	38255	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0050	38523	38353	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0051	38804	38520	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0052	39459	38812	-	437	head and packaging	virion structural protein	foldseek	11	950.0	0.486	1.793e-22	0.0	214.0	215.0	0.0	216.0	217.0	foldseek	efam_protein171247	head and packaging	0.659	0.659	0.0	0.242	0.096	0.0	0.003	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0053	40094	39879	-	399	head and packaging	structural protein	foldseek	11	256.0	0.676	1.219e-05	0.0	67.0	71.0	0.0	67.0	125.0	foldseek	envhog_protein1446462	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0054	40483	40094	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0055	41131	40505	-	14558	tail	tail spike protein	foldseek	11	302.0	0.448	1.565e-05	99.0	207.0	208.0	456.0	570.0	571.0	foldseek	envhog_protein1184188	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0056	41222	41479	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0057	41663	42037	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0058	42353	41889	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0059	43210	42698	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0060	43723	43310	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0061	44227	43838	-	122	head and packaging	head decoration	foldseek	11	422.0	0.495	2.156e-09	20.0	128.0	129.0	130.0	235.0	236.0	foldseek	envhog_protein1125728	tail	0.813	0.168	0.0	0.813	0.003	0.003	0.002	0.0	0.0	0.011	0.0
+contig_644	contig_644_CDS_0062	44744	44274	-	8455	head and packaging	virion structural protein	foldseek	11	466.0	0.391	1.084e-08	0.0	150.0	156.0	0.0	154.0	155.0	foldseek	efam_protein175176	head and packaging	0.548	0.548	0.0	0.172	0.0	0.0	0.001	0.0	0.276	0.003	0.0
+contig_644	contig_644_CDS_0063	45112	44795	-	267	head and packaging	major head protein	foldseek	11	492.0	0.79	7.621e-11	4.0	103.0	105.0	1.0	100.0	101.0	foldseek	efam_protein151522	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0064	45720	45082	-	267	head and packaging	major head protein	foldseek	11	498.0	0.713	1.518e-12	0.0	191.0	212.0	0.0	185.0	301.0	foldseek	efam_protein357749	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0065	46670	45741	-	8865	head and packaging	head scaffolding protein	foldseek	11	291.0	0.19	1.088e-05	22.0	307.0	309.0	22.0	278.0	279.0	foldseek	efam_protein312051	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0066	46927	46712	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0067	48596	46929	-	332	connector	head-tail adaptor	foldseek	11	2526.0	0.642	1.318e-59	2.0	546.0	555.0	19.0	562.0	576.0	foldseek	efam_protein203926	head and packaging	0.541	0.541	0.0	0.0	0.0	0.0	0.458	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0068	49423	48998	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0069	51031	49631	-	2	head and packaging	terminase large subunit	foldseek	11	2752.0	0.77	8.963e-69	0.0	465.0	466.0	0.0	460.0	461.0	foldseek	efam_protein171216	head and packaging	0.982	0.982	0.0	0.0	0.003	0.009	0.005	0.0	0.0	0.001	0.0
+contig_644	contig_644_CDS_0070	51272	51015	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0071	51617	51423	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0072	52187	51723	-	2538	head and packaging	terminase small subunit	foldseek	11	222.0	0.201	8.539e-04	1.0	129.0	154.0	0.0	124.0	151.0	foldseek	envhog_protein2019218	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0073	52480	52187	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0074	52931	52638	-	6978	unknown function	hypothetical protein	foldseek	11	278.0	0.346	5.206e-06	6.0	80.0	97.0	0.0	73.0	74.0	foldseek	protein439992	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0075	53314	52928	-	5718	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	323.0	0.305	3.113e-07	4.0	100.0	128.0	0.0	105.0	116.0	foldseek	envhog_protein734095	DNA, RNA and nucleotide metabolism	0.993	0.0	0.0	0.0	0.0	0.993	0.0	0.0	0.0	0.002	0.0
+contig_644	contig_644_CDS_0076	54049	53378	-	2633	DNA, RNA and nucleotide metabolism	endonuclease VII	foldseek	11	640.0	0.318	6.220e-15	0.0	219.0	223.0	1.0	214.0	229.0	foldseek	envhog_protein980407	DNA, RNA and nucleotide metabolism	0.998	0.0	0.0	0.0	0.001	0.998	0.0	0.0	0.0	0.001	0.0
+contig_644	contig_644_CDS_0077	54305	54502	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0078	54548	54652	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0079	54956	55246	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0080	55326	55499	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0081	56645	57130	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0082	57127	57411	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0083	57404	57664	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0084	57661	57963	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0085	57930	58274	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0086	58271	58498	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0087	58514	58627	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0088	58627	58722	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0089	58853	59089	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0090	59094	59537	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0091	59598	59786	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0092	59783	60034	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0093	60065	60280	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0094	60447	60632	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0095	60629	60811	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0096	60811	61044	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0097	61041	61526	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0098	62182	62619	+	1297	other	ATPase	foldseek	11	701.0	0.715	2.827e-13	1.0	144.0	145.0	187.0	330.0	331.0	foldseek	efam_protein294490	other	0.994	0.0	0.0	0.0	0.0	0.006	0.0	0.0	0.0	0.994	0.0
+contig_644	contig_644_CDS_0099	62811	63026	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0100	62996	63499	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0101	63553	63885	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0102	63953	64180	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0103	64238	64369	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0104	64335	65108	+	1314	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	996.0	0.575	2.944e-20	11.0	250.0	257.0	42.0	280.0	283.0	foldseek	efam_protein158492	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0105	65431	65775	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0106	65778	65984	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0107	66132	66545	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0108	66526	66840	+	1314	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	454.0	0.557	6.135e-11	0.0	103.0	104.0	230.0	333.0	366.0	foldseek	efam_protein373845	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0109	66950	67063	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0110	67345	67464	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0111	67502	67933	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0112	68040	68603	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0113	70044	70433	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0114	70661	70392	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0115	70866	71021	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0116	71018	71476	+	17	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	219.0	0.693	3.464e-04	51.0	112.0	152.0	271.0	332.0	624.0	foldseek	efam_protein375021	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0117	71443	71805	+	7766	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	386.0	0.465	6.000e-07	1.0	116.0	120.0	37.0	148.0	283.0	foldseek	envhog_protein541328	DNA, RNA and nucleotide metabolism	0.988	0.0	0.0	0.0	0.0	0.988	0.0	0.0	0.0	0.012	0.0
+contig_644	contig_644_CDS_0118	71805	72002	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_644	contig_644_CDS_0119	71987	72244	+	7766	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	300.0	0.476	6.170e-07	0.0	84.0	85.0	127.0	211.0	212.0	foldseek	envhog_protein600684	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_644	contig_644_CDS_0120	72244	72339	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0001	134	3	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0002	663	226	-	267	head and packaging	major head protein	foldseek	11	774.0	0.75	6.562e-20	11.0	142.0	145.0	22.0	153.0	155.0	foldseek	efam_protein91221	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0003	1154	666	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0004	2184	1180	-	8865	head and packaging	head scaffolding protein	foldseek	11	332.0	0.182	1.345e-06	20.0	332.0	334.0	29.0	282.0	288.0	foldseek	efam_protein224084	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0005	2448	2218	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0006	3788	2445	-	332	connector	head-tail adaptor	foldseek	11	2041.0	0.707	8.632e-48	7.0	446.0	447.0	41.0	484.0	485.0	foldseek	efam_protein157441	connector	0.546	0.454	0.0	0.0	0.0	0.0	0.546	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0007	4476	3748	-	332	connector	head-tail adaptor	foldseek	11	784.0	0.615	8.575e-18	0.0	233.0	242.0	0.0	233.0	683.0	foldseek	efam_protein220643	connector	1.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0008	6639	6187	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0009	6966	6781	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0010	7859	6963	-	2	head and packaging	terminase large subunit	foldseek	11	965.0	0.527	1.449e-25	0.0	282.0	298.0	93.0	373.0	445.0	foldseek	efam_protein104354	head and packaging	0.993	0.993	0.0	0.0	0.0	0.0	0.005	0.0	0.0	0.002	0.0
+contig_815	contig_815_CDS_0011	8188	7817	-	979	head and packaging	terminase large subunit	foldseek	11	342.0	0.469	2.567e-08	2.0	99.0	123.0	1.0	97.0	98.0	foldseek	envhog_protein1453638	head and packaging	0.968	0.968	0.0	0.0	0.0	0.032	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0012	8397	8188	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0013	8557	8390	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0014	9005	8529	-	2538	head and packaging	terminase small subunit	foldseek	11	219.0	0.162	6.071e-04	0.0	122.0	158.0	0.0	119.0	151.0	foldseek	envhog_protein2019218	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0015	9491	9892	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0016	10092	10286	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0017	11102	11203	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0018	11377	11931	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0019	11873	12088	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0020	12257	12409	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0021	12428	12706	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0022	12764	12991	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0023	12954	13613	+	1297	other	ATPase	foldseek	11	1030.0	0.681	1.080e-20	2.0	207.0	219.0	91.0	297.0	331.0	foldseek	efam_protein177318	other	0.99	0.0	0.0	0.0	0.004	0.006	0.0	0.0	0.0	0.99	0.0
+contig_815	contig_815_CDS_0024	13793	13497	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0025	13871	14098	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0026	14101	14286	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0027	14350	14616	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0028	14622	15482	+	1314	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	1249.0	0.578	1.922e-26	3.0	284.0	286.0	2.0	280.0	283.0	foldseek	efam_protein158492	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0029	15486	15680	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0030	15686	16102	+	1314	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	605.0	0.431	1.725e-12	2.0	133.0	138.0	4.0	134.0	164.0	foldseek	envhog_protein2204328	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0031	16071	16817	+	1314	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	11	999.0	0.481	2.632e-25	7.0	245.0	248.0	133.0	378.0	379.0	foldseek	efam_protein254764	DNA, RNA and nucleotide metabolism	0.987	0.0	0.0	0.003	0.006	0.987	0.0	0.0	0.0	0.004	0.0
+contig_815	contig_815_CDS_0032	16817	17122	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0033	17148	17408	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0034	17356	17523	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0035	17597	17971	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0036	17961	18107	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0037	18097	18321	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0038	18425	18228	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0039	18572	18724	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0040	18736	19335	+	18890	transcription regulation	transcriptional regulator	foldseek	11	501.0	0.241	8.459e-11	0.0	190.0	199.0	0.0	178.0	188.0	foldseek	efam_protein31902	transcription regulation	0.604	0.0	0.0	0.0	0.175	0.132	0.0	0.604	0.0	0.089	0.0
+contig_815	contig_815_CDS_0041	19487	19729	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0042	19722	20012	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0043	20364	20519	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0044	20789	20664	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0045	20790	21032	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0046	21212	21472	+	174	DNA, RNA and nucleotide metabolism	dCMP deaminase	foldseek	11	336.0	0.494	3.863e-08	2.0	85.0	86.0	152.0	238.0	244.0	foldseek	protein709280	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0047	21462	21803	+	801	DNA, RNA and nucleotide metabolism	dATP / dGTP pyrophosphohydrolase	foldseek	11	444.0	0.596	1.570e-09	9.0	112.0	113.0	124.0	226.0	227.0	foldseek	envhog_protein1159666	DNA, RNA and nucleotide metabolism	0.775	0.0	0.0	0.0	0.0	0.775	0.0	0.0	0.222	0.003	0.0
+contig_815	contig_815_CDS_0048	21803	22576	+	10285	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	951.0	0.674	7.504e-23	0.0	216.0	257.0	0.0	220.0	624.0	foldseek	efam_protein89213	DNA, RNA and nucleotide metabolism	0.999	0.0	0.0	0.0	0.0	0.999	0.0	0.0	0.0	0.001	0.0
+contig_815	contig_815_CDS_0049	22763	23680	+	10285	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	11	1453.0	0.587	4.507e-31	1.0	303.0	305.0	327.0	621.0	624.0	foldseek	efam_protein89213	DNA, RNA and nucleotide metabolism	0.998	0.0	0.0	0.0	0.0	0.998	0.0	0.0	0.0	0.002	0.0
+contig_815	contig_815_CDS_0050	23680	23817	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0051	23943	24569	+	69	DNA, RNA and nucleotide metabolism	exonuclease	foldseek	11	1072.0	0.577	5.466e-27	0.0	205.0	208.0	12.0	216.0	218.0	foldseek	efam_protein287133	DNA, RNA and nucleotide metabolism	0.998	0.001	0.0	0.0	0.001	0.998	0.0	0.0	0.0	0.001	0.0
+contig_815	contig_815_CDS_0052	24524	24898	+	93	DNA, RNA and nucleotide metabolism	endonuclease	foldseek	11	528.0	0.605	3.749e-13	15.0	123.0	124.0	0.0	108.0	109.0	foldseek	efam_protein276342	DNA, RNA and nucleotide metabolism	0.984	0.0	0.0	0.0	0.0	0.984	0.0	0.016	0.0	0.0	0.0
+contig_815	contig_815_CDS_0053	24855	25778	+	62	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	11	1444.0	0.613	5.405e-34	0.0	306.0	307.0	0.0	306.0	516.0	foldseek	efam_protein114560	DNA, RNA and nucleotide metabolism	0.942	0.01	0.0	0.0	0.029	0.942	0.0	0.0	0.0	0.019	0.0
+contig_815	contig_815_CDS_0054	25801	26403	+	62	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	11	1015.0	0.775	1.049e-25	1.0	195.0	200.0	317.0	512.0	516.0	foldseek	efam_protein339940	DNA, RNA and nucleotide metabolism	0.972	0.001	0.0	0.0	0.024	0.972	0.0	0.0	0.0	0.003	0.0
+contig_815	contig_815_CDS_0055	26405	26632	+	7597	unknown function	hypothetical protein	foldseek	11	200.0	0.289	8.391e-04	4.0	74.0	75.0	11.0	93.0	94.0	foldseek	efam_protein362911	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0056	26629	27030	+	13900	head and packaging	minor head protein	foldseek	11	507.0	0.641	1.038e-12	0.0	130.0	133.0	0.0	130.0	134.0	foldseek	efam_protein216153	head and packaging	0.88	0.88	0.0	0.0	0.0	0.12	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0057	27055	27276	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0058	27351	28319	+	2139	DNA, RNA and nucleotide metabolism	exonuclease	foldseek	11	1274.0	0.536	1.108e-29	0.0	313.0	322.0	0.0	304.0	321.0	foldseek	efam_protein68521	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0059	28332	28622	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0060	28666	29613	+	8841	DNA, RNA and nucleotide metabolism	DNA primase/helicase	foldseek	11	979.0	0.471	4.048e-23	0.0	222.0	315.0	0.0	213.0	886.0	foldseek	efam_protein339443	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0061	29610	30620	+	8841	DNA, RNA and nucleotide metabolism	DNA primase/helicase	foldseek	11	950.0	0.587	2.732e-22	42.0	273.0	336.0	352.0	581.0	886.0	foldseek	efam_protein339443	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0062	30643	31533	+	8841	DNA, RNA and nucleotide metabolism	DNA primase/helicase	foldseek	11	564.0	0.429	2.949e-12	4.0	234.0	296.0	656.0	885.0	886.0	foldseek	efam_protein339443	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0063	32019	31372	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0064	32484	32056	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0065	32758	32546	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0066	33338	33129	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0067	33784	33969	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0068	35302	34949	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0069	35886	36209	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0070	36516	37202	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0071	37474	37259	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0072	38136	37636	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0073	38441	38133	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0074	39612	38878	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0075	39856	39978	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0076	40738	40220	-	315	lysis	endolysin	foldseek	11	313.0	0.289	8.276e-07	0.0	167.0	172.0	389.0	554.0	639.0	foldseek	envhog_protein434363	tail	0.472	0.143	0.0	0.472	0.0	0.0	0.0	0.0	0.145	0.24	0.0
+contig_815	contig_815_CDS_0077	41565	40948	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0078	41750	41562	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0079	41951	41763	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0080	42189	41905	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0081	42925	42167	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0082	43415	42888	-	3547	tail	tail length tape measure protein	foldseek	11	379.0	0.425	9.136e-08	0.0	159.0	175.0	70.0	212.0	271.0	foldseek	envhog_protein257698	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0083	44011	43796	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0084	44924	44241	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0085	45389	44952	-	511	head and packaging	internal virion protein	foldseek	11	498.0	0.503	8.770e-10	0.0	128.0	145.0	550.0	676.0	817.0	foldseek	envhog_protein1024770	head and packaging	0.937	0.937	0.0	0.013	0.0	0.0	0.0	0.0	0.05	0.0	0.0
+contig_815	contig_815_CDS_0086	45522	45382	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0087	45812	45621	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0088	46810	46190	-	511	head and packaging	internal virion protein	foldseek	11	515.0	0.574	6.846e-10	44.0	196.0	206.0	128.0	279.0	817.0	foldseek	envhog_protein1024770	tail	0.855	0.102	0.0	0.855	0.0	0.0	0.025	0.0	0.017	0.0	0.0
+contig_815	contig_815_CDS_0089	47044	46820	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0090	47672	47268	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0091	48273	47674	-	822	lysis	amidase	foldseek	11	862.0	0.586	3.316e-22	20.0	179.0	199.0	47.0	208.0	272.0	foldseek	envhog_protein208641	lysis	0.992	0.0	0.0	0.006	0.001	0.0	0.0	0.0	0.992	0.001	0.0
+contig_815	contig_815_CDS_0092	49266	48883	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0093	49745	49254	-	7458	tail	tail spike protein	foldseek	11	385.0	0.289	4.446e-08	4.0	160.0	163.0	107.0	261.0	505.0	foldseek	envhog_protein1750970	tail	0.986	0.005	0.0	0.986	0.0	0.004	0.0	0.0	0.0	0.006	0.0
+contig_815	contig_815_CDS_0094	50574	50735	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0095	50913	50800	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0096	51438	51037	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0097	51701	51435	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0098	52118	51711	-	399	head and packaging	structural protein	foldseek	11	542.0	0.621	3.474e-13	2.0	133.0	135.0	79.0	210.0	215.0	foldseek	efam_protein90	head and packaging	0.896	0.896	0.0	0.054	0.044	0.0	0.0	0.0	0.006	0.0	0.0
+contig_815	contig_815_CDS_0099	52347	52093	-	399	head and packaging	structural protein	foldseek	11	265.0	0.544	1.468e-06	0.0	78.0	84.0	0.0	78.0	125.0	foldseek	envhog_protein1446462	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_815	contig_815_CDS_0100	52589	52344	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0101	52903	52589	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0102	54274	53174	-	30509	tail	collagen like minor tail	foldseek	11	587.0	0.207	5.465e-12	49.0	357.0	366.0	1.0	311.0	381.0	foldseek	envhog_protein1481254	tail	0.829	0.139	0.0	0.829	0.003	0.002	0.011	0.0	0.004	0.012	0.0
+contig_815	contig_815_CDS_0103	54533	54715	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0104	55836	55480	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0105	55862	56104	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0106	56098	56280	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0107	56567	56433	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_815	contig_815_CDS_0108	56644	56868	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0001	3	371	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0002	577	341	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0003	589	1443	+	2263	head and packaging	major head protein	foldseek	11	897.0	0.602	1.175e-21	0.0	231.0	284.0	35.0	263.0	360.0	foldseek	efam_protein174816	head and packaging	0.999	0.999	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_820	contig_820_CDS_0004	1424	1876	+	2263	head and packaging	major head protein	foldseek	11	404.0	0.824	8.464e-08	52.0	142.0	150.0	0.0	89.0	515.0	foldseek	efam_protein306030	head and packaging	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_820	contig_820_CDS_0005	1882	2223	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0006	3192	3371	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0007	3425	4180	+	4574	tail	major tail protein	foldseek	11	633.0	0.829	9.132e-14	134.0	250.0	251.0	0.0	116.0	117.0	foldseek	efam_protein177561	connector	0.841	0.031	0.0	0.128	0.0	0.0	0.841	0.0	0.0	0.0	0.0
+contig_820	contig_820_CDS_0008	4216	4692	+	4574	tail	major tail protein	foldseek	11	331.0	0.469	3.721e-07	15.0	122.0	158.0	116.0	217.0	230.0	foldseek	envhog_protein1372521	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+contig_820	contig_820_CDS_0009	4646	5053	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0010	5554	6009	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0011	5955	6095	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0012	6103	6996	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0013	6996	8168	+	14138	tail	minor tail protein	foldseek	11	1138.0	0.304	1.413e-25	0.0	380.0	390.0	0.0	373.0	407.0	foldseek	efam_protein321997	tail	0.84	0.105	0.0	0.84	0.004	0.0	0.0	0.0	0.003	0.048	0.0
+contig_820	contig_820_CDS_0014	8986	9186	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0015	9218	9682	+	2649	lysis	endolysin	foldseek	11	316.0	0.268	6.907e-07	0.0	149.0	154.0	16.0	172.0	273.0	foldseek	envhog_protein760308	lysis	0.61	0.0	0.0	0.293	0.097	0.0	0.0	0.0	0.61	0.0	0.0
+contig_820	contig_820_CDS_0016	9856	10083	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0017	10481	11092	+	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0018	11787	11350	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0019	12594	12304	-	No_PHROG	unknown function	hypothetical protein	none	11																							
+contig_820	contig_820_CDS_0020	12648	12929	+	No_PHROG	unknown function	hypothetical protein	none	11																							

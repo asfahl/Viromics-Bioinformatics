@@ -1,0 +1,14 @@
+createtsv 3_Project/3.2_subsampled_phold/10_phold_on_pharoka/11_subset_30/foldseek_db/phold /veodata/01/databases/phold/v240724/all_phold_structures 3_Project/3.2_subsampled_phold/10_phold_on_pharoka/11_subset_30/result_db/result_db 3_Project/3.2_subsampled_phold/10_phold_on_pharoka/11_subset_30/foldseek_results.tsv 
+
+MMseqs Version:                 	9.427df8a
+First sequence as representative	false
+Target column                   	1
+Add full header                 	false
+Sequence source                 	0
+Database output                 	false
+Threads                         	96
+Compressed                      	0
+Verbosity                       	3
+
+Time for merging to foldseek_results.tsv: 0h 0m 1s 331ms
+Time for processing: 0h 0m 3s 301ms

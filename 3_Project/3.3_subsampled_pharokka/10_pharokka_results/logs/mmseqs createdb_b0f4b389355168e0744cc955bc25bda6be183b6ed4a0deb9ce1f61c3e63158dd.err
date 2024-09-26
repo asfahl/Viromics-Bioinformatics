@@ -1,0 +1,1 @@
+Command line: mmseqs createdb 3_Project/3.3_subsampled_pharokka/10_pharokka_results/phanotate_aas_tmp.fasta 3_Project/3.3_subsampled_pharokka/10_pharokka_results/target_dir/target_seqs

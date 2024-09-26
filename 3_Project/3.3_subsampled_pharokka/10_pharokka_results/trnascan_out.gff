@@ -1,0 +1,3 @@
+##gff-version 3
+contig_58	tRNAscan-SE	tRNA	8375	8448	55.2	-	.	ID=contig_58.trna1;Name=contig_58.tRNA1-ArgTCT;isotype=Arg;anticodon=TCT;gene_biotype=tRNA;
+contig_58	tRNAscan-SE	exon	8375	8448	.	-	.	ID=contig_58.trna1.exon1;Parent=contig_58.trna1;

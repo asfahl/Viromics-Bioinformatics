@@ -1,0 +1,61 @@
+2024-09-26 14:17:55.996 | INFO     | phold.utils.validation:instantiate_dirs:70 - Checking the output directory 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30
+2024-09-26 14:17:56.029 | INFO     | phold.utils.util:begin_phold:72 - phold: annotating phage genomes with protein structures
+2024-09-26 14:17:56.035 | INFO     | phold.utils.util:begin_phold:74 - You are using phold version 0.2.0
+2024-09-26 14:17:56.040 | INFO     | phold.utils.util:begin_phold:75 - Repository homepage is https://github.com/gbouras13/phold
+2024-09-26 14:17:56.045 | INFO     | phold.utils.util:begin_phold:76 - You are running phold run
+2024-09-26 14:17:56.050 | INFO     | phold.utils.util:begin_phold:77 - Listing parameters
+2024-09-26 14:17:56.055 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --input 3_Project/3.0_select_contigs/select_contigs_30.fasta
+2024-09-26 14:17:56.059 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --output 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30
+2024-09-26 14:17:56.064 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --threads 96
+2024-09-26 14:17:56.069 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --force False
+2024-09-26 14:17:56.074 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --prefix phold
+2024-09-26 14:17:56.079 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --evalue 0.001
+2024-09-26 14:17:56.083 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --database /veodata/01/databases/phold/v240724/
+2024-09-26 14:17:56.088 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --batch_size 1
+2024-09-26 14:17:56.093 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --sensitivity 9.5
+2024-09-26 14:17:56.098 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --keep_tmp_files False
+2024-09-26 14:17:56.102 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --cpu True
+2024-09-26 14:17:56.107 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --omit_probs False
+2024-09-26 14:17:56.112 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --finetune False
+2024-09-26 14:17:56.117 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --finetune_path None
+2024-09-26 14:17:56.121 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --card_vfdb_evalue 1e-10
+2024-09-26 14:17:56.126 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --separate False
+2024-09-26 14:17:56.130 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --max_seqs 10000
+2024-09-26 14:17:56.135 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --save_per_residue_embeddings False
+2024-09-26 14:17:56.140 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --save_per_protein_embeddings False
+2024-09-26 14:17:56.145 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --only_representatives False
+2024-09-26 14:17:56.150 | INFO     | phold.utils.util:begin_phold:79 - Parameter: --ultra_sensitive False
+2024-09-26 14:17:56.181 | INFO     | phold.utils.validation:check_dependencies:126 - Foldseek version found is v9.427df8a
+2024-09-26 14:17:56.185 | INFO     | phold.utils.validation:check_dependencies:135 - Foldseek version is ok
+2024-09-26 14:17:56.190 | INFO     | phold.databases.db:validate_db:361 - Checking Phold database installation in /veodata/01/databases/phold/v240724
+2024-09-26 14:17:56.200 | INFO     | phold.databases.db:validate_db:364 - All Phold databases files are present
+2024-09-26 14:17:56.205 | INFO     | phold.io.handle_genbank:get_genbank:57 - Checking if input 3_Project/3.0_select_contigs/select_contigs_30.fasta is a Genbank file
+2024-09-26 14:17:56.240 | WARNING  | phold.utils.validation:validate_input:28 - 3_Project/3.0_select_contigs/select_contigs_30.fasta was not a Genbank format file
+2024-09-26 14:17:56.244 | WARNING  | phold.utils.validation:validate_input:29 - Now checking if the input 3_Project/3.0_select_contigs/select_contigs_30.fasta is a genome in nucleotide FASTA format
+2024-09-26 14:17:56.249 | WARNING  | phold.utils.validation:validate_input:32 - pyrodigal-gv will be used to predict CDS
+2024-09-26 14:17:56.253 | WARNING  | phold.utils.validation:validate_input:33 - Phold will not predict tRNAs, tmRNAs or CRISPR repeats
+2024-09-26 14:17:56.257 | WARNING  | phold.utils.validation:validate_input:34 - Please use pharokka https://github.com/gbouras13/pharokka if you would like to predict these
+2024-09-26 14:17:56.262 | WARNING  | phold.utils.validation:validate_input:37 - And then use the genbank output pharokka.gbk as --input for phold
+2024-09-26 14:17:56.432 | INFO     | phold.utils.validation:validate_input:45 - Successfully parsed input 3_Project/3.0_select_contigs/select_contigs_30.fasta as a FASTA and predicted CDS
+2024-09-26 14:17:56.444 | INFO     | phold.features.predict_3Di:get_T5_model:121 - Using device: cpu
+2024-09-26 14:17:56.449 | INFO     | phold.features.predict_3Di:get_T5_model:127 - Loading T5 from: /veodata/01/databases/phold/v240724/Rostlab/ProstT5_fp16
+2024-09-26 14:17:56.453 | INFO     | phold.features.predict_3Di:get_T5_model:128 - If /veodata/01/databases/phold/v240724/Rostlab/ProstT5_fp16 is not found, it will be downloaded
+You are using the default legacy behaviour of the <class 'transformers.models.t5.tokenization_t5.T5Tokenizer'>. This is expected, and simply means that the `legacy` (previous) behavior will be used so nothing changes for you. If you want to use the new behaviour, set `legacy=False`. This should only be set if you understand what it means, and thoroughly read the reason why this was added as explained in https://github.com/huggingface/transformers/pull/24565
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+2024-09-26 14:18:05.320 | INFO     | phold.features.predict_3Di:get_T5_model:164 - Rostlab/ProstT5_fp16 loaded
+2024-09-26 14:18:05.337 | INFO     | phold.features.predict_3Di:get_embeddings:436 - Beginning ProstT5 predictions
+2024-09-26 14:18:05.341 | INFO     | phold.features.predict_3Di:get_embeddings:443 - Using models in full-precision
+2024-09-26 14:18:39.434 | INFO     | phold.features.predict_3Di:write_predictions:278 - Finished writing results to 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/phold_3di.fasta
+2024-09-26 14:18:39.510 | INFO     | phold.utils.external_tools:run:44 - Started running foldseek tsv2db 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/aa.tsv 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/phold --output-dbtype 0 ...
+2024-09-26 14:18:39.577 | INFO     | phold.utils.external_tools:run:46 - Done running foldseek tsv2db 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/aa.tsv 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/phold --output-dbtype 0
+2024-09-26 14:18:39.590 | INFO     | phold.utils.external_tools:run:44 - Started running foldseek tsv2db 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/3di.tsv 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/phold_ss --output-dbtype 0 ...
+2024-09-26 14:18:39.649 | INFO     | phold.utils.external_tools:run:46 - Done running foldseek tsv2db 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/3di.tsv 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/phold_ss --output-dbtype 0
+2024-09-26 14:18:39.664 | INFO     | phold.utils.external_tools:run:44 - Started running foldseek tsv2db 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/header.tsv 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/phold_h --output-dbtype 12 ...
+2024-09-26 14:18:39.729 | INFO     | phold.utils.external_tools:run:46 - Done running foldseek tsv2db 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/header.tsv 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/phold_h --output-dbtype 12
+2024-09-26 14:18:39.754 | INFO     | phold.utils.external_tools:run:44 - Started running foldseek search 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/phold /veodata/01/databases/phold/v240724/all_phold_structures_clustered_searchDB 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/result_db/result_db 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/temp_db --threads 96 -e 0.001 -s 9.5 --max-seqs 10000 --cluster-search 1 ...
+2024-09-26 14:18:56.750 | INFO     | phold.utils.external_tools:run:46 - Done running foldseek search 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/phold /veodata/01/databases/phold/v240724/all_phold_structures_clustered_searchDB 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/result_db/result_db 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/temp_db --threads 96 -e 0.001 -s 9.5 --max-seqs 10000 --cluster-search 1
+2024-09-26 14:18:56.768 | INFO     | phold.utils.external_tools:run:44 - Started running foldseek createtsv 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/phold /veodata/01/databases/phold/v240724/all_phold_structures 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/result_db/result_db 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_results.tsv ...
+2024-09-26 14:18:59.251 | INFO     | phold.utils.external_tools:run:46 - Done running foldseek createtsv 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_db/phold /veodata/01/databases/phold/v240724/all_phold_structures 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/result_db/result_db 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30/foldseek_results.tsv
+2024-09-26 14:18:59.259 | INFO     | phold.results.topfunction:get_topfunctions:35 - Processing Foldseek output
+2024-09-26 14:19:00.017 | INFO     | phold.utils.util:end_phold:101 - phold run has finished
+2024-09-26 14:19:00.021 | INFO     | phold.utils.util:end_phold:102 - Elapsed time: 64.02 seconds

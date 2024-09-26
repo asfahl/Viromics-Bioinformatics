@@ -1,0 +1,1 @@
+Command line: mmseqs createtsv /work/groups/VEO/databases/pharokka/v1.7.1/CARD 3_Project/3.4_Dataset_30/10_pharokka/CARD_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/CARD/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/CARD_results.tsv --full-header --threads 10

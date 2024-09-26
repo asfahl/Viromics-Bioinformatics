@@ -1,0 +1,2 @@
+2024-09-26 15:25:55.120 | INFO     | phold.utils.validation:instantiate_dirs:70 - Checking the output directory 3_Project/3.2_subsampled_phold/30_phold_on_fasta/31_subset_30
+2024-09-26 15:25:55.122 | ERROR    | phold.utils.validation:instantiate_dirs:81 - Output directory already exists and force was not specified. Please specify -f or --force to overwrite the output directory

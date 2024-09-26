@@ -1,0 +1,61 @@
+>contig_114
+0 genes found
+>contig_1393
+0 genes found
+>contig_1160
+0 genes found
+>contig_103
+0 genes found
+>contig_185
+0 genes found
+>contig_1169
+0 genes found
+>contig_200
+0 genes found
+>contig_92
+0 genes found
+>contig_1460
+0 genes found
+>contig_1552
+0 genes found
+>contig_1439
+0 genes found
+>contig_1323
+0 genes found
+>contig_1433
+0 genes found
+>contig_1033
+0 genes found
+>contig_1554
+0 genes found
+>contig_1547
+0 genes found
+>contig_58
+0 genes found
+>contig_256
+0 genes found
+>contig_601
+0 genes found
+>contig_825
+0 genes found
+>contig_1096
+0 genes found
+>contig_644
+0 genes found
+>contig_1131
+0 genes found
+>contig_1298
+0 genes found
+>contig_669
+0 genes found
+>contig_1545
+0 genes found
+>contig_815
+0 genes found
+>contig_1062
+0 genes found
+>contig_1170
+0 genes found
+>contig_267
+0 genes found
+>end 	30 sequences 0 tmRNA genes, nothing found in 30 sequences, (0.00% sensitivity)

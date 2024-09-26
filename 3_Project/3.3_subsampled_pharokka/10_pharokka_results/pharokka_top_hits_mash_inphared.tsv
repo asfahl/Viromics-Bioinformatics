@@ -1,0 +1,13 @@
+contig	Accession	mash_distance	mash_pval	mash_matching_hashes	Description	Classification	Genome_Length_(bp)	Jumbophage	molGC_(%)	Molecule	Modification_Date	Number_CDS	Positive_Strand_(%)	Negative_Strand_(%)	Coding_Capacity_(%)	Low_Coding_Capacity_Warning	tRNAs	Host	Lowest_Taxa	Genus	Sub-family	Family	Order	Class	Phylum	Kingdom	Realm	Baltimore_Group	Genbank_Division	Isolation_Host_(beware_inconsistent_and_nonsense_values)
+contig_1062	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+contig_1096	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+contig_1169	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+contig_1459	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+contig_1460	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+contig_200	MZ568826	0.0790711	0	105/1000	Shewanella phage vB_SspS_KASIA	Shewanella phage vB_SspS_KASIA Caudoviricetes Uroviricota Heunggongvirae Duplodnaviria Viruses	91102.0	False	40.234	DNA	18-AUG-2021	148.0	49.3243243243243	50.6756756756757	91.6083071721806		0.0	Shewanella	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	Caudoviricetes	Uroviricota	Heunggongvirae	Duplodnaviria	Group I	PHG	Unspecified
+contig_267	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+contig_400	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+contig_58	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+contig_644	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+contig_815	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+contig_820	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										

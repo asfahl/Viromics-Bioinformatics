@@ -1,0 +1,1 @@
+Command line: foldseek search 3_Project/3.4_Dataset_30/20_phold_pharokka/foldseek_db/phold /veodata/01/databases/phold/v240724/all_phold_structures_clustered_searchDB 3_Project/3.4_Dataset_30/20_phold_pharokka/result_db/result_db 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db --threads 96 -e 0.001 -s 9.5 --max-seqs 10000 --cluster-search 1

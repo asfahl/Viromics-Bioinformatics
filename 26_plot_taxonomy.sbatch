@@ -16,7 +16,7 @@ source py3env/bin/activate
 mkdir -p 2.2_taxonomy/40_plot_networks/
 
 # define an array with contig ids to plot
-declare -a arr=("contig_871" "contig_267", "contig_825")
+declare -a arr=("contig_871", "contig_267", "contig_825")
 
 # loop through the array
 for contig in "${arr[@]}"

@@ -12,4 +12,4 @@
 source py3env/bin/activate
 
 # change the output and contig names accordingly
-python3 python_scripts/Project/subsampling.py 1.4_annotation/10_pharokka/pharokka.gbk 3_Project/3.0_select_contigs/select_contigs.gbk
+python3 python_scripts/Project/subsampling.py 1.4_annotation/10_pharokka/pharokka.gbk 3_Project/3.0_select_contigs/select_contigs_30.gbk

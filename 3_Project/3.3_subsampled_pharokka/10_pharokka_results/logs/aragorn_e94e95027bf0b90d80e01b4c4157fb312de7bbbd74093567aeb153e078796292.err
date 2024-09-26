@@ -1,0 +1,1 @@
+Command line: aragorn -l -gcbact -w -m -o 3_Project/3.3_subsampled_pharokka/10_pharokka_results/pharokka_aragorn.txt 3_Project/3.0_select_contigs/select_contigs.fasta

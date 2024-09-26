@@ -1,0 +1,33 @@
+2024-09-26 14:18:57.338 | INFO     | input_commands:instantiate_dirs:191 - --force was specified even though the output directory 3_Project/3.3_subsampled_pharokka/10_pharokka_results/11_subsample_30 does not already exist. Continuing.
+2024-09-26 14:18:57.367 | INFO     | __main__:main:95 - Starting Pharokka v1.7.1
+2024-09-26 14:18:57.372 | INFO     | __main__:main:96 - Command executed: Namespace(infile='3_Project/3.0_select_contigs/select_contigs_30.fasta', outdir='3_Project/3.3_subsampled_pharokka/10_pharokka_results/11_subsample_30', database='/work/groups/VEO/databases/pharokka/v1.7.1/', threads='10', force=True, prefix='Default', locustag='Default', gene_predictor='phanotate', meta=True, split=False, coding_table='11', evalue='1E-05', fast=False, mmseqs2_only=False, meta_hmm=True, dnaapler=False, custom_hmm='', genbank=False, terminase=False, terminase_strand='nothing', terminase_start='nothing', skip_extra_annotations=False, skip_mash=False, minced_args='', mash_distance=0.2, citation=False)
+2024-09-26 14:18:57.377 | INFO     | __main__:main:97 - Repository homepage is https://github.com/gbouras13/pharokka
+2024-09-26 14:18:57.382 | INFO     | __main__:main:98 - Written by George Bouras: george.bouras@adelaide.edu.au
+2024-09-26 14:18:57.386 | INFO     | __main__:main:100 - Checking database installation in /work/groups/VEO/databases/pharokka/v1.7.1/.
+2024-09-26 14:18:57.407 | INFO     | __main__:main:103 - All databases have been successfully checked.
+2024-09-26 14:18:57.412 | INFO     | __main__:main:119 - Checking dependencies.
+2024-09-26 14:18:58.917 | INFO     | input_commands:check_dependencies:379 - Phanotate version found is v1.5.1
+2024-09-26 14:18:58.922 | INFO     | input_commands:check_dependencies:388 - Phanotate version is ok.
+2024-09-26 14:18:59.028 | INFO     | input_commands:check_dependencies:410 - MMseqs2 version found is v13.45111
+2024-09-26 14:18:59.033 | INFO     | input_commands:check_dependencies:419 - MMseqs2 version is ok.
+2024-09-26 14:18:59.562 | INFO     | input_commands:check_dependencies:443 - tRNAscan-SE version found is v2.0.12
+2024-09-26 14:18:59.566 | INFO     | input_commands:check_dependencies:454 - tRNAscan-SE version is ok.
+2024-09-26 14:19:00.087 | INFO     | input_commands:check_dependencies:478 - MinCED version found is v0.4.2
+2024-09-26 14:19:00.092 | INFO     | input_commands:check_dependencies:489 - MinCED version is ok.
+2024-09-26 14:19:00.124 | INFO     | input_commands:check_dependencies:515 - ARAGORN version found is v1.2.41
+2024-09-26 14:19:00.129 | INFO     | input_commands:check_dependencies:526 - ARAGORN version is ok.
+2024-09-26 14:19:00.264 | INFO     | input_commands:check_dependencies:543 - mash version found is v2.3
+2024-09-26 14:19:00.269 | INFO     | input_commands:check_dependencies:550 - mash version is ok.
+2024-09-26 14:19:06.553 | INFO     | input_commands:check_dependencies:569 - Dnaapler version found is v0.7.0
+2024-09-26 14:19:06.557 | INFO     | input_commands:check_dependencies:576 - Dnaapler version is ok.
+2024-09-26 14:19:06.561 | INFO     | input_commands:check_dependencies:588 - Pyrodigal version is v3.3.0
+2024-09-26 14:19:06.566 | INFO     | input_commands:check_dependencies:589 - Pyrodigal version is ok.
+2024-09-26 14:19:06.572 | INFO     | input_commands:check_dependencies:601 - Pyrodigal_gv version is v0.3.1
+2024-09-26 14:19:06.577 | INFO     | input_commands:check_dependencies:602 - Pyrodigal_gv version is ok.
+2024-09-26 14:19:06.698 | INFO     | input_commands:validate_fasta:230 - Checking input 3_Project/3.0_select_contigs/select_contigs_30.fasta.
+2024-09-26 14:19:06.703 | INFO     | input_commands:validate_fasta:232 - Input 3_Project/3.0_select_contigs/select_contigs_30.fasta is in FASTA format.
+2024-09-26 14:19:06.709 | INFO     | input_commands:validate_fasta:237 - Checking input 3_Project/3.0_select_contigs/select_contigs_30.fasta for duplicate FASTA headers.
+2024-09-26 14:19:06.716 | INFO     | input_commands:validate_fasta:239 - All headers in 3_Project/3.0_select_contigs/select_contigs_30.fasta are unique.
+2024-09-26 14:19:06.721 | INFO     | input_commands:validate_gene_predictor:264 - Phanotate will be used for gene prediction.
+2024-09-26 14:19:06.726 | INFO     | __main__:main:238 - You have specified --meta_hmm and -m/--meta to run PyHMMER as well as MMseqs2 in meta mode. This may be take a while, please be patient.
+2024-09-26 14:19:06.735 | ERROR    | input_commands:validate_meta:289 - ERROR: -m meta mode specified when the input file only contains 1 contig. Please re-run without specifying -m.

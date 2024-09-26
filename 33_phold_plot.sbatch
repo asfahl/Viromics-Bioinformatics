@@ -9,7 +9,7 @@
 #SBATCH --error 3_Project/3.2_subsampled_phold/20_phold_plot/phold_%j_1.err
 
 # define directories
-indir=3_Project/3.2_subsampled_phold/10_phold_on_pharoka
+indir=3_Project/3.2_subsampled_phold/10_phold_on_pharokka
 outdir=3_Project/3.2_subsampled_phold/20_phold_plot
 
 ## load gpu module

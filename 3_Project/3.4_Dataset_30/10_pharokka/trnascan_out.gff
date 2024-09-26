@@ -1,0 +1,14 @@
+##gff-version 3
+contig_58	tRNAscan-SE	tRNA	8375	8448	55.2	-	.	ID=contig_58.trna1;Name=contig_58.tRNA1-ArgTCT;isotype=Arg;anticodon=TCT;gene_biotype=tRNA;
+contig_58	tRNAscan-SE	exon	8375	8448	.	-	.	ID=contig_58.trna1.exon1;Parent=contig_58.trna1;
+##gff-version 3
+contig_1131	tRNAscan-SE	tRNA	3978	4063	58.6	+	.	ID=contig_1131.trna1;Name=contig_1131.tRNA1-LeuTAA;isotype=Leu;anticodon=TAA;gene_biotype=tRNA;
+contig_1131	tRNAscan-SE	exon	3978	4063	.	+	.	ID=contig_1131.trna1.exon1;Parent=contig_1131.trna1;
+contig_1131	tRNAscan-SE	tRNA	4068	4142	80.7	+	.	ID=contig_1131.trna2;Name=contig_1131.tRNA2-MetCAT;isotype=Met;anticodon=CAT;gene_biotype=tRNA;
+contig_1131	tRNAscan-SE	exon	4068	4142	.	+	.	ID=contig_1131.trna2.exon1;Parent=contig_1131.trna2;
+##gff-version 3
+contig_669	tRNAscan-SE	tRNA	16661	16735	54.9	+	.	ID=contig_669.trna1;Name=contig_669.tRNA1-MetCAT;isotype=Met;anticodon=CAT;gene_biotype=tRNA;
+contig_669	tRNAscan-SE	exon	16661	16735	.	+	.	ID=contig_669.trna1.exon1;Parent=contig_669.trna1;
+##gff-version 3
+contig_1545	tRNAscan-SE	pseudogene	28488	28566	19.4	+	.	ID=contig_1545.trna1;Name=contig_1545.tRNA1-UndetNNN;isotype=Undet;anticodon=NNN;gene_biotype=pseudogene;
+contig_1545	tRNAscan-SE	exon	28488	28566	.	+	.	ID=contig_1545.trna1.exon1;Parent=contig_1545.trna1;

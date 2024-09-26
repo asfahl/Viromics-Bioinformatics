@@ -1,0 +1,10 @@
+tsv2db 3_Project/3.4_Dataset_30/20_phold_pharokka/foldseek_db/header.tsv 3_Project/3.4_Dataset_30/20_phold_pharokka/foldseek_db/phold_h --output-dbtype 12 
+
+MMseqs Version:           	9.427df8a
+Output database type      	12
+Compressed                	0
+Verbosity                 	3
+
+Output database type: Generic
+Time for merging to phold_h: 0h 0m 0s 11ms
+Time for processing: 0h 0m 0s 34ms
