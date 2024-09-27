@@ -94,7 +94,7 @@ MPI runner
 Force restart with latest tmp          	false
 Remove temporary files                 	false
 
-prefilter /work/groups/VEO/databases/pharokka/v1.7.1/vfdb 3_Project/3.4_Dataset_30/10_pharokka/VFDB_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/VFDB_dir//9154858253010734915/pref_0 --sub-mat nucl:nucleotide.out,aa:blosum62.out --seed-sub-mat nucl:nucleotide.out,aa:VTML80.out -k 0 --k-score 2147483647 --alph-size nucl:5,aa:21 --max-seq-len 65535 --max-seqs 300 --split 0 --split-mode 2 --split-memory-limit 0 -c 0.4 --cov-mode 0 --comp-bias-corr 1 --diag-score 1 --exact-kmer-matching 0 --mask 1 --mask-lower-case 0 --min-ungapped-score 15 --add-self-matches 0 --spaced-kmer-mode 1 --db-load-mode 0 --pca 1 --pcb 1.5 --threads 10 --compressed 0 -v 3 -s 8.5 
+prefilter /work/groups/VEO/databases/pharokka/v1.7.1/vfdb 3_Project/3.4_Dataset_30/10_pharokka/VFDB_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/VFDB_dir//16052185366010619737/pref_0 --sub-mat nucl:nucleotide.out,aa:blosum62.out --seed-sub-mat nucl:nucleotide.out,aa:VTML80.out -k 0 --k-score 2147483647 --alph-size nucl:5,aa:21 --max-seq-len 65535 --max-seqs 300 --split 0 --split-mode 2 --split-memory-limit 0 -c 0.4 --cov-mode 0 --comp-bias-corr 1 --diag-score 1 --exact-kmer-matching 0 --mask 1 --mask-lower-case 0 --min-ungapped-score 15 --add-self-matches 0 --spaced-kmer-mode 1 --db-load-mode 0 --pca 1 --pcb 1.5 --threads 10 --compressed 0 -v 3 -s 8.5 
 
 Query database size: 7015 type: Aminoacid
 Estimated memory consumption: 982M
@@ -104,7 +104,7 @@ Index table: counting k-mers
 [=================================================================] 4.03K 0s 32ms
 Index table: Masked residues: 2999
 Index table: fill
-[=================================================================] 4.03K 0s 16ms
+[=================================================================] 4.03K 0s 20ms
 Index statistics
 Entries:          345656
 DB size:          490 MB
@@ -120,14 +120,14 @@ Top 10 k-mers
     NKGVVD	4
     PRSRAG	4
     KVQAAK	4
-Time for index table init: 0h 0m 0s 358ms
+Time for index table init: 0h 0m 0s 413ms
 Process prefiltering step 1 of 1
 
 k-mer similarity threshold: 87
 Starting prefiltering scores calculation (step 1 of 1)
 Query db start 1 to 7015
 Target db start 1 to 4025
-[=================================================================] 7.01K 27s 249ms
+[=================================================================] 7.01K 35s 415ms
 
 3154.686562 k-mers per position
 8549 DB matches per sequence
@@ -136,17 +136,17 @@ Target db start 1 to 4025
 145 sequences passed prefiltering per query sequence
 130 median result list length
 6 sequences with 0 size result lists
-Time for merging to pref_0: 0h 0m 0s 55ms
-Time for processing: 0h 0m 28s 231ms
-align /work/groups/VEO/databases/pharokka/v1.7.1/vfdb 3_Project/3.4_Dataset_30/10_pharokka/VFDB_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/VFDB_dir//9154858253010734915/pref_0 3_Project/3.4_Dataset_30/10_pharokka/VFDB/results_mmseqs --sub-mat nucl:nucleotide.out,aa:blosum62.out -a 0 --alignment-mode 2 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0.8 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0.4 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca 1 --pcb 1.5 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --gap-open nucl:5,aa:11 --gap-extend nucl:2,aa:1 --zdrop 40 --threads 10 --compressed 0 -v 3 
+Time for merging to pref_0: 0h 0m 0s 21ms
+Time for processing: 0h 0m 36s 473ms
+align /work/groups/VEO/databases/pharokka/v1.7.1/vfdb 3_Project/3.4_Dataset_30/10_pharokka/VFDB_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/VFDB_dir//16052185366010619737/pref_0 3_Project/3.4_Dataset_30/10_pharokka/VFDB/results_mmseqs --sub-mat nucl:nucleotide.out,aa:blosum62.out -a 0 --alignment-mode 2 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0.8 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0.4 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca 1 --pcb 1.5 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --gap-open nucl:5,aa:11 --gap-extend nucl:2,aa:1 --zdrop 40 --threads 10 --compressed 0 -v 3 
 
 Compute score and coverage
 Query database size: 7015 type: Aminoacid
 Target database size: 4025 type: Aminoacid
 Calculation of alignments
-[=================================================================] 7.01K 1s 224ms
-Time for merging to results_mmseqs: 0h 0m 0s 50ms
+[=================================================================] 7.01K 1s 412ms
+Time for merging to results_mmseqs: 0h 0m 0s 31ms
 354340 alignments calculated
 0 sequence pairs passed the thresholds (0.000000 of overall calculated)
 0.000000 hits per query sequence
-Time for processing: 0h 0m 1s 367ms
+Time for processing: 0h 0m 1s 533ms

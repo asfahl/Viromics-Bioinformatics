@@ -10,5 +10,5 @@ Threads                         	10
 Compressed                      	0
 Verbosity                       	3
 
-Time for merging to vfdb_results.tsv: 0h 0m 0s 60ms
-Time for processing: 0h 0m 0s 178ms
+Time for merging to vfdb_results.tsv: 0h 0m 0s 24ms
+Time for processing: 0h 0m 0s 167ms

@@ -2,14 +2,14 @@ Description	Count	Contig
 CDS	35	contig_103
 connector	3	contig_103
 DNA, RNA and nucleotide metabolism	3	contig_103
-head and packaging	6	contig_103
+head and packaging	7	contig_103
 integration and excision	0	contig_103
 lysis	0	contig_103
 moron, auxiliary metabolic gene and host takeover	0	contig_103
 other	0	contig_103
 tail	2	contig_103
 transcription regulation	0	contig_103
-unknown function	21	contig_103
+unknown function	20	contig_103
 VFDB_Virulence_Factors	0	contig_103
 CARD_AMR	0	contig_103
 ACR_anti_crispr	0	contig_103
@@ -111,6 +111,22 @@ CARD_AMR	0	contig_1160
 ACR_anti_crispr	0	contig_1160
 Defensefinder	0	contig_1160
 Netflax	0	contig_1160
+CDS	122	contig_1169
+connector	0	contig_1169
+DNA, RNA and nucleotide metabolism	5	contig_1169
+head and packaging	2	contig_1169
+integration and excision	0	contig_1169
+lysis	3	contig_1169
+moron, auxiliary metabolic gene and host takeover	0	contig_1169
+other	0	contig_1169
+tail	2	contig_1169
+transcription regulation	0	contig_1169
+unknown function	110	contig_1169
+VFDB_Virulence_Factors	0	contig_1169
+CARD_AMR	0	contig_1169
+ACR_anti_crispr	0	contig_1169
+Defensefinder	0	contig_1169
+Netflax	0	contig_1169
 CDS	127	contig_1170
 connector	0	contig_1170
 DNA, RNA and nucleotide metabolism	10	contig_1170
@@ -223,6 +239,38 @@ CARD_AMR	0	contig_1460
 ACR_anti_crispr	0	contig_1460
 Defensefinder	0	contig_1460
 Netflax	0	contig_1460
+CDS	106	contig_1545
+connector	2	contig_1545
+DNA, RNA and nucleotide metabolism	12	contig_1545
+head and packaging	4	contig_1545
+integration and excision	0	contig_1545
+lysis	0	contig_1545
+moron, auxiliary metabolic gene and host takeover	1	contig_1545
+other	1	contig_1545
+tail	0	contig_1545
+transcription regulation	2	contig_1545
+unknown function	84	contig_1545
+VFDB_Virulence_Factors	0	contig_1545
+CARD_AMR	0	contig_1545
+ACR_anti_crispr	0	contig_1545
+Defensefinder	0	contig_1545
+Netflax	0	contig_1545
+CDS	98	contig_1547
+connector	0	contig_1547
+DNA, RNA and nucleotide metabolism	13	contig_1547
+head and packaging	9	contig_1547
+integration and excision	1	contig_1547
+lysis	1	contig_1547
+moron, auxiliary metabolic gene and host takeover	0	contig_1547
+other	6	contig_1547
+tail	1	contig_1547
+transcription regulation	0	contig_1547
+unknown function	67	contig_1547
+VFDB_Virulence_Factors	0	contig_1547
+CARD_AMR	0	contig_1547
+ACR_anti_crispr	0	contig_1547
+Defensefinder	0	contig_1547
+Netflax	0	contig_1547
 CDS	66	contig_1552
 connector	0	contig_1552
 DNA, RNA and nucleotide metabolism	5	contig_1552
@@ -287,6 +335,22 @@ CARD_AMR	0	contig_200
 ACR_anti_crispr	0	contig_200
 Defensefinder	0	contig_200
 Netflax	0	contig_200
+CDS	134	contig_256
+connector	0	contig_256
+DNA, RNA and nucleotide metabolism	7	contig_256
+head and packaging	2	contig_256
+integration and excision	0	contig_256
+lysis	0	contig_256
+moron, auxiliary metabolic gene and host takeover	0	contig_256
+other	0	contig_256
+tail	1	contig_256
+transcription regulation	1	contig_256
+unknown function	123	contig_256
+VFDB_Virulence_Factors	0	contig_256
+CARD_AMR	0	contig_256
+ACR_anti_crispr	0	contig_256
+Defensefinder	0	contig_256
+Netflax	0	contig_256
 CDS	284	contig_267
 connector	1	contig_267
 DNA, RNA and nucleotide metabolism	9	contig_267
@@ -351,6 +415,22 @@ CARD_AMR	0	contig_644
 ACR_anti_crispr	0	contig_644
 Defensefinder	0	contig_644
 Netflax	0	contig_644
+CDS	95	contig_669
+connector	0	contig_669
+DNA, RNA and nucleotide metabolism	0	contig_669
+head and packaging	4	contig_669
+integration and excision	0	contig_669
+lysis	0	contig_669
+moron, auxiliary metabolic gene and host takeover	1	contig_669
+other	4	contig_669
+tail	1	contig_669
+transcription regulation	0	contig_669
+unknown function	85	contig_669
+VFDB_Virulence_Factors	0	contig_669
+CARD_AMR	0	contig_669
+ACR_anti_crispr	0	contig_669
+Defensefinder	0	contig_669
+Netflax	0	contig_669
 CDS	163	contig_815
 connector	2	contig_815
 DNA, RNA and nucleotide metabolism	14	contig_815

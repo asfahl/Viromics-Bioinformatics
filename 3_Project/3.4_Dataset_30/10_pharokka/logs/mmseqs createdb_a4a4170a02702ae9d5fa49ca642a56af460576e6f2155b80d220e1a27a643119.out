@@ -11,7 +11,7 @@ Verbosity             	3
 
 Converting sequences
 [
-Time for merging to target_seqs_h: 0h 0m 0s 194ms
-Time for merging to target_seqs: 0h 0m 0s 191ms
+Time for merging to target_seqs_h: 0h 0m 0s 56ms
+Time for merging to target_seqs: 0h 0m 0s 57ms
 Database type: Aminoacid
-Time for processing: 0h 0m 0s 666ms
+Time for processing: 0h 0m 0s 238ms

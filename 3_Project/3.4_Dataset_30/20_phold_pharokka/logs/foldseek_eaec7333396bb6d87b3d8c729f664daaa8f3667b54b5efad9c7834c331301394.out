@@ -57,17 +57,17 @@ MPI runner
 Force restart with latest tmp	false
 Cluster search               	1
 
-prefilter 3_Project/3.4_Dataset_30/20_phold_pharokka/foldseek_db/phold_ss /veodata/01/databases/phold/v240724/all_phold_structures_clustered_searchDB_ss 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/7496206412176290670/pref --sub-mat 'aa:3di.out,nucl:3di.out' --seed-sub-mat 'aa:3di.out,nucl:3di.out' -s 9.5 -k 0 --target-search-mode 0 --k-score seq:2147483647,prof:2147483647 --alph-size aa:21,nucl:5 --max-seq-len 65535 --max-seqs 10000 --split 0 --split-mode 2 --split-memory-limit 0 -c 0 --cov-mode 0 --comp-bias-corr 1 --comp-bias-corr-scale 0.15 --diag-score 1 --exact-kmer-matching 0 --mask 0 --mask-prob 0.99995 --mask-lower-case 1 --min-ungapped-score 30 --add-self-matches 0 --spaced-kmer-mode 1 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --threads 96 --compressed 0 -v 3 
+prefilter 3_Project/3.4_Dataset_30/20_phold_pharokka/foldseek_db/phold_ss /veodata/01/databases/phold/v240724/all_phold_structures_clustered_searchDB_ss 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/15433761104517647407/pref --sub-mat 'aa:3di.out,nucl:3di.out' --seed-sub-mat 'aa:3di.out,nucl:3di.out' -s 9.5 -k 0 --target-search-mode 0 --k-score seq:2147483647,prof:2147483647 --alph-size aa:21,nucl:5 --max-seq-len 65535 --max-seqs 10000 --split 0 --split-mode 2 --split-memory-limit 0 -c 0 --cov-mode 0 --comp-bias-corr 1 --comp-bias-corr-scale 0.15 --diag-score 1 --exact-kmer-matching 0 --mask 0 --mask-prob 0.99995 --mask-lower-case 1 --min-ungapped-score 30 --add-self-matches 0 --spaced-kmer-mode 1 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --threads 96 --compressed 0 -v 3 
 
-Query database size: 3470 type: Aminoacid
+Query database size: 4025 type: Aminoacid
 Estimated memory consumption: 3G
 Target database size: 372645 type: Aminoacid
 Index table k-mer threshold: 78 at k-mer size 6 
 Index table: counting k-mers
-[=================================================================] 372.64K 0s 315ms
+[=================================================================] 372.64K 0s 332ms
 Index table: Masked residues: 0
 Index table: fill
-[=================================================================] 372.64K 0s 893ms
+[=================================================================] 372.64K 1s 113ms
 Index statistics
 Entries:          91326864
 DB size:          1010 MB
@@ -83,53 +83,53 @@ Top 10 k-mers
     DDVVVV	77979
     PPVVVV	77605
     CVVVVV	75319
-Time for index table init: 0h 0m 2s 651ms
+Time for index table init: 0h 0m 2s 910ms
 Process prefiltering step 1 of 1
 
 k-mer similarity threshold: 78
 Starting prefiltering scores calculation (step 1 of 1)
-Query db start 1 to 3470
+Query db start 1 to 4025
 Target db start 1 to 372645
-[=================================================================] 3.47K 10s 143ms
+[=================================================================] 4.03K 12s 357ms
 
-1217.440708 k-mers per position
-4438919 DB matches per sequence
-1710 overflows
-8072 sequences passed prefiltering per query sequence
+1173.006609 k-mers per position
+4333148 DB matches per sequence
+1961 overflows
+8045 sequences passed prefiltering per query sequence
 10000 median result list length
-336 sequences with 0 size result lists
-Time for merging to pref: 0h 0m 0s 348ms
-Time for processing: 0h 0m 16s 907ms
-structurealign 3_Project/3.4_Dataset_30/20_phold_pharokka/foldseek_db/phold /veodata/01/databases/phold/v240724/all_phold_structures_clustered_searchDB 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/7496206412176290670/pref 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/7496206412176290670/strualn --tmscore-threshold 0 --lddt-threshold 0 --sort-by-structure-bits 1 --alignment-type 2 --exact-tmscore 0 --sub-mat 'aa:3di.out,nucl:3di.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --comp-bias-corr-scale 0.5 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:10,nucl:10 --gap-extend aa:1,nucl:1 --zdrop 40 --threads 96 --compressed 0 -v 3 
+389 sequences with 0 size result lists
+Time for merging to pref: 0h 0m 0s 131ms
+Time for processing: 0h 0m 18s 893ms
+structurealign 3_Project/3.4_Dataset_30/20_phold_pharokka/foldseek_db/phold /veodata/01/databases/phold/v240724/all_phold_structures_clustered_searchDB 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/15433761104517647407/pref 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/15433761104517647407/strualn --tmscore-threshold 0 --lddt-threshold 0 --sort-by-structure-bits 1 --alignment-type 2 --exact-tmscore 0 --sub-mat 'aa:3di.out,nucl:3di.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --comp-bias-corr-scale 0.5 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:10,nucl:10 --gap-extend aa:1,nucl:1 --zdrop 40 --threads 96 --compressed 0 -v 3 
 
 Cannot find phold C-alpha or all_phold_structures_clustered_searchDB C-alpha database
 Disabling --sort-by-structure-bits
 This impacts the final score and ranking of hits, but not E-values themselves. Ranking alterations primarily occur for E-values < 10^-1.
-[=================================================================] 3.47K 36s 18ms
-Time for merging to strualn: 0h 0m 0s 348ms
-Time for processing: 0h 0m 39s 917ms
-mergeresultsbyset 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/7496206412176290670/strualn /veodata/01/databases/phold/v240724/all_phold_structures_clustered_searchDB 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/7496206412176290670/strualn_expanded --db-load-mode 0 --threads 96 --compressed 0 -v 3 
+[=================================================================] 4.03K 43s 467ms
+Time for merging to strualn: 0h 0m 0s 245ms
+Time for processing: 0h 0m 46s 968ms
+mergeresultsbyset 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/15433761104517647407/strualn /veodata/01/databases/phold/v240724/all_phold_structures_clustered_searchDB 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/15433761104517647407/strualn_expanded --db-load-mode 0 --threads 96 --compressed 0 -v 3 
 
-Time for merging to strualn_expanded: 0h 0m 0s 305ms
-Time for processing: 0h 0m 1s 146ms
-setextendeddbtype 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/7496206412176290670/strualn_expanded --extended-dbtype 2 
+Time for merging to strualn_expanded: 0h 0m 0s 239ms
+Time for processing: 0h 0m 0s 953ms
+setextendeddbtype 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/15433761104517647407/strualn_expanded --extended-dbtype 2 
 
 Time for processing: 0h 0m 0s 11ms
-structurealign 3_Project/3.4_Dataset_30/20_phold_pharokka/foldseek_db/phold /veodata/01/databases/phold/v240724/all_phold_structures_clustered_searchDB 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/7496206412176290670/strualn_expanded 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/7496206412176290670/aln --tmscore-threshold 0 --lddt-threshold 0 --sort-by-structure-bits 1 --alignment-type 2 --exact-tmscore 0 --sub-mat 'aa:3di.out,nucl:3di.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --comp-bias-corr-scale 0.5 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:10,nucl:10 --gap-extend aa:1,nucl:1 --zdrop 40 --threads 96 --compressed 0 -v 3 
+structurealign 3_Project/3.4_Dataset_30/20_phold_pharokka/foldseek_db/phold /veodata/01/databases/phold/v240724/all_phold_structures_clustered_searchDB 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/15433761104517647407/strualn_expanded 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/15433761104517647407/aln --tmscore-threshold 0 --lddt-threshold 0 --sort-by-structure-bits 1 --alignment-type 2 --exact-tmscore 0 --sub-mat 'aa:3di.out,nucl:3di.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --comp-bias-corr-scale 0.5 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:10,nucl:10 --gap-extend aa:1,nucl:1 --zdrop 40 --threads 96 --compressed 0 -v 3 
 
 Cannot find phold C-alpha or all_phold_structures_clustered_searchDB C-alpha database
 Disabling --sort-by-structure-bits
 This impacts the final score and ranking of hits, but not E-values themselves. Ranking alterations primarily occur for E-values < 10^-1.
-[=================================================================] 3.47K 6s 782ms
-Time for merging to aln: 0h 0m 0s 334ms
-Time for processing: 0h 0m 24s 226ms
-mvdb 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/7496206412176290670/aln 3_Project/3.4_Dataset_30/20_phold_pharokka/result_db/result_db -v 3 
+[=================================================================] 4.03K 8s 472ms
+Time for merging to aln: 0h 0m 0s 311ms
+Time for processing: 0h 0m 29s 252ms
+mvdb 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/15433761104517647407/aln 3_Project/3.4_Dataset_30/20_phold_pharokka/result_db/result_db -v 3 
 
-Time for processing: 0h 0m 0s 121ms
+Time for processing: 0h 0m 0s 134ms
 Removing temporary files
-rmdb 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/7496206412176290670/strualn_expanded -v 3 
+rmdb 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/15433761104517647407/strualn_expanded -v 3 
 
-Time for processing: 0h 0m 0s 29ms
-rmdb 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/7496206412176290670/pref -v 3 
+Time for processing: 0h 0m 0s 60ms
+rmdb 3_Project/3.4_Dataset_30/20_phold_pharokka/temp_db/15433761104517647407/pref -v 3 
 
-Time for processing: 0h 0m 0s 126ms
+Time for processing: 0h 0m 0s 131ms

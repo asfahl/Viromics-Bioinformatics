@@ -9,7 +9,7 @@
 #SBATCH --error 3_Project/3.4_Dataset_30/20_phold_pharokka/phold_%j_1.err
 
 # define directories
-indir=3_Project/3.0_select_contigs
+indir=3_Project/3.4_Dataset_30/10_pharokka
 outdir=3_Project/3.4_Dataset_30/20_phold_pharokka
 
 ## load gpu module
@@ -21,4 +21,4 @@ source /vast/groups/VEO/tools/miniconda3_2024/etc/profile.d/conda.sh
 conda activate pholdENV_v0.2.0_gpu
 
 # replace phold predict and compare with phold run to do both for better optimisation on cpu
-phold run -d /veodata/01/databases/phold/v240724/ -i $indir/select_contigs_30.gbk -o $outdir -t 96 --cpu -f
+phold run -d /veodata/01/databases/phold/v240724/ -i $indir/pharokka.gbk -o $outdir -t 96 --cpu -f

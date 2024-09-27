@@ -1,0 +1,88 @@
+2024-09-27 12:58:23.922 | INFO     | __main__:main:95 - Starting Pharokka v1.7.1
+2024-09-27 12:58:23.924 | INFO     | __main__:main:96 - Command executed: Namespace(infile='3_Project/3.0_select_contigs/select_contigs_30.fasta', outdir='3_Project/3.4_Dataset_30/10_pharokka', database='/work/groups/VEO/databases/pharokka/v1.7.1/', threads='10', force=True, prefix='Default', locustag='Default', gene_predictor='phanotate', meta=True, split=False, coding_table='11', evalue='1E-05', fast=False, mmseqs2_only=False, meta_hmm=True, dnaapler=False, custom_hmm='', genbank=False, terminase=False, terminase_strand='nothing', terminase_start='nothing', skip_extra_annotations=False, skip_mash=False, minced_args='', mash_distance=0.2, citation=False)
+2024-09-27 12:58:23.926 | INFO     | __main__:main:97 - Repository homepage is https://github.com/gbouras13/pharokka
+2024-09-27 12:58:23.927 | INFO     | __main__:main:98 - Written by George Bouras: george.bouras@adelaide.edu.au
+2024-09-27 12:58:23.929 | INFO     | __main__:main:100 - Checking database installation in /work/groups/VEO/databases/pharokka/v1.7.1/.
+2024-09-27 12:58:23.948 | INFO     | __main__:main:103 - All databases have been successfully checked.
+2024-09-27 12:58:23.949 | INFO     | __main__:main:119 - Checking dependencies.
+2024-09-27 12:58:24.309 | INFO     | input_commands:check_dependencies:379 - Phanotate version found is v1.5.1
+2024-09-27 12:58:24.311 | INFO     | input_commands:check_dependencies:388 - Phanotate version is ok.
+2024-09-27 12:58:24.340 | INFO     | input_commands:check_dependencies:410 - MMseqs2 version found is v13.45111
+2024-09-27 12:58:24.341 | INFO     | input_commands:check_dependencies:419 - MMseqs2 version is ok.
+2024-09-27 12:58:24.524 | INFO     | input_commands:check_dependencies:443 - tRNAscan-SE version found is v2.0.12
+2024-09-27 12:58:24.526 | INFO     | input_commands:check_dependencies:454 - tRNAscan-SE version is ok.
+2024-09-27 12:58:24.832 | INFO     | input_commands:check_dependencies:478 - MinCED version found is v0.4.2
+2024-09-27 12:58:24.833 | INFO     | input_commands:check_dependencies:489 - MinCED version is ok.
+2024-09-27 12:58:24.838 | INFO     | input_commands:check_dependencies:515 - ARAGORN version found is v1.2.41
+2024-09-27 12:58:24.839 | INFO     | input_commands:check_dependencies:526 - ARAGORN version is ok.
+2024-09-27 12:58:24.877 | INFO     | input_commands:check_dependencies:543 - mash version found is v2.3
+2024-09-27 12:58:24.879 | INFO     | input_commands:check_dependencies:550 - mash version is ok.
+2024-09-27 12:58:26.104 | INFO     | input_commands:check_dependencies:569 - Dnaapler version found is v0.7.0
+2024-09-27 12:58:26.107 | INFO     | input_commands:check_dependencies:576 - Dnaapler version is ok.
+2024-09-27 12:58:26.108 | INFO     | input_commands:check_dependencies:588 - Pyrodigal version is v3.3.0
+2024-09-27 12:58:26.109 | INFO     | input_commands:check_dependencies:589 - Pyrodigal version is ok.
+2024-09-27 12:58:26.110 | INFO     | input_commands:check_dependencies:601 - Pyrodigal_gv version is v0.3.1
+2024-09-27 12:58:26.111 | INFO     | input_commands:check_dependencies:602 - Pyrodigal_gv version is ok.
+2024-09-27 12:58:26.139 | INFO     | input_commands:validate_fasta:230 - Checking input 3_Project/3.0_select_contigs/select_contigs_30.fasta.
+2024-09-27 12:58:26.141 | INFO     | input_commands:validate_fasta:232 - Input 3_Project/3.0_select_contigs/select_contigs_30.fasta is in FASTA format.
+2024-09-27 12:58:26.143 | INFO     | input_commands:validate_fasta:237 - Checking input 3_Project/3.0_select_contigs/select_contigs_30.fasta for duplicate FASTA headers.
+2024-09-27 12:58:26.158 | INFO     | input_commands:validate_fasta:239 - All headers in 3_Project/3.0_select_contigs/select_contigs_30.fasta are unique.
+2024-09-27 12:58:26.159 | INFO     | input_commands:validate_gene_predictor:264 - Phanotate will be used for gene prediction.
+2024-09-27 12:58:26.159 | INFO     | __main__:main:238 - You have specified --meta_hmm and -m/--meta to run PyHMMER as well as MMseqs2 in meta mode. This may be take a while, please be patient.
+2024-09-27 12:58:26.166 | INFO     | input_commands:validate_meta:294 - 30 input contigs detected.
+2024-09-27 12:58:26.236 | INFO     | __main__:main:280 - Running Phanotate.
+2024-09-27 12:58:26.238 | INFO     | __main__:main:282 - Applying meta mode.
+2024-09-27 13:00:33.784 | INFO     | __main__:main:305 - Starting tRNA-scanSE. Applying meta mode.
+2024-09-27 13:00:35.707 | INFO     | processes:run_minced:822 - Running MinCED.
+2024-09-27 13:00:35.712 | INFO     | external_tools:run:50 - Started running minced 3_Project/3.0_select_contigs/select_contigs_30.fasta 3_Project/3.4_Dataset_30/10_pharokka/pharokka_minced_spacers.txt 3_Project/3.4_Dataset_30/10_pharokka/pharokka_minced.gff ...
+2024-09-27 13:00:36.333 | INFO     | external_tools:run:52 - Done running minced 3_Project/3.0_select_contigs/select_contigs_30.fasta 3_Project/3.4_Dataset_30/10_pharokka/pharokka_minced_spacers.txt 3_Project/3.4_Dataset_30/10_pharokka/pharokka_minced.gff
+2024-09-27 13:00:36.335 | INFO     | processes:run_aragorn:854 - Running Aragorn.
+2024-09-27 13:00:36.337 | INFO     | external_tools:run:50 - Started running aragorn -l -gcbact -w -m -o 3_Project/3.4_Dataset_30/10_pharokka/pharokka_aragorn.txt 3_Project/3.0_select_contigs/select_contigs_30.fasta ...
+2024-09-27 13:00:36.811 | INFO     | external_tools:run:52 - Done running aragorn -l -gcbact -w -m -o 3_Project/3.4_Dataset_30/10_pharokka/pharokka_aragorn.txt 3_Project/3.0_select_contigs/select_contigs_30.fasta
+2024-09-27 13:00:36.815 | INFO     | __main__:main:317 - Starting MMseqs2.
+2024-09-27 13:00:36.816 | INFO     | processes:run_mmseqs:675 - Running MMseqs2 on PHROG Database.
+2024-09-27 13:00:36.820 | INFO     | external_tools:run:50 - Started running mmseqs createdb 3_Project/3.4_Dataset_30/10_pharokka/phanotate_aas_tmp.fasta 3_Project/3.4_Dataset_30/10_pharokka/target_dir/target_seqs ...
+2024-09-27 13:00:37.407 | INFO     | external_tools:run:52 - Done running mmseqs createdb 3_Project/3.4_Dataset_30/10_pharokka/phanotate_aas_tmp.fasta 3_Project/3.4_Dataset_30/10_pharokka/target_dir/target_seqs
+2024-09-27 13:00:37.412 | INFO     | external_tools:run:50 - Started running mmseqs search -e 1E-05 /work/groups/VEO/databases/pharokka/v1.7.1/phrogs_profile_db 3_Project/3.4_Dataset_30/10_pharokka/target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/mmseqs/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/tmp_dir/ -s 8.5 --threads 10 ...
+2024-09-27 13:03:07.326 | INFO     | external_tools:run:52 - Done running mmseqs search -e 1E-05 /work/groups/VEO/databases/pharokka/v1.7.1/phrogs_profile_db 3_Project/3.4_Dataset_30/10_pharokka/target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/mmseqs/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/tmp_dir/ -s 8.5 --threads 10
+2024-09-27 13:03:07.329 | INFO     | external_tools:run:50 - Started running mmseqs createtsv /work/groups/VEO/databases/pharokka/v1.7.1/phrogs_profile_db 3_Project/3.4_Dataset_30/10_pharokka/target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/mmseqs/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/mmseqs_results.tsv --full-header --threads 10 ...
+2024-09-27 13:03:07.566 | INFO     | external_tools:run:52 - Done running mmseqs createtsv /work/groups/VEO/databases/pharokka/v1.7.1/phrogs_profile_db 3_Project/3.4_Dataset_30/10_pharokka/target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/mmseqs/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/mmseqs_results.tsv --full-header --threads 10
+2024-09-27 13:03:07.570 | INFO     | processes:run_mmseqs:675 - Running MMseqs2 on CARD Database.
+2024-09-27 13:03:07.572 | INFO     | external_tools:run:50 - Started running mmseqs createdb 3_Project/3.4_Dataset_30/10_pharokka/phanotate_aas_tmp.fasta 3_Project/3.4_Dataset_30/10_pharokka/CARD_target_dir/target_seqs ...
+2024-09-27 13:03:07.871 | INFO     | external_tools:run:52 - Done running mmseqs createdb 3_Project/3.4_Dataset_30/10_pharokka/phanotate_aas_tmp.fasta 3_Project/3.4_Dataset_30/10_pharokka/CARD_target_dir/target_seqs
+2024-09-27 13:03:07.876 | INFO     | external_tools:run:50 - Started running mmseqs search --min-seq-id 0.8 -c 0.4 /work/groups/VEO/databases/pharokka/v1.7.1/CARD 3_Project/3.4_Dataset_30/10_pharokka/CARD_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/CARD/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/CARD_dir/ -s 8.5 --threads 10 ...
+2024-09-27 13:03:31.233 | INFO     | external_tools:run:52 - Done running mmseqs search --min-seq-id 0.8 -c 0.4 /work/groups/VEO/databases/pharokka/v1.7.1/CARD 3_Project/3.4_Dataset_30/10_pharokka/CARD_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/CARD/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/CARD_dir/ -s 8.5 --threads 10
+2024-09-27 13:03:31.236 | INFO     | external_tools:run:50 - Started running mmseqs createtsv /work/groups/VEO/databases/pharokka/v1.7.1/CARD 3_Project/3.4_Dataset_30/10_pharokka/CARD_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/CARD/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/CARD_results.tsv --full-header --threads 10 ...
+2024-09-27 13:03:31.362 | INFO     | external_tools:run:52 - Done running mmseqs createtsv /work/groups/VEO/databases/pharokka/v1.7.1/CARD 3_Project/3.4_Dataset_30/10_pharokka/CARD_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/CARD/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/CARD_results.tsv --full-header --threads 10
+2024-09-27 13:03:31.367 | INFO     | processes:run_mmseqs:675 - Running MMseqs2 on VFDB Database.
+2024-09-27 13:03:31.370 | INFO     | external_tools:run:50 - Started running mmseqs createdb 3_Project/3.4_Dataset_30/10_pharokka/phanotate_aas_tmp.fasta 3_Project/3.4_Dataset_30/10_pharokka/VFDB_target_dir/target_seqs ...
+2024-09-27 13:03:31.640 | INFO     | external_tools:run:52 - Done running mmseqs createdb 3_Project/3.4_Dataset_30/10_pharokka/phanotate_aas_tmp.fasta 3_Project/3.4_Dataset_30/10_pharokka/VFDB_target_dir/target_seqs
+2024-09-27 13:03:31.645 | INFO     | external_tools:run:50 - Started running mmseqs search --min-seq-id 0.8 -c 0.4 /work/groups/VEO/databases/pharokka/v1.7.1/vfdb 3_Project/3.4_Dataset_30/10_pharokka/VFDB_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/VFDB/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/VFDB_dir/ -s 8.5 --threads 10 ...
+2024-09-27 13:04:09.791 | INFO     | external_tools:run:52 - Done running mmseqs search --min-seq-id 0.8 -c 0.4 /work/groups/VEO/databases/pharokka/v1.7.1/vfdb 3_Project/3.4_Dataset_30/10_pharokka/VFDB_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/VFDB/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/VFDB_dir/ -s 8.5 --threads 10
+2024-09-27 13:04:09.796 | INFO     | external_tools:run:50 - Started running mmseqs createtsv /work/groups/VEO/databases/pharokka/v1.7.1/vfdb 3_Project/3.4_Dataset_30/10_pharokka/VFDB_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/VFDB/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/vfdb_results.tsv --full-header --threads 10 ...
+2024-09-27 13:04:10.005 | INFO     | external_tools:run:52 - Done running mmseqs createtsv /work/groups/VEO/databases/pharokka/v1.7.1/vfdb 3_Project/3.4_Dataset_30/10_pharokka/VFDB_target_dir/target_seqs 3_Project/3.4_Dataset_30/10_pharokka/VFDB/results_mmseqs 3_Project/3.4_Dataset_30/10_pharokka/vfdb_results.tsv --full-header --threads 10
+2024-09-27 13:04:10.010 | INFO     | __main__:main:348 - Running PyHMMER on PHROGs.
+2024-09-27 13:05:47.300 | INFO     | __main__:main:364 - Post Processing Output.
+2024-09-27 13:05:47.583 | INFO     | post_processing:create_mmseqs_tophits:2146 - Processing MMseqs2 outputs.
+2024-09-27 13:05:47.584 | INFO     | post_processing:create_mmseqs_tophits:2147 - Processing PHROGs output.
+2024-09-27 13:05:48.471 | INFO     | post_processing:process_vfdb_results:2351 - Processing VFDB output.
+2024-09-27 13:05:48.487 | INFO     | post_processing:process_vfdb_results:2437 - 0 VFDB virulence factors identified.
+2024-09-27 13:05:48.490 | INFO     | post_processing:process_card_results:2455 - Processing CARD output.
+2024-09-27 13:05:48.500 | INFO     | post_processing:process_card_results:2578 - 0 CARD AMR genes identified.
+2024-09-27 13:05:49.271 | INFO     | __main__:main:435 - Converting gff to genbank.
+2024-09-27 13:05:49.879 | INFO     | post_processing:extract_terl:1982 - Terminase large subunit found.
+2024-09-27 13:05:49.881 | INFO     | post_processing:extract_terl:1985 - More than one CDS annotated as terminase large subunit found. 
+Saving all.
+2024-09-27 13:05:50.069 | INFO     | __main__:main:453 - Finding the closest match for each contig in INPHARED using mash.
+2024-09-27 13:05:50.070 | INFO     | external_tools:run:50 - Started running mash sketch 3_Project/3.0_select_contigs/select_contigs_30.fasta -o 3_Project/3.4_Dataset_30/10_pharokka/input_mash_sketch.msh -i ...
+2024-09-27 13:05:50.237 | INFO     | external_tools:run:52 - Done running mash sketch 3_Project/3.0_select_contigs/select_contigs_30.fasta -o 3_Project/3.4_Dataset_30/10_pharokka/input_mash_sketch.msh -i
+2024-09-27 13:05:50.239 | INFO     | external_tools:run_to_stdout:59 - Started running mash dist 3_Project/3.4_Dataset_30/10_pharokka/input_mash_sketch.msh /work/groups/VEO/databases/pharokka/v1.7.1/1Aug2023_genomes.fa.msh -d 0.2 -i ...
+2024-09-27 13:06:00.119 | INFO     | external_tools:run_to_stdout:61 - Done running mash dist 3_Project/3.4_Dataset_30/10_pharokka/input_mash_sketch.msh /work/groups/VEO/databases/pharokka/v1.7.1/1Aug2023_genomes.fa.msh -d 0.2 -i
+2024-09-27 13:06:00.543 | INFO     | __main__:main:473 - Pharokka has finished.
+2024-09-27 13:06:00.544 | INFO     | __main__:main:474 - Elapsed time: 456.63 seconds
+2024-09-27 13:06:00.545 | INFO     | __main__:main:476 - If you use Pharokka in your research, please cite:
+2024-09-27 13:06:00.546 | INFO     | __main__:main:477 - George Bouras, Roshan Nepal, Ghais Houtak, Alkis James Psaltis, Peter-John Wormald, Sarah Vreugde.
+2024-09-27 13:06:00.546 | INFO     | __main__:main:480 - Pharokka: a fast scalable bacteriophage annotation tool.
+2024-09-27 13:06:00.547 | INFO     | __main__:main:481 - Bioinformatics, Volume 39, Issue 1, January 2023, btac776.
+2024-09-27 13:06:00.548 | INFO     | __main__:main:482 - https://doi.org/10.1093/bioinformatics/btac776.
+2024-09-27 13:06:00.549 | INFO     | __main__:main:483 - You should also cite the full list of tools Pharokka uses, which can be found at https://github.com/gbouras13/pharokka#citation.

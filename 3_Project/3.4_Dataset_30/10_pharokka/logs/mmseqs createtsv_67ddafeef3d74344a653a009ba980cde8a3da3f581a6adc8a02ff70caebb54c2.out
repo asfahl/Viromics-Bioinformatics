@@ -10,5 +10,5 @@ Threads                         	10
 Compressed                      	0
 Verbosity                       	3
 
-Time for merging to mmseqs_results.tsv: 0h 0m 0s 132ms
-Time for processing: 0h 0m 0s 260ms
+Time for merging to mmseqs_results.tsv: 0h 0m 0s 48ms
+Time for processing: 0h 0m 0s 213ms

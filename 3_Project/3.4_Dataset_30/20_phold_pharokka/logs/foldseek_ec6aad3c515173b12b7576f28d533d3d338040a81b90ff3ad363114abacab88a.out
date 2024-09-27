@@ -10,5 +10,5 @@ Threads                         	96
 Compressed                      	0
 Verbosity                       	3
 
-Time for merging to foldseek_results.tsv: 0h 0m 0s 621ms
-Time for processing: 0h 0m 1s 871ms
+Time for merging to foldseek_results.tsv: 0h 0m 0s 778ms
+Time for processing: 0h 0m 1s 848ms
