@@ -1,6 +1,0 @@
-
-EnvironmentNameNotFound: Could not find conda environment: pholdENV
-You can list all discoverable environments with `conda info --envs`.
-
-
-/var/spool/slurm/d/job2139283/slurm_script: line 22: phold: command not found
